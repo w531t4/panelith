@@ -11934,6 +11934,12 @@
 		(uuid "ca37a521-6023-4886-a4eb-67b368cb1d9f")
 	)
 	(junction
+		(at 187.96 110.49)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ccc77224-1fa1-4ab8-bae2-3a0d875f25cd")
+	)
+	(junction
 		(at 222.25 66.04)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -14267,7 +14273,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 113.03) (xy 187.96 114.3)
+			(xy 187.96 109.22) (xy 187.96 110.49)
 		)
 		(stroke
 			(width 0)
@@ -15534,6 +15540,16 @@
 			(type default)
 		)
 		(uuid "c46f984e-44ce-4c2a-bf81-39526228a25f")
+	)
+	(wire
+		(pts
+			(xy 187.96 110.49) (xy 187.96 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c47618ce-8cc1-4436-9762-35aee0988f00")
 	)
 	(wire
 		(pts
@@ -19095,7 +19111,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 187.96 113.03 0)
+		(at 187.96 109.22 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19103,7 +19119,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000058d67bc6")
 		(property "Reference" "#PWR067"
-			(at 187.96 116.84 0)
+			(at 187.96 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19112,7 +19128,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 187.96 109.474 0)
+			(at 187.96 105.664 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19120,7 +19136,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 187.96 113.03 0)
+			(at 187.96 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19128,7 +19144,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 187.96 113.03 0)
+			(at 187.96 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19136,7 +19152,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 187.96 113.03 0)
+			(at 187.96 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30727,6 +30743,73 @@
 			(project "ulx3s"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d51cad"
 					(reference "#PWR0174")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 187.96 110.49 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1fe86b7a-324e-45e4-bf14-08d29c1a335f")
+		(property "Reference" "#FLG05"
+			(at 186.055 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 182.626 102.362 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 187.96 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 187.96 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 187.96 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "962eac36-be27-4cc6-94c0-70915ba844d2")
+		)
+		(instances
+			(project "ulx3s"
+				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d51cad"
+					(reference "#FLG05")
 					(unit 1)
 				)
 			)
