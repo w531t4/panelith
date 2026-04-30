@@ -109,7 +109,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 17.78 0)
 				(length 5.08)
 				(name "PCLKT0_0"
@@ -127,7 +127,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 15.24 0)
 				(length 5.08)
 				(name "PCLKT0_1"
@@ -145,7 +145,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 12.7 0)
 				(length 5.08)
 				(name "GR_PCLK0_1"
@@ -163,7 +163,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 10.16 0)
 				(length 5.08)
 				(name "PT22A"
@@ -181,7 +181,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 7.62 0)
 				(length 5.08)
 				(name "PT20A"
@@ -199,7 +199,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 5.08 0)
 				(length 5.08)
 				(name "PT18A"
@@ -217,7 +217,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 2.54 0)
 				(length 5.08)
 				(name "PT15A"
@@ -235,7 +235,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 0 0)
 				(length 5.08)
 				(name "PT13A"
@@ -253,7 +253,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -2.54 0)
 				(length 5.08)
 				(name "PT11A"
@@ -271,7 +271,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -5.08 0)
 				(length 5.08)
 				(name "PT9A"
@@ -289,7 +289,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -7.62 0)
 				(length 5.08)
 				(name "PT6A"
@@ -307,7 +307,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -10.16 0)
 				(length 5.08)
 				(name "PT4A"
@@ -325,7 +325,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 17.78 180)
 				(length 5.08)
 				(name "PCLKC0_0"
@@ -343,7 +343,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 15.24 180)
 				(length 5.08)
 				(name "PCLKC0_1"
@@ -361,7 +361,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 12.7 180)
 				(length 5.08)
 				(name "GR_PCLK0_0"
@@ -379,7 +379,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 10.16 180)
 				(length 5.08)
 				(name "PT22B"
@@ -397,7 +397,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 7.62 180)
 				(length 5.08)
 				(name "PT20B"
@@ -415,7 +415,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 5.08 180)
 				(length 5.08)
 				(name "PT18B"
@@ -433,7 +433,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 2.54 180)
 				(length 5.08)
 				(name "PT15B"
@@ -451,7 +451,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 0 180)
 				(length 5.08)
 				(name "PT13B"
@@ -469,7 +469,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -2.54 180)
 				(length 5.08)
 				(name "PT11B"
@@ -487,7 +487,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -5.08 180)
 				(length 5.08)
 				(name "PT9B"
@@ -505,7 +505,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -7.62 180)
 				(length 5.08)
 				(name "PT6B"
@@ -523,7 +523,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -10.16 180)
 				(length 5.08)
 				(name "PT4B"
@@ -586,7 +586,7 @@
 					(type none)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 17.78 0)
 				(length 5.08)
 				(name "PT67A"
@@ -604,7 +604,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 15.24 0)
 				(length 5.08)
 				(name "PT65A"
@@ -622,7 +622,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 12.7 0)
 				(length 5.08)
 				(name "PT62A"
@@ -640,7 +640,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 10.16 0)
 				(length 5.08)
 				(name "PT60A"
@@ -658,7 +658,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 7.62 0)
 				(length 5.08)
 				(name "PT58A"
@@ -676,7 +676,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 5.08 0)
 				(length 5.08)
 				(name "PT56A"
@@ -694,7 +694,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 2.54 0)
 				(length 5.08)
 				(name "PT53A"
@@ -712,7 +712,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 0 0)
 				(length 5.08)
 				(name "PT51A"
@@ -730,7 +730,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -2.54 0)
 				(length 5.08)
 				(name "PT49A"
@@ -748,7 +748,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -5.08 0)
 				(length 5.08)
 				(name "PT47A"
@@ -766,7 +766,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -7.62 0)
 				(length 5.08)
 				(name "PT44A"
@@ -784,7 +784,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -10.16 0)
 				(length 5.08)
 				(name "PT42A"
@@ -802,7 +802,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -12.7 0)
 				(length 5.08)
 				(name "PT40A"
@@ -820,7 +820,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -15.24 0)
 				(length 5.08)
 				(name "GR_PCLK1_0"
@@ -838,7 +838,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -17.78 0)
 				(length 5.08)
 				(name "PCLKT1_0"
@@ -856,7 +856,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -20.32 0)
 				(length 5.08)
 				(name "PCLKT1_1"
@@ -874,7 +874,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 17.78 180)
 				(length 5.08)
 				(name "PT67B"
@@ -892,7 +892,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 15.24 180)
 				(length 5.08)
 				(name "PT65B"
@@ -910,7 +910,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 12.7 180)
 				(length 5.08)
 				(name "PT62B"
@@ -928,7 +928,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 10.16 180)
 				(length 5.08)
 				(name "PT60B"
@@ -946,7 +946,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 7.62 180)
 				(length 5.08)
 				(name "PT58B"
@@ -964,7 +964,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 5.08 180)
 				(length 5.08)
 				(name "PT56B"
@@ -982,7 +982,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 2.54 180)
 				(length 5.08)
 				(name "PT53B"
@@ -1000,7 +1000,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 0 180)
 				(length 5.08)
 				(name "PT51B"
@@ -1018,7 +1018,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -2.54 180)
 				(length 5.08)
 				(name "PT49B"
@@ -1036,7 +1036,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -5.08 180)
 				(length 5.08)
 				(name "PT47B"
@@ -1054,7 +1054,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -7.62 180)
 				(length 5.08)
 				(name "PT44B"
@@ -1072,7 +1072,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -10.16 180)
 				(length 5.08)
 				(name "PT42B"
@@ -1090,7 +1090,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -12.7 180)
 				(length 5.08)
 				(name "PT40B"
@@ -1108,7 +1108,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -15.24 180)
 				(length 5.08)
 				(name "GR_PCLK1_1"
@@ -1126,7 +1126,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -17.78 180)
 				(length 5.08)
 				(name "PCLKC1_0"
@@ -1144,7 +1144,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -20.32 180)
 				(length 5.08)
 				(name "PCLKC1_1"
@@ -1207,7 +1207,7 @@
 					(type none)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 17.78 0)
 				(length 5.08)
 				(name "PCLKT2_0"
@@ -1225,7 +1225,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 15.24 0)
 				(length 5.08)
 				(name "PCLKT2_1"
@@ -1243,7 +1243,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 12.7 0)
 				(length 5.08)
 				(name "GR_PCLK2_0"
@@ -1261,7 +1261,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 10.16 0)
 				(length 5.08)
 				(name "GR_PCLK2_1"
@@ -1279,7 +1279,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 7.62 0)
 				(length 5.08)
 				(name "PR17C"
@@ -1297,7 +1297,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 5.08 0)
 				(length 5.08)
 				(name "PR17A"
@@ -1333,7 +1333,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 0 0)
 				(length 5.08)
 				(name "PR14A"
@@ -1351,7 +1351,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -2.54 0)
 				(length 5.08)
 				(name "PR11C"
@@ -1369,7 +1369,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -5.08 0)
 				(length 5.08)
 				(name "PR11A"
@@ -1387,7 +1387,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -7.62 0)
 				(length 5.08)
 				(name "PR8C"
@@ -1405,7 +1405,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -10.16 0)
 				(length 5.08)
 				(name "PR8A"
@@ -1423,7 +1423,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -12.7 0)
 				(length 5.08)
 				(name "PR5C"
@@ -1441,7 +1441,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -15.24 0)
 				(length 5.08)
 				(name "PR5A"
@@ -1459,7 +1459,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -17.78 0)
 				(length 5.08)
 				(name "PR2C"
@@ -1477,7 +1477,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -20.32 0)
 				(length 5.08)
 				(name "PR2A"
@@ -1495,7 +1495,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 17.78 180)
 				(length 5.08)
 				(name "PCLKC2_0"
@@ -1513,7 +1513,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 15.24 180)
 				(length 5.08)
 				(name "PCLKC2_1"
@@ -1531,7 +1531,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 12.7 180)
 				(length 5.08)
 				(name "PR20D"
@@ -1549,7 +1549,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 10.16 180)
 				(length 5.08)
 				(name "PR20B"
@@ -1567,7 +1567,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 7.62 180)
 				(length 5.08)
 				(name "PR17D"
@@ -1585,7 +1585,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 5.08 180)
 				(length 5.08)
 				(name "PR17B"
@@ -1603,7 +1603,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 2.54 180)
 				(length 5.08)
 				(name "PR14D"
@@ -1621,7 +1621,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 0 180)
 				(length 5.08)
 				(name "PR14B"
@@ -1639,7 +1639,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -2.54 180)
 				(length 5.08)
 				(name "PR11D"
@@ -1657,7 +1657,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -5.08 180)
 				(length 5.08)
 				(name "PR11B"
@@ -1675,7 +1675,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -7.62 180)
 				(length 5.08)
 				(name "PR8D"
@@ -1693,7 +1693,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -10.16 180)
 				(length 5.08)
 				(name "PR8B"
@@ -1711,7 +1711,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -12.7 180)
 				(length 5.08)
 				(name "PR5D"
@@ -1729,7 +1729,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -15.24 180)
 				(length 5.08)
 				(name "PR5B"
@@ -1747,7 +1747,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -17.78 180)
 				(length 5.08)
 				(name "PR2D"
@@ -1765,7 +1765,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -20.32 180)
 				(length 5.08)
 				(name "PR2B"
@@ -1846,7 +1846,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 15.24 0)
 				(length 5.08)
 				(name "PR47A"
@@ -1864,7 +1864,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 12.7 0)
 				(length 5.08)
 				(name "PR44C"
@@ -1882,7 +1882,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 10.16 0)
 				(length 5.08)
 				(name "PR44A"
@@ -1900,7 +1900,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 7.62 0)
 				(length 5.08)
 				(name "PR41C"
@@ -1918,7 +1918,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 5.08 0)
 				(length 5.08)
 				(name "PR41A"
@@ -1936,7 +1936,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 2.54 0)
 				(length 5.08)
 				(name "PR38C"
@@ -1954,7 +1954,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 0 0)
 				(length 5.08)
 				(name "PR38A"
@@ -1972,7 +1972,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -2.54 0)
 				(length 5.08)
 				(name "PR35C"
@@ -1990,7 +1990,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -5.08 0)
 				(length 5.08)
 				(name "PR35A"
@@ -2008,7 +2008,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -7.62 0)
 				(length 5.08)
 				(name "PR32C"
@@ -2026,7 +2026,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -10.16 0)
 				(length 5.08)
 				(name "PR32A"
@@ -2044,7 +2044,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -12.7 0)
 				(length 5.08)
 				(name "GR_PCLK3_1"
@@ -2062,7 +2062,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -15.24 0)
 				(length 5.08)
 				(name "GR_PCLK3_0"
@@ -2080,7 +2080,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -17.78 0)
 				(length 5.08)
 				(name "PCLKT3_0"
@@ -2098,7 +2098,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -20.32 0)
 				(length 5.08)
 				(name "PCLKT3_1"
@@ -2134,7 +2134,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 15.24 180)
 				(length 5.08)
 				(name "PR47B"
@@ -2152,7 +2152,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 12.7 180)
 				(length 5.08)
 				(name "PR44D"
@@ -2170,7 +2170,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 10.16 180)
 				(length 5.08)
 				(name "PR44B"
@@ -2188,7 +2188,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 7.62 180)
 				(length 5.08)
 				(name "PR41D"
@@ -2206,7 +2206,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 5.08 180)
 				(length 5.08)
 				(name "PR41B"
@@ -2224,7 +2224,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 2.54 180)
 				(length 5.08)
 				(name "PR38D"
@@ -2242,7 +2242,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 0 180)
 				(length 5.08)
 				(name "PR38B"
@@ -2260,7 +2260,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -2.54 180)
 				(length 5.08)
 				(name "PR35D"
@@ -2296,7 +2296,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -7.62 180)
 				(length 5.08)
 				(name "PR32D"
@@ -2314,7 +2314,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -10.16 180)
 				(length 5.08)
 				(name "PR32B"
@@ -2332,7 +2332,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -12.7 180)
 				(length 5.08)
 				(name "PR29D"
@@ -2350,7 +2350,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -15.24 180)
 				(length 5.08)
 				(name "PR29B"
@@ -2368,7 +2368,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -17.78 180)
 				(length 5.08)
 				(name "PCLKC3_0"
@@ -2386,7 +2386,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -20.32 180)
 				(length 5.08)
 				(name "PCLKC3_1"
@@ -2449,7 +2449,7 @@
 					(type none)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 17.78 0)
 				(length 5.08)
 				(name "PCLKT6_0"
@@ -2467,7 +2467,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 15.24 0)
 				(length 5.08)
 				(name "PCLKT6_1"
@@ -2485,7 +2485,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 12.7 0)
 				(length 5.08)
 				(name "GR_PCLK6_1"
@@ -2503,7 +2503,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 10.16 0)
 				(length 5.08)
 				(name "GR_PCLK6_0"
@@ -2521,7 +2521,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 7.62 0)
 				(length 5.08)
 				(name "PL32C"
@@ -2539,7 +2539,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 5.08 0)
 				(length 5.08)
 				(name "PL32A"
@@ -2557,7 +2557,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 2.54 0)
 				(length 5.08)
 				(name "PL35C"
@@ -2575,7 +2575,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 0 0)
 				(length 5.08)
 				(name "PL35A"
@@ -2593,7 +2593,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -2.54 0)
 				(length 5.08)
 				(name "PL38C"
@@ -2611,7 +2611,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -5.08 0)
 				(length 5.08)
 				(name "PL38A"
@@ -2629,7 +2629,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -7.62 0)
 				(length 5.08)
 				(name "PL41C"
@@ -2647,7 +2647,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -10.16 0)
 				(length 5.08)
 				(name "PL41A"
@@ -2665,7 +2665,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -12.7 0)
 				(length 5.08)
 				(name "PL44C"
@@ -2683,7 +2683,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -15.24 0)
 				(length 5.08)
 				(name "PL44A"
@@ -2719,7 +2719,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -20.32 0)
 				(length 5.08)
 				(name "PL47A"
@@ -2737,7 +2737,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 17.78 180)
 				(length 5.08)
 				(name "PCLKC6_0"
@@ -2755,7 +2755,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 15.24 180)
 				(length 5.08)
 				(name "PCLKC6_1"
@@ -2773,7 +2773,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 12.7 180)
 				(length 5.08)
 				(name "PL29D"
@@ -2791,7 +2791,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 10.16 180)
 				(length 5.08)
 				(name "PL29B"
@@ -2809,7 +2809,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 7.62 180)
 				(length 5.08)
 				(name "PL32D"
@@ -2827,7 +2827,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 5.08 180)
 				(length 5.08)
 				(name "PL32B"
@@ -2845,7 +2845,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 2.54 180)
 				(length 5.08)
 				(name "PL35D"
@@ -2881,7 +2881,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -2.54 180)
 				(length 5.08)
 				(name "PL38D"
@@ -2899,7 +2899,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -5.08 180)
 				(length 5.08)
 				(name "PL38B"
@@ -2917,7 +2917,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -7.62 180)
 				(length 5.08)
 				(name "PL41D"
@@ -2935,7 +2935,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -10.16 180)
 				(length 5.08)
 				(name "PL41B"
@@ -2953,7 +2953,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -12.7 180)
 				(length 5.08)
 				(name "PL44D"
@@ -2971,7 +2971,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -15.24 180)
 				(length 5.08)
 				(name "PL44B"
@@ -3007,7 +3007,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -20.32 180)
 				(length 5.08)
 				(name "PL47B"
@@ -3070,7 +3070,7 @@
 					(type none)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 17.78 0)
 				(length 5.08)
 				(name "PL2C"
@@ -3088,7 +3088,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 15.24 0)
 				(length 5.08)
 				(name "PL2A"
@@ -3106,7 +3106,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 12.7 0)
 				(length 5.08)
 				(name "PL5C"
@@ -3124,7 +3124,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 10.16 0)
 				(length 5.08)
 				(name "PL5A"
@@ -3142,7 +3142,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 7.62 0)
 				(length 5.08)
 				(name "PL8C"
@@ -3160,7 +3160,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 5.08 0)
 				(length 5.08)
 				(name "PL8A"
@@ -3178,7 +3178,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 2.54 0)
 				(length 5.08)
 				(name "PL11C"
@@ -3196,7 +3196,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 0 0)
 				(length 5.08)
 				(name "PL11A"
@@ -3232,7 +3232,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -5.08 0)
 				(length 5.08)
 				(name "PL14A"
@@ -3250,7 +3250,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -7.62 0)
 				(length 5.08)
 				(name "PL17C"
@@ -3268,7 +3268,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -10.16 0)
 				(length 5.08)
 				(name "PL17A"
@@ -3286,7 +3286,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -12.7 0)
 				(length 5.08)
 				(name "GR_PCLK7_0"
@@ -3304,7 +3304,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -15.24 0)
 				(length 5.08)
 				(name "GR_PCLK7_1"
@@ -3322,7 +3322,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -17.78 0)
 				(length 5.08)
 				(name "PCLKT7_0"
@@ -3340,7 +3340,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -20.32 0)
 				(length 5.08)
 				(name "PCLKT7_1"
@@ -3358,7 +3358,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 17.78 180)
 				(length 5.08)
 				(name "PL2D"
@@ -3376,7 +3376,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 15.24 180)
 				(length 5.08)
 				(name "PL2B"
@@ -3394,7 +3394,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 12.7 180)
 				(length 5.08)
 				(name "PL5D"
@@ -3412,7 +3412,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 10.16 180)
 				(length 5.08)
 				(name "PL5B"
@@ -3430,7 +3430,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 7.62 180)
 				(length 5.08)
 				(name "PL8D"
@@ -3448,7 +3448,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 5.08 180)
 				(length 5.08)
 				(name "PL8B"
@@ -3466,7 +3466,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 2.54 180)
 				(length 5.08)
 				(name "PL11D"
@@ -3484,7 +3484,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 0 180)
 				(length 5.08)
 				(name "PL11B"
@@ -3502,7 +3502,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -2.54 180)
 				(length 5.08)
 				(name "PL14D"
@@ -3520,7 +3520,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -5.08 180)
 				(length 5.08)
 				(name "PL14B"
@@ -3538,7 +3538,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -7.62 180)
 				(length 5.08)
 				(name "PL17D"
@@ -3556,7 +3556,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -10.16 180)
 				(length 5.08)
 				(name "PL17B"
@@ -3574,7 +3574,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -12.7 180)
 				(length 5.08)
 				(name "PL20D"
@@ -3592,7 +3592,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -15.24 180)
 				(length 5.08)
 				(name "PL20B"
@@ -3610,7 +3610,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -17.78 180)
 				(length 5.08)
 				(name "PCLKC7_0"
@@ -3628,7 +3628,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -20.32 180)
 				(length 5.08)
 				(name "PCLKC7_1"
@@ -3817,7 +3817,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 0 0)
 				(length 5.08)
 				(name "PROGRAMn"
@@ -7294,7 +7294,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 17.78 0)
 				(length 5.08)
 				(name "PCLKT0_0"
@@ -7312,7 +7312,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 15.24 0)
 				(length 5.08)
 				(name "PCLKT0_1"
@@ -7330,7 +7330,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 12.7 0)
 				(length 5.08)
 				(name "GR_PCLK0_1"
@@ -7348,7 +7348,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 10.16 0)
 				(length 5.08)
 				(name "PT22A"
@@ -7366,7 +7366,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 7.62 0)
 				(length 5.08)
 				(name "PT20A"
@@ -7384,7 +7384,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 5.08 0)
 				(length 5.08)
 				(name "PT18A"
@@ -7402,7 +7402,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 2.54 0)
 				(length 5.08)
 				(name "PT15A"
@@ -7420,7 +7420,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 0 0)
 				(length 5.08)
 				(name "PT13A"
@@ -7438,7 +7438,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -2.54 0)
 				(length 5.08)
 				(name "PT11A"
@@ -7456,7 +7456,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -5.08 0)
 				(length 5.08)
 				(name "PT9A"
@@ -7474,7 +7474,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -7.62 0)
 				(length 5.08)
 				(name "PT6A"
@@ -7492,7 +7492,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -10.16 0)
 				(length 5.08)
 				(name "PT4A"
@@ -7510,7 +7510,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 17.78 180)
 				(length 5.08)
 				(name "PCLKC0_0"
@@ -7528,7 +7528,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 15.24 180)
 				(length 5.08)
 				(name "PCLKC0_1"
@@ -7546,7 +7546,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 12.7 180)
 				(length 5.08)
 				(name "GR_PCLK0_0"
@@ -7564,7 +7564,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 10.16 180)
 				(length 5.08)
 				(name "PT22B"
@@ -7582,7 +7582,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 7.62 180)
 				(length 5.08)
 				(name "PT20B"
@@ -7600,7 +7600,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 5.08 180)
 				(length 5.08)
 				(name "PT18B"
@@ -7618,7 +7618,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 2.54 180)
 				(length 5.08)
 				(name "PT15B"
@@ -7636,7 +7636,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 0 180)
 				(length 5.08)
 				(name "PT13B"
@@ -7654,7 +7654,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -2.54 180)
 				(length 5.08)
 				(name "PT11B"
@@ -7672,7 +7672,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -5.08 180)
 				(length 5.08)
 				(name "PT9B"
@@ -7690,7 +7690,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -7.62 180)
 				(length 5.08)
 				(name "PT6B"
@@ -7708,7 +7708,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -10.16 180)
 				(length 5.08)
 				(name "PT4B"
@@ -7771,7 +7771,7 @@
 					(type none)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 17.78 0)
 				(length 5.08)
 				(name "PT67A"
@@ -7789,7 +7789,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 15.24 0)
 				(length 5.08)
 				(name "PT65A"
@@ -7807,7 +7807,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 12.7 0)
 				(length 5.08)
 				(name "PT62A"
@@ -7825,7 +7825,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 10.16 0)
 				(length 5.08)
 				(name "PT60A"
@@ -7843,7 +7843,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 7.62 0)
 				(length 5.08)
 				(name "PT58A"
@@ -7861,7 +7861,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 5.08 0)
 				(length 5.08)
 				(name "PT56A"
@@ -7879,7 +7879,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 2.54 0)
 				(length 5.08)
 				(name "PT53A"
@@ -7897,7 +7897,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 0 0)
 				(length 5.08)
 				(name "PT51A"
@@ -7915,7 +7915,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -2.54 0)
 				(length 5.08)
 				(name "PT49A"
@@ -7933,7 +7933,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -5.08 0)
 				(length 5.08)
 				(name "PT47A"
@@ -7951,7 +7951,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -7.62 0)
 				(length 5.08)
 				(name "PT44A"
@@ -7969,7 +7969,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -10.16 0)
 				(length 5.08)
 				(name "PT42A"
@@ -7987,7 +7987,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -12.7 0)
 				(length 5.08)
 				(name "PT40A"
@@ -8005,7 +8005,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -15.24 0)
 				(length 5.08)
 				(name "GR_PCLK1_0"
@@ -8023,7 +8023,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -17.78 0)
 				(length 5.08)
 				(name "PCLKT1_0"
@@ -8041,7 +8041,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -20.32 0)
 				(length 5.08)
 				(name "PCLKT1_1"
@@ -8059,7 +8059,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 17.78 180)
 				(length 5.08)
 				(name "PT67B"
@@ -8077,7 +8077,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 15.24 180)
 				(length 5.08)
 				(name "PT65B"
@@ -8095,7 +8095,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 12.7 180)
 				(length 5.08)
 				(name "PT62B"
@@ -8113,7 +8113,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 10.16 180)
 				(length 5.08)
 				(name "PT60B"
@@ -8131,7 +8131,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 7.62 180)
 				(length 5.08)
 				(name "PT58B"
@@ -8149,7 +8149,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 5.08 180)
 				(length 5.08)
 				(name "PT56B"
@@ -8167,7 +8167,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 2.54 180)
 				(length 5.08)
 				(name "PT53B"
@@ -8185,7 +8185,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 0 180)
 				(length 5.08)
 				(name "PT51B"
@@ -8203,7 +8203,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -2.54 180)
 				(length 5.08)
 				(name "PT49B"
@@ -8221,7 +8221,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -5.08 180)
 				(length 5.08)
 				(name "PT47B"
@@ -8239,7 +8239,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -7.62 180)
 				(length 5.08)
 				(name "PT44B"
@@ -8257,7 +8257,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -10.16 180)
 				(length 5.08)
 				(name "PT42B"
@@ -8275,7 +8275,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -12.7 180)
 				(length 5.08)
 				(name "PT40B"
@@ -8293,7 +8293,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -15.24 180)
 				(length 5.08)
 				(name "GR_PCLK1_1"
@@ -8311,7 +8311,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -17.78 180)
 				(length 5.08)
 				(name "PCLKC1_0"
@@ -8329,7 +8329,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -20.32 180)
 				(length 5.08)
 				(name "PCLKC1_1"
@@ -8392,7 +8392,7 @@
 					(type none)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 17.78 0)
 				(length 5.08)
 				(name "PCLKT2_0"
@@ -8410,7 +8410,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 15.24 0)
 				(length 5.08)
 				(name "PCLKT2_1"
@@ -8428,7 +8428,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 12.7 0)
 				(length 5.08)
 				(name "GR_PCLK2_0"
@@ -8446,7 +8446,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 10.16 0)
 				(length 5.08)
 				(name "GR_PCLK2_1"
@@ -8464,7 +8464,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 7.62 0)
 				(length 5.08)
 				(name "PR17C"
@@ -8482,7 +8482,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 5.08 0)
 				(length 5.08)
 				(name "PR17A"
@@ -8518,7 +8518,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 0 0)
 				(length 5.08)
 				(name "PR14A"
@@ -8536,7 +8536,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -2.54 0)
 				(length 5.08)
 				(name "PR11C"
@@ -8554,7 +8554,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -5.08 0)
 				(length 5.08)
 				(name "PR11A"
@@ -8572,7 +8572,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -7.62 0)
 				(length 5.08)
 				(name "PR8C"
@@ -8590,7 +8590,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -10.16 0)
 				(length 5.08)
 				(name "PR8A"
@@ -8608,7 +8608,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -12.7 0)
 				(length 5.08)
 				(name "PR5C"
@@ -8626,7 +8626,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -15.24 0)
 				(length 5.08)
 				(name "PR5A"
@@ -8644,7 +8644,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -17.78 0)
 				(length 5.08)
 				(name "PR2C"
@@ -8662,7 +8662,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -20.32 0)
 				(length 5.08)
 				(name "PR2A"
@@ -8680,7 +8680,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 17.78 180)
 				(length 5.08)
 				(name "PCLKC2_0"
@@ -8698,7 +8698,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 15.24 180)
 				(length 5.08)
 				(name "PCLKC2_1"
@@ -8716,7 +8716,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 12.7 180)
 				(length 5.08)
 				(name "PR20D"
@@ -8734,7 +8734,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 10.16 180)
 				(length 5.08)
 				(name "PR20B"
@@ -8752,7 +8752,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 7.62 180)
 				(length 5.08)
 				(name "PR17D"
@@ -8770,7 +8770,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 5.08 180)
 				(length 5.08)
 				(name "PR17B"
@@ -8788,7 +8788,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 2.54 180)
 				(length 5.08)
 				(name "PR14D"
@@ -8806,7 +8806,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 0 180)
 				(length 5.08)
 				(name "PR14B"
@@ -8824,7 +8824,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -2.54 180)
 				(length 5.08)
 				(name "PR11D"
@@ -8842,7 +8842,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -5.08 180)
 				(length 5.08)
 				(name "PR11B"
@@ -8860,7 +8860,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -7.62 180)
 				(length 5.08)
 				(name "PR8D"
@@ -8878,7 +8878,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -10.16 180)
 				(length 5.08)
 				(name "PR8B"
@@ -8896,7 +8896,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -12.7 180)
 				(length 5.08)
 				(name "PR5D"
@@ -8914,7 +8914,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -15.24 180)
 				(length 5.08)
 				(name "PR5B"
@@ -8932,7 +8932,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -17.78 180)
 				(length 5.08)
 				(name "PR2D"
@@ -8950,7 +8950,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -20.32 180)
 				(length 5.08)
 				(name "PR2B"
@@ -9031,7 +9031,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 15.24 0)
 				(length 5.08)
 				(name "PR47A"
@@ -9049,7 +9049,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 12.7 0)
 				(length 5.08)
 				(name "PR44C"
@@ -9067,7 +9067,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 10.16 0)
 				(length 5.08)
 				(name "PR44A"
@@ -9085,7 +9085,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 7.62 0)
 				(length 5.08)
 				(name "PR41C"
@@ -9103,7 +9103,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 5.08 0)
 				(length 5.08)
 				(name "PR41A"
@@ -9121,7 +9121,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 2.54 0)
 				(length 5.08)
 				(name "PR38C"
@@ -9139,7 +9139,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 0 0)
 				(length 5.08)
 				(name "PR38A"
@@ -9157,7 +9157,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -2.54 0)
 				(length 5.08)
 				(name "PR35C"
@@ -9175,7 +9175,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -5.08 0)
 				(length 5.08)
 				(name "PR35A"
@@ -9193,7 +9193,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -7.62 0)
 				(length 5.08)
 				(name "PR32C"
@@ -9211,7 +9211,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -10.16 0)
 				(length 5.08)
 				(name "PR32A"
@@ -9229,7 +9229,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -12.7 0)
 				(length 5.08)
 				(name "GR_PCLK3_1"
@@ -9247,7 +9247,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -15.24 0)
 				(length 5.08)
 				(name "GR_PCLK3_0"
@@ -9265,7 +9265,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -17.78 0)
 				(length 5.08)
 				(name "PCLKT3_0"
@@ -9283,7 +9283,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -20.32 0)
 				(length 5.08)
 				(name "PCLKT3_1"
@@ -9319,7 +9319,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 15.24 180)
 				(length 5.08)
 				(name "PR47B"
@@ -9337,7 +9337,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 12.7 180)
 				(length 5.08)
 				(name "PR44D"
@@ -9355,7 +9355,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 10.16 180)
 				(length 5.08)
 				(name "PR44B"
@@ -9373,7 +9373,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 7.62 180)
 				(length 5.08)
 				(name "PR41D"
@@ -9391,7 +9391,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 5.08 180)
 				(length 5.08)
 				(name "PR41B"
@@ -9409,7 +9409,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 2.54 180)
 				(length 5.08)
 				(name "PR38D"
@@ -9427,7 +9427,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 0 180)
 				(length 5.08)
 				(name "PR38B"
@@ -9445,7 +9445,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -2.54 180)
 				(length 5.08)
 				(name "PR35D"
@@ -9481,7 +9481,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -7.62 180)
 				(length 5.08)
 				(name "PR32D"
@@ -9499,7 +9499,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -10.16 180)
 				(length 5.08)
 				(name "PR32B"
@@ -9517,7 +9517,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -12.7 180)
 				(length 5.08)
 				(name "PR29D"
@@ -9535,7 +9535,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -15.24 180)
 				(length 5.08)
 				(name "PR29B"
@@ -9553,7 +9553,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -17.78 180)
 				(length 5.08)
 				(name "PCLKC3_0"
@@ -9571,7 +9571,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -20.32 180)
 				(length 5.08)
 				(name "PCLKC3_1"
@@ -9634,7 +9634,7 @@
 					(type none)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 17.78 0)
 				(length 5.08)
 				(name "PCLKT6_0"
@@ -9652,7 +9652,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 15.24 0)
 				(length 5.08)
 				(name "PCLKT6_1"
@@ -9670,7 +9670,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 12.7 0)
 				(length 5.08)
 				(name "GR_PCLK6_1"
@@ -9688,7 +9688,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 10.16 0)
 				(length 5.08)
 				(name "GR_PCLK6_0"
@@ -9706,7 +9706,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 7.62 0)
 				(length 5.08)
 				(name "PL32C"
@@ -9724,7 +9724,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 5.08 0)
 				(length 5.08)
 				(name "PL32A"
@@ -9742,7 +9742,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 2.54 0)
 				(length 5.08)
 				(name "PL35C"
@@ -9760,7 +9760,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 0 0)
 				(length 5.08)
 				(name "PL35A"
@@ -9778,7 +9778,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -2.54 0)
 				(length 5.08)
 				(name "PL38C"
@@ -9796,7 +9796,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -5.08 0)
 				(length 5.08)
 				(name "PL38A"
@@ -9814,7 +9814,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -7.62 0)
 				(length 5.08)
 				(name "PL41C"
@@ -9832,7 +9832,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -10.16 0)
 				(length 5.08)
 				(name "PL41A"
@@ -9850,7 +9850,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -12.7 0)
 				(length 5.08)
 				(name "PL44C"
@@ -9868,7 +9868,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -15.24 0)
 				(length 5.08)
 				(name "PL44A"
@@ -9904,7 +9904,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -20.32 0)
 				(length 5.08)
 				(name "PL47A"
@@ -9922,7 +9922,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 17.78 180)
 				(length 5.08)
 				(name "PCLKC6_0"
@@ -9940,7 +9940,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 15.24 180)
 				(length 5.08)
 				(name "PCLKC6_1"
@@ -9958,7 +9958,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 12.7 180)
 				(length 5.08)
 				(name "PL29D"
@@ -9976,7 +9976,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 10.16 180)
 				(length 5.08)
 				(name "PL29B"
@@ -9994,7 +9994,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 7.62 180)
 				(length 5.08)
 				(name "PL32D"
@@ -10012,7 +10012,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 5.08 180)
 				(length 5.08)
 				(name "PL32B"
@@ -10030,7 +10030,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 2.54 180)
 				(length 5.08)
 				(name "PL35D"
@@ -10066,7 +10066,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -2.54 180)
 				(length 5.08)
 				(name "PL38D"
@@ -10084,7 +10084,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -5.08 180)
 				(length 5.08)
 				(name "PL38B"
@@ -10102,7 +10102,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -7.62 180)
 				(length 5.08)
 				(name "PL41D"
@@ -10120,7 +10120,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -10.16 180)
 				(length 5.08)
 				(name "PL41B"
@@ -10138,7 +10138,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -12.7 180)
 				(length 5.08)
 				(name "PL44D"
@@ -10156,7 +10156,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -15.24 180)
 				(length 5.08)
 				(name "PL44B"
@@ -10192,7 +10192,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -20.32 180)
 				(length 5.08)
 				(name "PL47B"
@@ -10255,7 +10255,7 @@
 					(type none)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 17.78 0)
 				(length 5.08)
 				(name "PL2C"
@@ -10273,7 +10273,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 15.24 0)
 				(length 5.08)
 				(name "PL2A"
@@ -10291,7 +10291,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 12.7 0)
 				(length 5.08)
 				(name "PL5C"
@@ -10309,7 +10309,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 10.16 0)
 				(length 5.08)
 				(name "PL5A"
@@ -10327,7 +10327,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 7.62 0)
 				(length 5.08)
 				(name "PL8C"
@@ -10345,7 +10345,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 5.08 0)
 				(length 5.08)
 				(name "PL8A"
@@ -10363,7 +10363,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 2.54 0)
 				(length 5.08)
 				(name "PL11C"
@@ -10381,7 +10381,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 0 0)
 				(length 5.08)
 				(name "PL11A"
@@ -10417,7 +10417,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -5.08 0)
 				(length 5.08)
 				(name "PL14A"
@@ -10435,7 +10435,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -7.62 0)
 				(length 5.08)
 				(name "PL17C"
@@ -10453,7 +10453,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -10.16 0)
 				(length 5.08)
 				(name "PL17A"
@@ -10471,7 +10471,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -12.7 0)
 				(length 5.08)
 				(name "GR_PCLK7_0"
@@ -10489,7 +10489,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -15.24 0)
 				(length 5.08)
 				(name "GR_PCLK7_1"
@@ -10507,7 +10507,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -17.78 0)
 				(length 5.08)
 				(name "PCLKT7_0"
@@ -10525,7 +10525,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -20.32 0)
 				(length 5.08)
 				(name "PCLKT7_1"
@@ -10543,7 +10543,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 17.78 180)
 				(length 5.08)
 				(name "PL2D"
@@ -10561,7 +10561,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 15.24 180)
 				(length 5.08)
 				(name "PL2B"
@@ -10579,7 +10579,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 12.7 180)
 				(length 5.08)
 				(name "PL5D"
@@ -10597,7 +10597,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 10.16 180)
 				(length 5.08)
 				(name "PL5B"
@@ -10615,7 +10615,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 7.62 180)
 				(length 5.08)
 				(name "PL8D"
@@ -10633,7 +10633,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 5.08 180)
 				(length 5.08)
 				(name "PL8B"
@@ -10651,7 +10651,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 2.54 180)
 				(length 5.08)
 				(name "PL11D"
@@ -10669,7 +10669,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 0 180)
 				(length 5.08)
 				(name "PL11B"
@@ -10687,7 +10687,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -2.54 180)
 				(length 5.08)
 				(name "PL14D"
@@ -10705,7 +10705,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -5.08 180)
 				(length 5.08)
 				(name "PL14B"
@@ -10723,7 +10723,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -7.62 180)
 				(length 5.08)
 				(name "PL17D"
@@ -10741,7 +10741,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -10.16 180)
 				(length 5.08)
 				(name "PL17B"
@@ -10759,7 +10759,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -12.7 180)
 				(length 5.08)
 				(name "PL20D"
@@ -10777,7 +10777,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -15.24 180)
 				(length 5.08)
 				(name "PL20B"
@@ -10795,7 +10795,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -17.78 180)
 				(length 5.08)
 				(name "PCLKC7_0"
@@ -10813,7 +10813,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -20.32 180)
 				(length 5.08)
 				(name "PCLKC7_1"
@@ -11002,7 +11002,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 0 0)
 				(length 5.08)
 				(name "PROGRAMn"
@@ -14479,7 +14479,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 17.78 0)
 				(length 5.08)
 				(name "PCLKT0_0"
@@ -14497,7 +14497,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 15.24 0)
 				(length 5.08)
 				(name "PCLKT0_1"
@@ -14515,7 +14515,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 12.7 0)
 				(length 5.08)
 				(name "GR_PCLK0_1"
@@ -14533,7 +14533,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 10.16 0)
 				(length 5.08)
 				(name "PT31A"
@@ -14551,7 +14551,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 7.62 0)
 				(length 5.08)
 				(name "PT20A"
@@ -14569,7 +14569,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 5.08 0)
 				(length 5.08)
 				(name "PT18A"
@@ -14587,7 +14587,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 2.54 0)
 				(length 5.08)
 				(name "PT15A"
@@ -14605,7 +14605,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 0 0)
 				(length 5.08)
 				(name "PT13A"
@@ -14623,7 +14623,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -2.54 0)
 				(length 5.08)
 				(name "PT11A"
@@ -14641,7 +14641,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -5.08 0)
 				(length 5.08)
 				(name "PT9A"
@@ -14659,7 +14659,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -7.62 0)
 				(length 5.08)
 				(name "PT6A"
@@ -14677,7 +14677,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -10.16 0)
 				(length 5.08)
 				(name "PT4A"
@@ -14695,7 +14695,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -12.7 0)
 				(length 5.08)
 				(name "PT29A"
@@ -14713,7 +14713,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -15.24 0)
 				(length 5.08)
 				(name "PT27A"
@@ -14731,7 +14731,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 17.78 180)
 				(length 5.08)
 				(name "PCLKC0_0"
@@ -14749,7 +14749,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 15.24 180)
 				(length 5.08)
 				(name "PCLKC0_1"
@@ -14767,7 +14767,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 12.7 180)
 				(length 5.08)
 				(name "GR_PCLK0_0"
@@ -14785,7 +14785,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 10.16 180)
 				(length 5.08)
 				(name "PT31B"
@@ -14803,7 +14803,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 7.62 180)
 				(length 5.08)
 				(name "PT20B"
@@ -14821,7 +14821,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 5.08 180)
 				(length 5.08)
 				(name "PT18B"
@@ -14839,7 +14839,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 2.54 180)
 				(length 5.08)
 				(name "PT15B"
@@ -14857,7 +14857,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 0 180)
 				(length 5.08)
 				(name "PT13B"
@@ -14875,7 +14875,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -2.54 180)
 				(length 5.08)
 				(name "PT11B"
@@ -14893,7 +14893,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -5.08 180)
 				(length 5.08)
 				(name "PT9B"
@@ -14911,7 +14911,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -7.62 180)
 				(length 5.08)
 				(name "PT6B"
@@ -14929,7 +14929,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -10.16 180)
 				(length 5.08)
 				(name "PT4B"
@@ -14947,7 +14947,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -12.7 180)
 				(length 5.08)
 				(name "PT29B"
@@ -15010,7 +15010,7 @@
 					(type none)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 17.78 0)
 				(length 5.08)
 				(name "PT85A"
@@ -15028,7 +15028,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 15.24 0)
 				(length 5.08)
 				(name "PT83A"
@@ -15046,7 +15046,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 12.7 0)
 				(length 5.08)
 				(name "PT80A"
@@ -15064,7 +15064,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 10.16 0)
 				(length 5.08)
 				(name "PT78A"
@@ -15082,7 +15082,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 7.62 0)
 				(length 5.08)
 				(name "PT76A"
@@ -15100,7 +15100,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 5.08 0)
 				(length 5.08)
 				(name "PT74A"
@@ -15118,7 +15118,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 2.54 0)
 				(length 5.08)
 				(name "PT71A"
@@ -15136,7 +15136,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 0 0)
 				(length 5.08)
 				(name "PT69A"
@@ -15154,7 +15154,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -2.54 0)
 				(length 5.08)
 				(name "PT58A"
@@ -15172,7 +15172,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -5.08 0)
 				(length 5.08)
 				(name "PT56A"
@@ -15190,7 +15190,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -7.62 0)
 				(length 5.08)
 				(name "PT53A"
@@ -15208,7 +15208,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -10.16 0)
 				(length 5.08)
 				(name "PT51A"
@@ -15226,7 +15226,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -12.7 0)
 				(length 5.08)
 				(name "PT49A"
@@ -15244,7 +15244,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -15.24 0)
 				(length 5.08)
 				(name "GR_PCLK1_0"
@@ -15262,7 +15262,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -17.78 0)
 				(length 5.08)
 				(name "PCLKT1_0"
@@ -15280,7 +15280,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -20.32 0)
 				(length 5.08)
 				(name "PCLKT1_1"
@@ -15298,7 +15298,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -22.86 0)
 				(length 5.08)
 				(name "PT67A"
@@ -15316,7 +15316,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 17.78 180)
 				(length 5.08)
 				(name "PT85B"
@@ -15334,7 +15334,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 15.24 180)
 				(length 5.08)
 				(name "PT83B"
@@ -15352,7 +15352,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 12.7 180)
 				(length 5.08)
 				(name "PT80B"
@@ -15370,7 +15370,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 10.16 180)
 				(length 5.08)
 				(name "PT78B"
@@ -15388,7 +15388,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 7.62 180)
 				(length 5.08)
 				(name "PT76B"
@@ -15406,7 +15406,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 5.08 180)
 				(length 5.08)
 				(name "PT74B"
@@ -15424,7 +15424,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 2.54 180)
 				(length 5.08)
 				(name "PT71B"
@@ -15442,7 +15442,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 0 180)
 				(length 5.08)
 				(name "PT69B"
@@ -15460,7 +15460,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -2.54 180)
 				(length 5.08)
 				(name "PT58B"
@@ -15478,7 +15478,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -5.08 180)
 				(length 5.08)
 				(name "PT56B"
@@ -15496,7 +15496,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -7.62 180)
 				(length 5.08)
 				(name "PT53B"
@@ -15514,7 +15514,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -10.16 180)
 				(length 5.08)
 				(name "PT51B"
@@ -15532,7 +15532,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -12.7 180)
 				(length 5.08)
 				(name "PT49B"
@@ -15550,7 +15550,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -15.24 180)
 				(length 5.08)
 				(name "GR_PCLK1_1"
@@ -15568,7 +15568,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -17.78 180)
 				(length 5.08)
 				(name "PCLKC1_0"
@@ -15586,7 +15586,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -20.32 180)
 				(length 5.08)
 				(name "PCLKC1_1"
@@ -15649,7 +15649,7 @@
 					(type none)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 17.78 0)
 				(length 5.08)
 				(name "PCLKT2_0"
@@ -15667,7 +15667,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 15.24 0)
 				(length 5.08)
 				(name "PCLKT2_1"
@@ -15685,7 +15685,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 12.7 0)
 				(length 5.08)
 				(name "GR_PCLK2_0"
@@ -15703,7 +15703,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 10.16 0)
 				(length 5.08)
 				(name "GR_PCLK2_1"
@@ -15721,7 +15721,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 7.62 0)
 				(length 5.08)
 				(name "PR26C"
@@ -15739,7 +15739,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 5.08 0)
 				(length 5.08)
 				(name "PR26A"
@@ -15775,7 +15775,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 0 0)
 				(length 5.08)
 				(name "PR23A"
@@ -15793,7 +15793,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -2.54 0)
 				(length 5.08)
 				(name "PR20C"
@@ -15811,7 +15811,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -5.08 0)
 				(length 5.08)
 				(name "PR20A"
@@ -15829,7 +15829,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -7.62 0)
 				(length 5.08)
 				(name "PR17C"
@@ -15847,7 +15847,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -10.16 0)
 				(length 5.08)
 				(name "PR17A"
@@ -15865,7 +15865,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -12.7 0)
 				(length 5.08)
 				(name "PR14C"
@@ -15883,7 +15883,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -15.24 0)
 				(length 5.08)
 				(name "PR14A"
@@ -15901,7 +15901,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -17.78 0)
 				(length 5.08)
 				(name "PR11C"
@@ -15919,7 +15919,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -20.32 0)
 				(length 5.08)
 				(name "PR11A"
@@ -15937,7 +15937,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 17.78 180)
 				(length 5.08)
 				(name "PCLKC2_0"
@@ -15955,7 +15955,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 15.24 180)
 				(length 5.08)
 				(name "PCLKC2_1"
@@ -15973,7 +15973,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 12.7 180)
 				(length 5.08)
 				(name "PR29D"
@@ -15991,7 +15991,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 10.16 180)
 				(length 5.08)
 				(name "PR29B"
@@ -16009,7 +16009,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 7.62 180)
 				(length 5.08)
 				(name "PR26D"
@@ -16027,7 +16027,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 5.08 180)
 				(length 5.08)
 				(name "PR26B"
@@ -16045,7 +16045,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 2.54 180)
 				(length 5.08)
 				(name "PR23D"
@@ -16063,7 +16063,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 0 180)
 				(length 5.08)
 				(name "PR23B"
@@ -16081,7 +16081,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -2.54 180)
 				(length 5.08)
 				(name "PR20D"
@@ -16099,7 +16099,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -5.08 180)
 				(length 5.08)
 				(name "PR20B"
@@ -16117,7 +16117,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -7.62 180)
 				(length 5.08)
 				(name "PR17D"
@@ -16135,7 +16135,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -10.16 180)
 				(length 5.08)
 				(name "PR17B"
@@ -16153,7 +16153,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -12.7 180)
 				(length 5.08)
 				(name "PR14D"
@@ -16171,7 +16171,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -15.24 180)
 				(length 5.08)
 				(name "PR14B"
@@ -16189,7 +16189,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -17.78 180)
 				(length 5.08)
 				(name "PR11D"
@@ -16207,7 +16207,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -20.32 180)
 				(length 5.08)
 				(name "PR11B"
@@ -16288,7 +16288,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 15.24 0)
 				(length 5.08)
 				(name "PR68A"
@@ -16306,7 +16306,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 12.7 0)
 				(length 5.08)
 				(name "PR65C"
@@ -16324,7 +16324,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 10.16 0)
 				(length 5.08)
 				(name "PR65A"
@@ -16342,7 +16342,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 7.62 0)
 				(length 5.08)
 				(name "PR62C"
@@ -16360,7 +16360,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 5.08 0)
 				(length 5.08)
 				(name "PR62A"
@@ -16378,7 +16378,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 2.54 0)
 				(length 5.08)
 				(name "PR59C"
@@ -16396,7 +16396,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 0 0)
 				(length 5.08)
 				(name "PR59A"
@@ -16414,7 +16414,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -2.54 0)
 				(length 5.08)
 				(name "PR44C"
@@ -16432,7 +16432,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -5.08 0)
 				(length 5.08)
 				(name "PR44A"
@@ -16450,7 +16450,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -7.62 0)
 				(length 5.08)
 				(name "PR41C"
@@ -16468,7 +16468,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -10.16 0)
 				(length 5.08)
 				(name "PR41A"
@@ -16486,7 +16486,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -12.7 0)
 				(length 5.08)
 				(name "GR_PCLK3_1"
@@ -16504,7 +16504,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -15.24 0)
 				(length 5.08)
 				(name "GR_PCLK3_0"
@@ -16522,7 +16522,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -17.78 0)
 				(length 5.08)
 				(name "PCLKT3_0"
@@ -16540,7 +16540,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -20.32 0)
 				(length 5.08)
 				(name "PCLKT3_1"
@@ -16558,7 +16558,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -22.86 0)
 				(length 5.08)
 				(name "PR53A"
@@ -16594,7 +16594,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 15.24 180)
 				(length 5.08)
 				(name "PR68B"
@@ -16612,7 +16612,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 12.7 180)
 				(length 5.08)
 				(name "PR65D"
@@ -16630,7 +16630,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 10.16 180)
 				(length 5.08)
 				(name "PR65B"
@@ -16648,7 +16648,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 7.62 180)
 				(length 5.08)
 				(name "PR62D"
@@ -16666,7 +16666,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 5.08 180)
 				(length 5.08)
 				(name "PR62B"
@@ -16684,7 +16684,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 2.54 180)
 				(length 5.08)
 				(name "PR59D"
@@ -16702,7 +16702,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 0 180)
 				(length 5.08)
 				(name "PR59B"
@@ -16720,7 +16720,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -2.54 180)
 				(length 5.08)
 				(name "PR44D"
@@ -16756,7 +16756,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -7.62 180)
 				(length 5.08)
 				(name "PR41D"
@@ -16774,7 +16774,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -10.16 180)
 				(length 5.08)
 				(name "PR41B"
@@ -16792,7 +16792,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -12.7 180)
 				(length 5.08)
 				(name "PR38D"
@@ -16810,7 +16810,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -15.24 180)
 				(length 5.08)
 				(name "PR38B"
@@ -16828,7 +16828,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -17.78 180)
 				(length 5.08)
 				(name "PCLKC3_0"
@@ -16846,7 +16846,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -20.32 180)
 				(length 5.08)
 				(name "PCLKC3_1"
@@ -16909,7 +16909,7 @@
 					(type none)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 17.78 0)
 				(length 5.08)
 				(name "PCLKT6_0"
@@ -16927,7 +16927,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 15.24 0)
 				(length 5.08)
 				(name "PCLKT6_1"
@@ -16945,7 +16945,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 12.7 0)
 				(length 5.08)
 				(name "GR_PCLK6_1"
@@ -16963,7 +16963,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 10.16 0)
 				(length 5.08)
 				(name "GR_PCLK6_0"
@@ -16981,7 +16981,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 7.62 0)
 				(length 5.08)
 				(name "PL41C"
@@ -16999,7 +16999,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 5.08 0)
 				(length 5.08)
 				(name "PL41A"
@@ -17017,7 +17017,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 2.54 0)
 				(length 5.08)
 				(name "PL44C"
@@ -17035,7 +17035,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 0 0)
 				(length 5.08)
 				(name "PL44A"
@@ -17053,7 +17053,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -2.54 0)
 				(length 5.08)
 				(name "PL59C"
@@ -17071,7 +17071,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -5.08 0)
 				(length 5.08)
 				(name "PL59A"
@@ -17089,7 +17089,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -7.62 0)
 				(length 5.08)
 				(name "PL62C"
@@ -17107,7 +17107,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -10.16 0)
 				(length 5.08)
 				(name "PL62A"
@@ -17125,7 +17125,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -12.7 0)
 				(length 5.08)
 				(name "PL65C"
@@ -17143,7 +17143,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -15.24 0)
 				(length 5.08)
 				(name "PL65A"
@@ -17179,7 +17179,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -20.32 0)
 				(length 5.08)
 				(name "PL68A"
@@ -17197,7 +17197,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -22.86 0)
 				(length 5.08)
 				(name "PL53A"
@@ -17215,7 +17215,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 17.78 180)
 				(length 5.08)
 				(name "PCLKC6_0"
@@ -17233,7 +17233,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 15.24 180)
 				(length 5.08)
 				(name "PCLKC6_1"
@@ -17251,7 +17251,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 12.7 180)
 				(length 5.08)
 				(name "PL38D"
@@ -17269,7 +17269,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 10.16 180)
 				(length 5.08)
 				(name "PL38B"
@@ -17287,7 +17287,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 7.62 180)
 				(length 5.08)
 				(name "PL41D"
@@ -17305,7 +17305,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 5.08 180)
 				(length 5.08)
 				(name "PL41B"
@@ -17323,7 +17323,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 2.54 180)
 				(length 5.08)
 				(name "PL44D"
@@ -17359,7 +17359,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -2.54 180)
 				(length 5.08)
 				(name "PL59D"
@@ -17377,7 +17377,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -5.08 180)
 				(length 5.08)
 				(name "PL59B"
@@ -17395,7 +17395,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -7.62 180)
 				(length 5.08)
 				(name "PL62D"
@@ -17413,7 +17413,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -10.16 180)
 				(length 5.08)
 				(name "PL62B"
@@ -17431,7 +17431,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -12.7 180)
 				(length 5.08)
 				(name "PL65D"
@@ -17449,7 +17449,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -15.24 180)
 				(length 5.08)
 				(name "PL65B"
@@ -17485,7 +17485,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -20.32 180)
 				(length 5.08)
 				(name "PL68B"
@@ -17548,7 +17548,7 @@
 					(type none)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 17.78 0)
 				(length 5.08)
 				(name "PL11C"
@@ -17566,7 +17566,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 15.24 0)
 				(length 5.08)
 				(name "PL11A"
@@ -17584,7 +17584,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 12.7 0)
 				(length 5.08)
 				(name "PL14C"
@@ -17602,7 +17602,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 10.16 0)
 				(length 5.08)
 				(name "PL14A"
@@ -17620,7 +17620,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 7.62 0)
 				(length 5.08)
 				(name "PL17C"
@@ -17638,7 +17638,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 5.08 0)
 				(length 5.08)
 				(name "PL17A"
@@ -17656,7 +17656,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 2.54 0)
 				(length 5.08)
 				(name "PL20C"
@@ -17674,7 +17674,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 0 0)
 				(length 5.08)
 				(name "PL20A"
@@ -17710,7 +17710,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -5.08 0)
 				(length 5.08)
 				(name "PL23A"
@@ -17728,7 +17728,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -7.62 0)
 				(length 5.08)
 				(name "PL26C"
@@ -17746,7 +17746,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -10.16 0)
 				(length 5.08)
 				(name "PL26A"
@@ -17764,7 +17764,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -12.7 0)
 				(length 5.08)
 				(name "GR_PCLK7_0"
@@ -17782,7 +17782,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -15.24 0)
 				(length 5.08)
 				(name "GR_PCLK7_1"
@@ -17800,7 +17800,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -17.78 0)
 				(length 5.08)
 				(name "PCLKT7_0"
@@ -17818,7 +17818,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -20.32 0)
 				(length 5.08)
 				(name "PCLKT7_1"
@@ -17836,7 +17836,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 17.78 180)
 				(length 5.08)
 				(name "PL11D"
@@ -17854,7 +17854,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 15.24 180)
 				(length 5.08)
 				(name "PL11B"
@@ -17872,7 +17872,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 12.7 180)
 				(length 5.08)
 				(name "PL14D"
@@ -17890,7 +17890,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 10.16 180)
 				(length 5.08)
 				(name "PL14B"
@@ -17908,7 +17908,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 7.62 180)
 				(length 5.08)
 				(name "PL17D"
@@ -17926,7 +17926,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 5.08 180)
 				(length 5.08)
 				(name "PL17B"
@@ -17944,7 +17944,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 2.54 180)
 				(length 5.08)
 				(name "PL20D"
@@ -17962,7 +17962,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 0 180)
 				(length 5.08)
 				(name "PL20B"
@@ -17980,7 +17980,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -2.54 180)
 				(length 5.08)
 				(name "PL23D"
@@ -17998,7 +17998,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -5.08 180)
 				(length 5.08)
 				(name "PL23B"
@@ -18016,7 +18016,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -7.62 180)
 				(length 5.08)
 				(name "PL26D"
@@ -18034,7 +18034,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -10.16 180)
 				(length 5.08)
 				(name "PL26B"
@@ -18052,7 +18052,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -12.7 180)
 				(length 5.08)
 				(name "PL29D"
@@ -18070,7 +18070,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -15.24 180)
 				(length 5.08)
 				(name "PL29B"
@@ -18088,7 +18088,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -17.78 180)
 				(length 5.08)
 				(name "PCLKC7_0"
@@ -18106,7 +18106,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -20.32 180)
 				(length 5.08)
 				(name "PCLKC7_1"
@@ -18295,7 +18295,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 0 0)
 				(length 5.08)
 				(name "PROGRAMn"
@@ -21772,7 +21772,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 17.78 0)
 				(length 5.08)
 				(name "PCLKT0_0"
@@ -21790,7 +21790,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 15.24 0)
 				(length 5.08)
 				(name "PCLKT0_1"
@@ -21808,7 +21808,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 12.7 0)
 				(length 5.08)
 				(name "GR_PCLK0_1"
@@ -21826,7 +21826,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 10.16 0)
 				(length 5.08)
 				(name "PT58A"
@@ -21844,7 +21844,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 7.62 0)
 				(length 5.08)
 				(name "PT20A"
@@ -21862,7 +21862,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 5.08 0)
 				(length 5.08)
 				(name "PT18A"
@@ -21880,7 +21880,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 2.54 0)
 				(length 5.08)
 				(name "PT15A"
@@ -21898,7 +21898,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 0 0)
 				(length 5.08)
 				(name "PT13A"
@@ -21916,7 +21916,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -2.54 0)
 				(length 5.08)
 				(name "PT11A"
@@ -21934,7 +21934,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -5.08 0)
 				(length 5.08)
 				(name "PT9A"
@@ -21952,7 +21952,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -7.62 0)
 				(length 5.08)
 				(name "PT6A"
@@ -21970,7 +21970,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -10.16 0)
 				(length 5.08)
 				(name "PT4A"
@@ -21988,7 +21988,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -12.7 0)
 				(length 5.08)
 				(name "PT56A"
@@ -22006,7 +22006,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -15.24 0)
 				(length 5.08)
 				(name "PT54A"
@@ -22024,7 +22024,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 17.78 180)
 				(length 5.08)
 				(name "PCLKC0_0"
@@ -22042,7 +22042,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 15.24 180)
 				(length 5.08)
 				(name "PCLKC0_1"
@@ -22060,7 +22060,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 12.7 180)
 				(length 5.08)
 				(name "GR_PCLK0_0"
@@ -22078,7 +22078,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 10.16 180)
 				(length 5.08)
 				(name "PT58B"
@@ -22096,7 +22096,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 7.62 180)
 				(length 5.08)
 				(name "PT20B"
@@ -22114,7 +22114,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 5.08 180)
 				(length 5.08)
 				(name "PT18B"
@@ -22132,7 +22132,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 2.54 180)
 				(length 5.08)
 				(name "PT15B"
@@ -22150,7 +22150,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 0 180)
 				(length 5.08)
 				(name "PT13B"
@@ -22168,7 +22168,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -2.54 180)
 				(length 5.08)
 				(name "PT11B"
@@ -22186,7 +22186,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -5.08 180)
 				(length 5.08)
 				(name "PT9B"
@@ -22204,7 +22204,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -7.62 180)
 				(length 5.08)
 				(name "PT6B"
@@ -22222,7 +22222,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -10.16 180)
 				(length 5.08)
 				(name "PT4B"
@@ -22240,7 +22240,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -12.7 180)
 				(length 5.08)
 				(name "PT56B"
@@ -22303,7 +22303,7 @@
 					(type none)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 17.78 0)
 				(length 5.08)
 				(name "PT121A"
@@ -22321,7 +22321,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 15.24 0)
 				(length 5.08)
 				(name "PT119A"
@@ -22339,7 +22339,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 12.7 0)
 				(length 5.08)
 				(name "PT116A"
@@ -22357,7 +22357,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 10.16 0)
 				(length 5.08)
 				(name "PT114A"
@@ -22375,7 +22375,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 7.62 0)
 				(length 5.08)
 				(name "PT112A"
@@ -22393,7 +22393,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 5.08 0)
 				(length 5.08)
 				(name "PT110A"
@@ -22411,7 +22411,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 2.54 0)
 				(length 5.08)
 				(name "PT107A"
@@ -22429,7 +22429,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 0 0)
 				(length 5.08)
 				(name "PT105A"
@@ -22447,7 +22447,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -2.54 0)
 				(length 5.08)
 				(name "PT85A"
@@ -22465,7 +22465,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -5.08 0)
 				(length 5.08)
 				(name "PT83A"
@@ -22483,7 +22483,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -7.62 0)
 				(length 5.08)
 				(name "PT80A"
@@ -22501,7 +22501,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -10.16 0)
 				(length 5.08)
 				(name "PT78A"
@@ -22519,7 +22519,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -12.7 0)
 				(length 5.08)
 				(name "PT76A"
@@ -22537,7 +22537,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -15.24 0)
 				(length 5.08)
 				(name "GR_PCLK1_0"
@@ -22555,7 +22555,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -17.78 0)
 				(length 5.08)
 				(name "PCLKT1_0"
@@ -22573,7 +22573,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -20.32 0)
 				(length 5.08)
 				(name "PCLKT1_1"
@@ -22591,7 +22591,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -22.86 0)
 				(length 5.08)
 				(name "PT103A"
@@ -22609,7 +22609,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 17.78 180)
 				(length 5.08)
 				(name "PT121B"
@@ -22627,7 +22627,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 15.24 180)
 				(length 5.08)
 				(name "PT119B"
@@ -22645,7 +22645,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 12.7 180)
 				(length 5.08)
 				(name "PT116B"
@@ -22663,7 +22663,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 10.16 180)
 				(length 5.08)
 				(name "PT114B"
@@ -22681,7 +22681,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 7.62 180)
 				(length 5.08)
 				(name "PT112B"
@@ -22699,7 +22699,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 5.08 180)
 				(length 5.08)
 				(name "PT110B"
@@ -22717,7 +22717,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 2.54 180)
 				(length 5.08)
 				(name "PT107B"
@@ -22735,7 +22735,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 0 180)
 				(length 5.08)
 				(name "PT105B"
@@ -22753,7 +22753,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -2.54 180)
 				(length 5.08)
 				(name "PT85B"
@@ -22771,7 +22771,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -5.08 180)
 				(length 5.08)
 				(name "PT83B"
@@ -22789,7 +22789,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -7.62 180)
 				(length 5.08)
 				(name "PT80B"
@@ -22807,7 +22807,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -10.16 180)
 				(length 5.08)
 				(name "PT78B"
@@ -22825,7 +22825,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -12.7 180)
 				(length 5.08)
 				(name "PT76B"
@@ -22843,7 +22843,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -15.24 180)
 				(length 5.08)
 				(name "GR_PCLK1_1"
@@ -22861,7 +22861,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -17.78 180)
 				(length 5.08)
 				(name "PCLKC1_0"
@@ -22879,7 +22879,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -20.32 180)
 				(length 5.08)
 				(name "PCLKC1_1"
@@ -22942,7 +22942,7 @@
 					(type none)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 17.78 0)
 				(length 5.08)
 				(name "PCLKT2_0"
@@ -22960,7 +22960,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 15.24 0)
 				(length 5.08)
 				(name "PCLKT2_1"
@@ -22978,7 +22978,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 12.7 0)
 				(length 5.08)
 				(name "GR_PCLK2_0"
@@ -22996,7 +22996,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 10.16 0)
 				(length 5.08)
 				(name "GR_PCLK2_1"
@@ -23014,7 +23014,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 7.62 0)
 				(length 5.08)
 				(name "PR38C"
@@ -23032,7 +23032,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 5.08 0)
 				(length 5.08)
 				(name "PR38A"
@@ -23068,7 +23068,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 0 0)
 				(length 5.08)
 				(name "PR35A"
@@ -23086,7 +23086,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -2.54 0)
 				(length 5.08)
 				(name "PR20C"
@@ -23104,7 +23104,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -5.08 0)
 				(length 5.08)
 				(name "PR20A"
@@ -23122,7 +23122,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -7.62 0)
 				(length 5.08)
 				(name "PR17C"
@@ -23140,7 +23140,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -10.16 0)
 				(length 5.08)
 				(name "PR17A"
@@ -23158,7 +23158,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -12.7 0)
 				(length 5.08)
 				(name "PR14C"
@@ -23176,7 +23176,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -15.24 0)
 				(length 5.08)
 				(name "PR14A"
@@ -23194,7 +23194,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -17.78 0)
 				(length 5.08)
 				(name "PR11C"
@@ -23212,7 +23212,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -20.32 0)
 				(length 5.08)
 				(name "PR11A"
@@ -23230,7 +23230,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -22.86 0)
 				(length 5.08)
 				(name "PR29A"
@@ -23248,7 +23248,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 17.78 180)
 				(length 5.08)
 				(name "PCLKC2_0"
@@ -23266,7 +23266,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 15.24 180)
 				(length 5.08)
 				(name "PCLKC2_1"
@@ -23284,7 +23284,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 12.7 180)
 				(length 5.08)
 				(name "PR41D"
@@ -23302,7 +23302,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 10.16 180)
 				(length 5.08)
 				(name "PR41B"
@@ -23320,7 +23320,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 7.62 180)
 				(length 5.08)
 				(name "PR38D"
@@ -23338,7 +23338,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 5.08 180)
 				(length 5.08)
 				(name "PR38B"
@@ -23356,7 +23356,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 2.54 180)
 				(length 5.08)
 				(name "PR35D"
@@ -23374,7 +23374,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 0 180)
 				(length 5.08)
 				(name "PR35B"
@@ -23392,7 +23392,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -2.54 180)
 				(length 5.08)
 				(name "PR20D"
@@ -23410,7 +23410,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -5.08 180)
 				(length 5.08)
 				(name "PR20B"
@@ -23428,7 +23428,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -7.62 180)
 				(length 5.08)
 				(name "PR17D"
@@ -23446,7 +23446,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -10.16 180)
 				(length 5.08)
 				(name "PR17B"
@@ -23464,7 +23464,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -12.7 180)
 				(length 5.08)
 				(name "PR14D"
@@ -23482,7 +23482,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -15.24 180)
 				(length 5.08)
 				(name "PR14B"
@@ -23500,7 +23500,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -17.78 180)
 				(length 5.08)
 				(name "PR11D"
@@ -23518,7 +23518,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -20.32 180)
 				(length 5.08)
 				(name "PR11B"
@@ -23536,7 +23536,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -22.86 180)
 				(length 5.08)
 				(name "PR29B"
@@ -23617,7 +23617,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 15.24 0)
 				(length 5.08)
 				(name "PR92A"
@@ -23635,7 +23635,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 12.7 0)
 				(length 5.08)
 				(name "PR89C"
@@ -23653,7 +23653,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 10.16 0)
 				(length 5.08)
 				(name "PR89A"
@@ -23671,7 +23671,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 7.62 0)
 				(length 5.08)
 				(name "PR86C"
@@ -23689,7 +23689,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 5.08 0)
 				(length 5.08)
 				(name "PR86A"
@@ -23707,7 +23707,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 2.54 0)
 				(length 5.08)
 				(name "PR83C"
@@ -23725,7 +23725,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 0 0)
 				(length 5.08)
 				(name "PR83A"
@@ -23743,7 +23743,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -2.54 0)
 				(length 5.08)
 				(name "PR56C"
@@ -23761,7 +23761,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -5.08 0)
 				(length 5.08)
 				(name "PR56A"
@@ -23779,7 +23779,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -7.62 0)
 				(length 5.08)
 				(name "PR53C"
@@ -23797,7 +23797,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -10.16 0)
 				(length 5.08)
 				(name "PR53A"
@@ -23815,7 +23815,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -12.7 0)
 				(length 5.08)
 				(name "GR_PCLK3_1"
@@ -23833,7 +23833,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -15.24 0)
 				(length 5.08)
 				(name "GR_PCLK3_0"
@@ -23851,7 +23851,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -17.78 0)
 				(length 5.08)
 				(name "PCLKT3_0"
@@ -23869,7 +23869,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -20.32 0)
 				(length 5.08)
 				(name "PCLKT3_1"
@@ -23887,7 +23887,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -22.86 0)
 				(length 5.08)
 				(name "PR77A"
@@ -23923,7 +23923,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 15.24 180)
 				(length 5.08)
 				(name "PR92B"
@@ -23941,7 +23941,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 12.7 180)
 				(length 5.08)
 				(name "PR89D"
@@ -23959,7 +23959,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 10.16 180)
 				(length 5.08)
 				(name "PR89B"
@@ -23977,7 +23977,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 7.62 180)
 				(length 5.08)
 				(name "PR86D"
@@ -23995,7 +23995,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 5.08 180)
 				(length 5.08)
 				(name "PR86B"
@@ -24013,7 +24013,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 2.54 180)
 				(length 5.08)
 				(name "PR83D"
@@ -24031,7 +24031,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 0 180)
 				(length 5.08)
 				(name "PR83B"
@@ -24049,7 +24049,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -2.54 180)
 				(length 5.08)
 				(name "PR56D"
@@ -24085,7 +24085,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -7.62 180)
 				(length 5.08)
 				(name "PR53D"
@@ -24103,7 +24103,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -10.16 180)
 				(length 5.08)
 				(name "PR53B"
@@ -24121,7 +24121,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -12.7 180)
 				(length 5.08)
 				(name "PR50D"
@@ -24139,7 +24139,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -15.24 180)
 				(length 5.08)
 				(name "PR50B"
@@ -24157,7 +24157,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -17.78 180)
 				(length 5.08)
 				(name "PCLKC3_0"
@@ -24175,7 +24175,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -20.32 180)
 				(length 5.08)
 				(name "PCLKC3_1"
@@ -24238,7 +24238,7 @@
 					(type none)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 17.78 0)
 				(length 5.08)
 				(name "PCLKT6_0"
@@ -24256,7 +24256,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 15.24 0)
 				(length 5.08)
 				(name "PCLKT6_1"
@@ -24274,7 +24274,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 12.7 0)
 				(length 5.08)
 				(name "GR_PCLK6_1"
@@ -24292,7 +24292,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 10.16 0)
 				(length 5.08)
 				(name "GR_PCLK6_0"
@@ -24310,7 +24310,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 7.62 0)
 				(length 5.08)
 				(name "PL53C"
@@ -24328,7 +24328,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 5.08 0)
 				(length 5.08)
 				(name "PL53A"
@@ -24346,7 +24346,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 2.54 0)
 				(length 5.08)
 				(name "PL56C"
@@ -24364,7 +24364,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 0 0)
 				(length 5.08)
 				(name "PL56A"
@@ -24382,7 +24382,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -2.54 0)
 				(length 5.08)
 				(name "PL83C"
@@ -24400,7 +24400,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -5.08 0)
 				(length 5.08)
 				(name "PL83A"
@@ -24418,7 +24418,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -7.62 0)
 				(length 5.08)
 				(name "PL86C"
@@ -24436,7 +24436,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -10.16 0)
 				(length 5.08)
 				(name "PL86A"
@@ -24454,7 +24454,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -12.7 0)
 				(length 5.08)
 				(name "PL65C"
@@ -24472,7 +24472,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -15.24 0)
 				(length 5.08)
 				(name "PL65A"
@@ -24508,7 +24508,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -20.32 0)
 				(length 5.08)
 				(name "PL92A"
@@ -24526,7 +24526,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -22.86 0)
 				(length 5.08)
 				(name "PL77A"
@@ -24544,7 +24544,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 17.78 180)
 				(length 5.08)
 				(name "PCLKC6_0"
@@ -24562,7 +24562,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 15.24 180)
 				(length 5.08)
 				(name "PCLKC6_1"
@@ -24580,7 +24580,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 12.7 180)
 				(length 5.08)
 				(name "PL50D"
@@ -24598,7 +24598,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 10.16 180)
 				(length 5.08)
 				(name "PL50B"
@@ -24616,7 +24616,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 7.62 180)
 				(length 5.08)
 				(name "PL53D"
@@ -24634,7 +24634,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 5.08 180)
 				(length 5.08)
 				(name "PL53B"
@@ -24652,7 +24652,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 2.54 180)
 				(length 5.08)
 				(name "PL56D"
@@ -24688,7 +24688,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -2.54 180)
 				(length 5.08)
 				(name "PL83D"
@@ -24706,7 +24706,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -5.08 180)
 				(length 5.08)
 				(name "PL83B"
@@ -24724,7 +24724,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -7.62 180)
 				(length 5.08)
 				(name "PL86D"
@@ -24742,7 +24742,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -10.16 180)
 				(length 5.08)
 				(name "PL86B"
@@ -24760,7 +24760,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -12.7 180)
 				(length 5.08)
 				(name "PL89D"
@@ -24778,7 +24778,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -15.24 180)
 				(length 5.08)
 				(name "PL89B"
@@ -24814,7 +24814,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -20.32 180)
 				(length 5.08)
 				(name "PL92B"
@@ -24877,7 +24877,7 @@
 					(type none)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 17.78 0)
 				(length 5.08)
 				(name "PL11C"
@@ -24895,7 +24895,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 15.24 0)
 				(length 5.08)
 				(name "PL11A"
@@ -24913,7 +24913,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 12.7 0)
 				(length 5.08)
 				(name "PL14C"
@@ -24931,7 +24931,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 10.16 0)
 				(length 5.08)
 				(name "PL14A"
@@ -24949,7 +24949,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 7.62 0)
 				(length 5.08)
 				(name "PL17C"
@@ -24967,7 +24967,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 5.08 0)
 				(length 5.08)
 				(name "PL17A"
@@ -24985,7 +24985,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 2.54 0)
 				(length 5.08)
 				(name "PL20C"
@@ -25003,7 +25003,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 0 0)
 				(length 5.08)
 				(name "PL20A"
@@ -25039,7 +25039,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -5.08 0)
 				(length 5.08)
 				(name "PL35A"
@@ -25057,7 +25057,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -7.62 0)
 				(length 5.08)
 				(name "PL38C"
@@ -25075,7 +25075,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -10.16 0)
 				(length 5.08)
 				(name "PL38A"
@@ -25093,7 +25093,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -12.7 0)
 				(length 5.08)
 				(name "GR_PCLK7_0"
@@ -25111,7 +25111,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -15.24 0)
 				(length 5.08)
 				(name "GR_PCLK7_1"
@@ -25129,7 +25129,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -17.78 0)
 				(length 5.08)
 				(name "PCLKT7_0"
@@ -25147,7 +25147,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -20.32 0)
 				(length 5.08)
 				(name "PCLKT7_1"
@@ -25165,7 +25165,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 17.78 180)
 				(length 5.08)
 				(name "PL11D"
@@ -25183,7 +25183,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 15.24 180)
 				(length 5.08)
 				(name "PL11B"
@@ -25201,7 +25201,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 12.7 180)
 				(length 5.08)
 				(name "PL14D"
@@ -25219,7 +25219,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 10.16 180)
 				(length 5.08)
 				(name "PL14B"
@@ -25237,7 +25237,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 7.62 180)
 				(length 5.08)
 				(name "PL17D"
@@ -25255,7 +25255,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 5.08 180)
 				(length 5.08)
 				(name "PL17B"
@@ -25273,7 +25273,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 2.54 180)
 				(length 5.08)
 				(name "PL20D"
@@ -25291,7 +25291,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 0 180)
 				(length 5.08)
 				(name "PL20B"
@@ -25309,7 +25309,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -2.54 180)
 				(length 5.08)
 				(name "PL35D"
@@ -25327,7 +25327,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -5.08 180)
 				(length 5.08)
 				(name "PL35B"
@@ -25345,7 +25345,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -7.62 180)
 				(length 5.08)
 				(name "PL38D"
@@ -25363,7 +25363,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -10.16 180)
 				(length 5.08)
 				(name "PL38B"
@@ -25381,7 +25381,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -12.7 180)
 				(length 5.08)
 				(name "PL41D"
@@ -25399,7 +25399,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -15.24 180)
 				(length 5.08)
 				(name "PL41B"
@@ -25417,7 +25417,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -17.78 180)
 				(length 5.08)
 				(name "PCLKC7_0"
@@ -25435,7 +25435,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -20.32 180)
 				(length 5.08)
 				(name "PCLKC7_1"
@@ -25624,7 +25624,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 0 0)
 				(length 5.08)
 				(name "PROGRAMn"
@@ -29111,7 +29111,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 17.78 0)
 				(length 5.08)
 				(name "PCLKT0_0"
@@ -29129,7 +29129,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 15.24 0)
 				(length 5.08)
 				(name "PCLKT0_1"
@@ -29147,7 +29147,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 12.7 0)
 				(length 5.08)
 				(name "GR_PCLK0_1"
@@ -29165,7 +29165,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 10.16 0)
 				(length 5.08)
 				(name "PT58A"
@@ -29183,7 +29183,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 7.62 0)
 				(length 5.08)
 				(name "PT20A"
@@ -29201,7 +29201,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 5.08 0)
 				(length 5.08)
 				(name "PT18A"
@@ -29219,7 +29219,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 2.54 0)
 				(length 5.08)
 				(name "PT15A"
@@ -29237,7 +29237,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 0 0)
 				(length 5.08)
 				(name "PT13A"
@@ -29255,7 +29255,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -2.54 0)
 				(length 5.08)
 				(name "PT11A"
@@ -29273,7 +29273,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -5.08 0)
 				(length 5.08)
 				(name "PT9A"
@@ -29291,7 +29291,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -7.62 0)
 				(length 5.08)
 				(name "PT6A"
@@ -29309,7 +29309,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -10.16 0)
 				(length 5.08)
 				(name "PT4A"
@@ -29327,7 +29327,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -12.7 0)
 				(length 5.08)
 				(name "PT56A"
@@ -29345,7 +29345,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -15.24 0)
 				(length 5.08)
 				(name "PT54A"
@@ -29363,7 +29363,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 17.78 180)
 				(length 5.08)
 				(name "PCLKC0_0"
@@ -29381,7 +29381,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 15.24 180)
 				(length 5.08)
 				(name "PCLKC0_1"
@@ -29399,7 +29399,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 12.7 180)
 				(length 5.08)
 				(name "GR_PCLK0_0"
@@ -29417,7 +29417,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 10.16 180)
 				(length 5.08)
 				(name "PT58B"
@@ -29435,7 +29435,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 7.62 180)
 				(length 5.08)
 				(name "PT20B"
@@ -29453,7 +29453,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 5.08 180)
 				(length 5.08)
 				(name "PT18B"
@@ -29471,7 +29471,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 2.54 180)
 				(length 5.08)
 				(name "PT15B"
@@ -29489,7 +29489,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 0 180)
 				(length 5.08)
 				(name "PT13B"
@@ -29507,7 +29507,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -2.54 180)
 				(length 5.08)
 				(name "PT11B"
@@ -29525,7 +29525,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -5.08 180)
 				(length 5.08)
 				(name "PT9B"
@@ -29543,7 +29543,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -7.62 180)
 				(length 5.08)
 				(name "PT6B"
@@ -29561,7 +29561,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -10.16 180)
 				(length 5.08)
 				(name "PT4B"
@@ -29579,7 +29579,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -12.7 180)
 				(length 5.08)
 				(name "PT56B"
@@ -29642,7 +29642,7 @@
 					(type none)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 17.78 0)
 				(length 5.08)
 				(name "PT121A"
@@ -29660,7 +29660,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 15.24 0)
 				(length 5.08)
 				(name "PT119A"
@@ -29678,7 +29678,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 12.7 0)
 				(length 5.08)
 				(name "PT116A"
@@ -29696,7 +29696,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 10.16 0)
 				(length 5.08)
 				(name "PT114A"
@@ -29714,7 +29714,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 7.62 0)
 				(length 5.08)
 				(name "PT112A"
@@ -29732,7 +29732,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 5.08 0)
 				(length 5.08)
 				(name "PT110A"
@@ -29750,7 +29750,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 2.54 0)
 				(length 5.08)
 				(name "PT107A"
@@ -29768,7 +29768,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 0 0)
 				(length 5.08)
 				(name "PT105A"
@@ -29786,7 +29786,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -2.54 0)
 				(length 5.08)
 				(name "PT85A"
@@ -29804,7 +29804,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -5.08 0)
 				(length 5.08)
 				(name "PT83A"
@@ -29822,7 +29822,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -7.62 0)
 				(length 5.08)
 				(name "PT80A"
@@ -29840,7 +29840,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -10.16 0)
 				(length 5.08)
 				(name "PT78A"
@@ -29858,7 +29858,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -12.7 0)
 				(length 5.08)
 				(name "PT76A"
@@ -29876,7 +29876,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -15.24 0)
 				(length 5.08)
 				(name "GR_PCLK1_0"
@@ -29894,7 +29894,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -17.78 0)
 				(length 5.08)
 				(name "PCLKT1_0"
@@ -29912,7 +29912,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -20.32 0)
 				(length 5.08)
 				(name "PCLKT1_1"
@@ -29930,7 +29930,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -22.86 0)
 				(length 5.08)
 				(name "PT103A"
@@ -29948,7 +29948,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 17.78 180)
 				(length 5.08)
 				(name "PT121B"
@@ -29966,7 +29966,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 15.24 180)
 				(length 5.08)
 				(name "PT119B"
@@ -29984,7 +29984,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 12.7 180)
 				(length 5.08)
 				(name "PT116B"
@@ -30002,7 +30002,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 10.16 180)
 				(length 5.08)
 				(name "PT114B"
@@ -30020,7 +30020,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 7.62 180)
 				(length 5.08)
 				(name "PT112B"
@@ -30038,7 +30038,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 5.08 180)
 				(length 5.08)
 				(name "PT110B"
@@ -30056,7 +30056,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 2.54 180)
 				(length 5.08)
 				(name "PT107B"
@@ -30074,7 +30074,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 0 180)
 				(length 5.08)
 				(name "PT105B"
@@ -30092,7 +30092,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -2.54 180)
 				(length 5.08)
 				(name "PT85B"
@@ -30110,7 +30110,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -5.08 180)
 				(length 5.08)
 				(name "PT83B"
@@ -30128,7 +30128,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -7.62 180)
 				(length 5.08)
 				(name "PT80B"
@@ -30146,7 +30146,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -10.16 180)
 				(length 5.08)
 				(name "PT78B"
@@ -30164,7 +30164,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -12.7 180)
 				(length 5.08)
 				(name "PT76B"
@@ -30182,7 +30182,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -15.24 180)
 				(length 5.08)
 				(name "GR_PCLK1_1"
@@ -30200,7 +30200,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -17.78 180)
 				(length 5.08)
 				(name "PCLKC1_0"
@@ -30218,7 +30218,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -20.32 180)
 				(length 5.08)
 				(name "PCLKC1_1"
@@ -30281,7 +30281,7 @@
 					(type none)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 17.78 0)
 				(length 5.08)
 				(name "PCLKT2_0"
@@ -30299,7 +30299,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 15.24 0)
 				(length 5.08)
 				(name "PCLKT2_1"
@@ -30317,7 +30317,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 12.7 0)
 				(length 5.08)
 				(name "GR_PCLK2_0"
@@ -30335,7 +30335,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 10.16 0)
 				(length 5.08)
 				(name "GR_PCLK2_1"
@@ -30353,7 +30353,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 7.62 0)
 				(length 5.08)
 				(name "PR38C"
@@ -30371,7 +30371,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 5.08 0)
 				(length 5.08)
 				(name "PR38A"
@@ -30407,7 +30407,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 0 0)
 				(length 5.08)
 				(name "PR35A"
@@ -30425,7 +30425,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -2.54 0)
 				(length 5.08)
 				(name "PR20C"
@@ -30443,7 +30443,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -5.08 0)
 				(length 5.08)
 				(name "PR20A"
@@ -30461,7 +30461,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -7.62 0)
 				(length 5.08)
 				(name "PR17C"
@@ -30479,7 +30479,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -10.16 0)
 				(length 5.08)
 				(name "PR17A"
@@ -30497,7 +30497,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -12.7 0)
 				(length 5.08)
 				(name "PR14C"
@@ -30515,7 +30515,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -15.24 0)
 				(length 5.08)
 				(name "PR14A"
@@ -30533,7 +30533,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -17.78 0)
 				(length 5.08)
 				(name "PR11C"
@@ -30551,7 +30551,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -20.32 0)
 				(length 5.08)
 				(name "PR11A"
@@ -30569,7 +30569,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -22.86 0)
 				(length 5.08)
 				(name "PR29A"
@@ -30587,7 +30587,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 17.78 180)
 				(length 5.08)
 				(name "PCLKC2_0"
@@ -30605,7 +30605,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 15.24 180)
 				(length 5.08)
 				(name "PCLKC2_1"
@@ -30623,7 +30623,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 12.7 180)
 				(length 5.08)
 				(name "PR41D"
@@ -30641,7 +30641,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 10.16 180)
 				(length 5.08)
 				(name "PR41B"
@@ -30659,7 +30659,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 7.62 180)
 				(length 5.08)
 				(name "PR38D"
@@ -30677,7 +30677,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 5.08 180)
 				(length 5.08)
 				(name "PR38B"
@@ -30695,7 +30695,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 2.54 180)
 				(length 5.08)
 				(name "PR35D"
@@ -30713,7 +30713,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 0 180)
 				(length 5.08)
 				(name "PR35B"
@@ -30731,7 +30731,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -2.54 180)
 				(length 5.08)
 				(name "PR20D"
@@ -30749,7 +30749,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -5.08 180)
 				(length 5.08)
 				(name "PR20B"
@@ -30767,7 +30767,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -7.62 180)
 				(length 5.08)
 				(name "PR17D"
@@ -30785,7 +30785,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -10.16 180)
 				(length 5.08)
 				(name "PR17B"
@@ -30803,7 +30803,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -12.7 180)
 				(length 5.08)
 				(name "PR14D"
@@ -30821,7 +30821,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -15.24 180)
 				(length 5.08)
 				(name "PR14B"
@@ -30839,7 +30839,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -17.78 180)
 				(length 5.08)
 				(name "PR11D"
@@ -30857,7 +30857,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -20.32 180)
 				(length 5.08)
 				(name "PR11B"
@@ -30875,7 +30875,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -22.86 180)
 				(length 5.08)
 				(name "PR29B"
@@ -30956,7 +30956,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 15.24 0)
 				(length 5.08)
 				(name "PR92A"
@@ -30974,7 +30974,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 12.7 0)
 				(length 5.08)
 				(name "PR89C"
@@ -30992,7 +30992,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 10.16 0)
 				(length 5.08)
 				(name "PR89A"
@@ -31010,7 +31010,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 7.62 0)
 				(length 5.08)
 				(name "PR86C"
@@ -31028,7 +31028,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 5.08 0)
 				(length 5.08)
 				(name "PR86A"
@@ -31046,7 +31046,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 2.54 0)
 				(length 5.08)
 				(name "PR83C"
@@ -31064,7 +31064,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 0 0)
 				(length 5.08)
 				(name "PR83A"
@@ -31082,7 +31082,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -2.54 0)
 				(length 5.08)
 				(name "PR56C"
@@ -31100,7 +31100,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -5.08 0)
 				(length 5.08)
 				(name "PR56A"
@@ -31118,7 +31118,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -7.62 0)
 				(length 5.08)
 				(name "PR53C"
@@ -31136,7 +31136,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -10.16 0)
 				(length 5.08)
 				(name "PR53A"
@@ -31154,7 +31154,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -12.7 0)
 				(length 5.08)
 				(name "GR_PCLK3_1"
@@ -31172,7 +31172,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -15.24 0)
 				(length 5.08)
 				(name "GR_PCLK3_0"
@@ -31190,7 +31190,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -17.78 0)
 				(length 5.08)
 				(name "PCLKT3_0"
@@ -31208,7 +31208,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -20.32 0)
 				(length 5.08)
 				(name "PCLKT3_1"
@@ -31226,7 +31226,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -22.86 0)
 				(length 5.08)
 				(name "PR77A"
@@ -31262,7 +31262,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 15.24 180)
 				(length 5.08)
 				(name "PR92B"
@@ -31280,7 +31280,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 12.7 180)
 				(length 5.08)
 				(name "PR89D"
@@ -31298,7 +31298,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 10.16 180)
 				(length 5.08)
 				(name "PR89B"
@@ -31316,7 +31316,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 7.62 180)
 				(length 5.08)
 				(name "PR86D"
@@ -31334,7 +31334,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 5.08 180)
 				(length 5.08)
 				(name "PR86B"
@@ -31352,7 +31352,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 2.54 180)
 				(length 5.08)
 				(name "PR83D"
@@ -31370,7 +31370,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 0 180)
 				(length 5.08)
 				(name "PR83B"
@@ -31388,7 +31388,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -2.54 180)
 				(length 5.08)
 				(name "PR56D"
@@ -31424,7 +31424,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -7.62 180)
 				(length 5.08)
 				(name "PR53D"
@@ -31442,7 +31442,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -10.16 180)
 				(length 5.08)
 				(name "PR53B"
@@ -31460,7 +31460,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -12.7 180)
 				(length 5.08)
 				(name "PR50D"
@@ -31478,7 +31478,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -15.24 180)
 				(length 5.08)
 				(name "PR50B"
@@ -31496,7 +31496,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -17.78 180)
 				(length 5.08)
 				(name "PCLKC3_0"
@@ -31514,7 +31514,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -20.32 180)
 				(length 5.08)
 				(name "PCLKC3_1"
@@ -31577,7 +31577,7 @@
 					(type none)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 17.78 0)
 				(length 5.08)
 				(name "PCLKT6_0"
@@ -31595,7 +31595,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 15.24 0)
 				(length 5.08)
 				(name "PCLKT6_1"
@@ -31613,7 +31613,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 12.7 0)
 				(length 5.08)
 				(name "GR_PCLK6_1"
@@ -31631,7 +31631,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 10.16 0)
 				(length 5.08)
 				(name "GR_PCLK6_0"
@@ -31649,7 +31649,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 7.62 0)
 				(length 5.08)
 				(name "PL53C"
@@ -31667,7 +31667,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 5.08 0)
 				(length 5.08)
 				(name "PL53A"
@@ -31685,7 +31685,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 2.54 0)
 				(length 5.08)
 				(name "PL56C"
@@ -31703,7 +31703,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 0 0)
 				(length 5.08)
 				(name "PL56A"
@@ -31721,7 +31721,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -2.54 0)
 				(length 5.08)
 				(name "PL83C"
@@ -31739,7 +31739,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -5.08 0)
 				(length 5.08)
 				(name "PL83A"
@@ -31757,7 +31757,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -7.62 0)
 				(length 5.08)
 				(name "PL86C"
@@ -31775,7 +31775,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -10.16 0)
 				(length 5.08)
 				(name "PL86A"
@@ -31793,7 +31793,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -12.7 0)
 				(length 5.08)
 				(name "PL65C"
@@ -31811,7 +31811,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -15.24 0)
 				(length 5.08)
 				(name "PL65A"
@@ -31847,7 +31847,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -20.32 0)
 				(length 5.08)
 				(name "PL92A"
@@ -31865,7 +31865,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -22.86 0)
 				(length 5.08)
 				(name "PL77A"
@@ -31883,7 +31883,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 17.78 180)
 				(length 5.08)
 				(name "PCLKC6_0"
@@ -31901,7 +31901,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 15.24 180)
 				(length 5.08)
 				(name "PCLKC6_1"
@@ -31919,7 +31919,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 12.7 180)
 				(length 5.08)
 				(name "PL50D"
@@ -31937,7 +31937,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 10.16 180)
 				(length 5.08)
 				(name "PL50B"
@@ -31955,7 +31955,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 7.62 180)
 				(length 5.08)
 				(name "PL53D"
@@ -31973,7 +31973,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 5.08 180)
 				(length 5.08)
 				(name "PL53B"
@@ -31991,7 +31991,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 2.54 180)
 				(length 5.08)
 				(name "PL56D"
@@ -32027,7 +32027,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -2.54 180)
 				(length 5.08)
 				(name "PL83D"
@@ -32045,7 +32045,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -5.08 180)
 				(length 5.08)
 				(name "PL83B"
@@ -32063,7 +32063,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -7.62 180)
 				(length 5.08)
 				(name "PL86D"
@@ -32081,7 +32081,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -10.16 180)
 				(length 5.08)
 				(name "PL86B"
@@ -32099,7 +32099,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -12.7 180)
 				(length 5.08)
 				(name "PL89D"
@@ -32117,7 +32117,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -15.24 180)
 				(length 5.08)
 				(name "PL89B"
@@ -32153,7 +32153,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -20.32 180)
 				(length 5.08)
 				(name "PL92B"
@@ -32216,7 +32216,7 @@
 					(type none)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 17.78 0)
 				(length 5.08)
 				(name "PL11C"
@@ -32234,7 +32234,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 15.24 0)
 				(length 5.08)
 				(name "PL11A"
@@ -32252,7 +32252,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 12.7 0)
 				(length 5.08)
 				(name "PL14C"
@@ -32270,7 +32270,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 10.16 0)
 				(length 5.08)
 				(name "PL14A"
@@ -32288,7 +32288,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 7.62 0)
 				(length 5.08)
 				(name "PL17C"
@@ -32306,7 +32306,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 5.08 0)
 				(length 5.08)
 				(name "PL17A"
@@ -32324,7 +32324,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 2.54 0)
 				(length 5.08)
 				(name "PL20C"
@@ -32342,7 +32342,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 0 0)
 				(length 5.08)
 				(name "PL20A"
@@ -32378,7 +32378,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -5.08 0)
 				(length 5.08)
 				(name "PL35A"
@@ -32396,7 +32396,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -7.62 0)
 				(length 5.08)
 				(name "PL38C"
@@ -32414,7 +32414,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -10.16 0)
 				(length 5.08)
 				(name "PL38A"
@@ -32432,7 +32432,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -12.7 0)
 				(length 5.08)
 				(name "GR_PCLK7_0"
@@ -32450,7 +32450,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -15.24 0)
 				(length 5.08)
 				(name "GR_PCLK7_1"
@@ -32468,7 +32468,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -17.78 0)
 				(length 5.08)
 				(name "PCLKT7_0"
@@ -32486,7 +32486,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -20.32 0)
 				(length 5.08)
 				(name "PCLKT7_1"
@@ -32504,7 +32504,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 17.78 180)
 				(length 5.08)
 				(name "PL11D"
@@ -32522,7 +32522,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 15.24 180)
 				(length 5.08)
 				(name "PL11B"
@@ -32540,7 +32540,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 12.7 180)
 				(length 5.08)
 				(name "PL14D"
@@ -32558,7 +32558,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 10.16 180)
 				(length 5.08)
 				(name "PL14B"
@@ -32576,7 +32576,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 7.62 180)
 				(length 5.08)
 				(name "PL17D"
@@ -32594,7 +32594,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 5.08 180)
 				(length 5.08)
 				(name "PL17B"
@@ -32612,7 +32612,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 2.54 180)
 				(length 5.08)
 				(name "PL20D"
@@ -32630,7 +32630,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 0 180)
 				(length 5.08)
 				(name "PL20B"
@@ -32648,7 +32648,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -2.54 180)
 				(length 5.08)
 				(name "PL35D"
@@ -32666,7 +32666,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -5.08 180)
 				(length 5.08)
 				(name "PL35B"
@@ -32684,7 +32684,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -7.62 180)
 				(length 5.08)
 				(name "PL38D"
@@ -32702,7 +32702,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -10.16 180)
 				(length 5.08)
 				(name "PL38B"
@@ -32720,7 +32720,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -12.7 180)
 				(length 5.08)
 				(name "PL41D"
@@ -32738,7 +32738,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -15.24 180)
 				(length 5.08)
 				(name "PL41B"
@@ -32756,7 +32756,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -17.78 180)
 				(length 5.08)
 				(name "PCLKC7_0"
@@ -32774,7 +32774,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -20.32 180)
 				(length 5.08)
 				(name "PCLKC7_1"
@@ -32963,7 +32963,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 0 0)
 				(length 5.08)
 				(name "PROGRAMn"
@@ -36442,7 +36442,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 17.78 0)
 				(length 5.08)
 				(name "PCLKT0_0"
@@ -36460,7 +36460,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 15.24 0)
 				(length 5.08)
 				(name "PCLKT0_1"
@@ -36478,7 +36478,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 12.7 0)
 				(length 5.08)
 				(name "GR_PCLK0_1"
@@ -36496,7 +36496,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 10.16 0)
 				(length 5.08)
 				(name "PT58A"
@@ -36514,7 +36514,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 7.62 0)
 				(length 5.08)
 				(name "PT20A"
@@ -36532,7 +36532,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 5.08 0)
 				(length 5.08)
 				(name "PT18A"
@@ -36550,7 +36550,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 2.54 0)
 				(length 5.08)
 				(name "PT15A"
@@ -36568,7 +36568,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 0 0)
 				(length 5.08)
 				(name "PT13A"
@@ -36586,7 +36586,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -2.54 0)
 				(length 5.08)
 				(name "PT11A"
@@ -36604,7 +36604,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -5.08 0)
 				(length 5.08)
 				(name "PT9A"
@@ -36622,7 +36622,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -7.62 0)
 				(length 5.08)
 				(name "PT6A"
@@ -36640,7 +36640,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -10.16 0)
 				(length 5.08)
 				(name "PT4A"
@@ -36658,7 +36658,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -12.7 0)
 				(length 5.08)
 				(name "PT56A"
@@ -36676,7 +36676,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -15.24 0)
 				(length 5.08)
 				(name "PT54A"
@@ -36694,7 +36694,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 17.78 180)
 				(length 5.08)
 				(name "PCLKC0_0"
@@ -36712,7 +36712,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 15.24 180)
 				(length 5.08)
 				(name "PCLKC0_1"
@@ -36730,7 +36730,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 12.7 180)
 				(length 5.08)
 				(name "GR_PCLK0_0"
@@ -36748,7 +36748,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 10.16 180)
 				(length 5.08)
 				(name "PT58B"
@@ -36766,7 +36766,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 7.62 180)
 				(length 5.08)
 				(name "PT20B"
@@ -36784,7 +36784,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 5.08 180)
 				(length 5.08)
 				(name "PT18B"
@@ -36802,7 +36802,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 2.54 180)
 				(length 5.08)
 				(name "PT15B"
@@ -36820,7 +36820,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 0 180)
 				(length 5.08)
 				(name "PT13B"
@@ -36838,7 +36838,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -2.54 180)
 				(length 5.08)
 				(name "PT11B"
@@ -36856,7 +36856,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -5.08 180)
 				(length 5.08)
 				(name "PT9B"
@@ -36874,7 +36874,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -7.62 180)
 				(length 5.08)
 				(name "PT6B"
@@ -36892,7 +36892,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -10.16 180)
 				(length 5.08)
 				(name "PT4B"
@@ -36910,7 +36910,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -12.7 180)
 				(length 5.08)
 				(name "PT56B"
@@ -36973,7 +36973,7 @@
 					(type none)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 17.78 0)
 				(length 5.08)
 				(name "PT121A"
@@ -36991,7 +36991,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 15.24 0)
 				(length 5.08)
 				(name "PT119A"
@@ -37009,7 +37009,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 12.7 0)
 				(length 5.08)
 				(name "PT116A"
@@ -37027,7 +37027,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 10.16 0)
 				(length 5.08)
 				(name "PT114A"
@@ -37045,7 +37045,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 7.62 0)
 				(length 5.08)
 				(name "PT112A"
@@ -37063,7 +37063,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 5.08 0)
 				(length 5.08)
 				(name "PT110A"
@@ -37081,7 +37081,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 2.54 0)
 				(length 5.08)
 				(name "PT107A"
@@ -37099,7 +37099,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 0 0)
 				(length 5.08)
 				(name "PT105A"
@@ -37117,7 +37117,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -2.54 0)
 				(length 5.08)
 				(name "PT85A"
@@ -37135,7 +37135,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -5.08 0)
 				(length 5.08)
 				(name "PT83A"
@@ -37153,7 +37153,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -7.62 0)
 				(length 5.08)
 				(name "PT80A"
@@ -37171,7 +37171,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -10.16 0)
 				(length 5.08)
 				(name "PT78A"
@@ -37189,7 +37189,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -12.7 0)
 				(length 5.08)
 				(name "PT76A"
@@ -37207,7 +37207,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -15.24 0)
 				(length 5.08)
 				(name "GR_PCLK1_0"
@@ -37225,7 +37225,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -17.78 0)
 				(length 5.08)
 				(name "PCLKT1_0"
@@ -37243,7 +37243,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -20.32 0)
 				(length 5.08)
 				(name "PCLKT1_1"
@@ -37261,7 +37261,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -22.86 0)
 				(length 5.08)
 				(name "PT103A"
@@ -37279,7 +37279,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 17.78 180)
 				(length 5.08)
 				(name "PT121B"
@@ -37297,7 +37297,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 15.24 180)
 				(length 5.08)
 				(name "PT119B"
@@ -37315,7 +37315,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 12.7 180)
 				(length 5.08)
 				(name "PT116B"
@@ -37333,7 +37333,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 10.16 180)
 				(length 5.08)
 				(name "PT114B"
@@ -37351,7 +37351,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 7.62 180)
 				(length 5.08)
 				(name "PT112B"
@@ -37369,7 +37369,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 5.08 180)
 				(length 5.08)
 				(name "PT110B"
@@ -37387,7 +37387,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 2.54 180)
 				(length 5.08)
 				(name "PT107B"
@@ -37405,7 +37405,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 0 180)
 				(length 5.08)
 				(name "PT105B"
@@ -37423,7 +37423,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -2.54 180)
 				(length 5.08)
 				(name "PT85B"
@@ -37441,7 +37441,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -5.08 180)
 				(length 5.08)
 				(name "PT83B"
@@ -37459,7 +37459,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -7.62 180)
 				(length 5.08)
 				(name "PT80B"
@@ -37477,7 +37477,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -10.16 180)
 				(length 5.08)
 				(name "PT78B"
@@ -37495,7 +37495,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -12.7 180)
 				(length 5.08)
 				(name "PT76B"
@@ -37513,7 +37513,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -15.24 180)
 				(length 5.08)
 				(name "GR_PCLK1_1"
@@ -37531,7 +37531,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -17.78 180)
 				(length 5.08)
 				(name "PCLKC1_0"
@@ -37549,7 +37549,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -20.32 180)
 				(length 5.08)
 				(name "PCLKC1_1"
@@ -37612,7 +37612,7 @@
 					(type none)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 17.78 0)
 				(length 5.08)
 				(name "PCLKT2_0"
@@ -37630,7 +37630,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 15.24 0)
 				(length 5.08)
 				(name "PCLKT2_1"
@@ -37648,7 +37648,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 12.7 0)
 				(length 5.08)
 				(name "GR_PCLK2_0"
@@ -37666,7 +37666,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 10.16 0)
 				(length 5.08)
 				(name "GR_PCLK2_1"
@@ -37684,7 +37684,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 7.62 0)
 				(length 5.08)
 				(name "PR38C"
@@ -37702,7 +37702,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 5.08 0)
 				(length 5.08)
 				(name "PR38A"
@@ -37738,7 +37738,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 0 0)
 				(length 5.08)
 				(name "PR35A"
@@ -37756,7 +37756,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -2.54 0)
 				(length 5.08)
 				(name "PR20C"
@@ -37774,7 +37774,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -5.08 0)
 				(length 5.08)
 				(name "PR20A"
@@ -37792,7 +37792,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -7.62 0)
 				(length 5.08)
 				(name "PR17C"
@@ -37810,7 +37810,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -10.16 0)
 				(length 5.08)
 				(name "PR17A"
@@ -37828,7 +37828,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -12.7 0)
 				(length 5.08)
 				(name "PR14C"
@@ -37846,7 +37846,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -15.24 0)
 				(length 5.08)
 				(name "PR14A"
@@ -37864,7 +37864,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -17.78 0)
 				(length 5.08)
 				(name "PR11C"
@@ -37882,7 +37882,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -20.32 0)
 				(length 5.08)
 				(name "PR11A"
@@ -37900,7 +37900,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -22.86 0)
 				(length 5.08)
 				(name "PR29A"
@@ -37918,7 +37918,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 17.78 180)
 				(length 5.08)
 				(name "PCLKC2_0"
@@ -37936,7 +37936,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 15.24 180)
 				(length 5.08)
 				(name "PCLKC2_1"
@@ -37954,7 +37954,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 12.7 180)
 				(length 5.08)
 				(name "PR41D"
@@ -37972,7 +37972,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 10.16 180)
 				(length 5.08)
 				(name "PR41B"
@@ -37990,7 +37990,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 7.62 180)
 				(length 5.08)
 				(name "PR38D"
@@ -38008,7 +38008,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 5.08 180)
 				(length 5.08)
 				(name "PR38B"
@@ -38026,7 +38026,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 2.54 180)
 				(length 5.08)
 				(name "PR35D"
@@ -38044,7 +38044,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 0 180)
 				(length 5.08)
 				(name "PR35B"
@@ -38062,7 +38062,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -2.54 180)
 				(length 5.08)
 				(name "PR20D"
@@ -38080,7 +38080,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -5.08 180)
 				(length 5.08)
 				(name "PR20B"
@@ -38098,7 +38098,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -7.62 180)
 				(length 5.08)
 				(name "PR17D"
@@ -38116,7 +38116,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -10.16 180)
 				(length 5.08)
 				(name "PR17B"
@@ -38134,7 +38134,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -12.7 180)
 				(length 5.08)
 				(name "PR14D"
@@ -38152,7 +38152,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -15.24 180)
 				(length 5.08)
 				(name "PR14B"
@@ -38170,7 +38170,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -17.78 180)
 				(length 5.08)
 				(name "PR11D"
@@ -38188,7 +38188,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -20.32 180)
 				(length 5.08)
 				(name "PR11B"
@@ -38206,7 +38206,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -22.86 180)
 				(length 5.08)
 				(name "PR29B"
@@ -38287,7 +38287,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 15.24 0)
 				(length 5.08)
 				(name "PR92A"
@@ -38305,7 +38305,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 12.7 0)
 				(length 5.08)
 				(name "PR89C"
@@ -38323,7 +38323,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 10.16 0)
 				(length 5.08)
 				(name "PR89A"
@@ -38341,7 +38341,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 7.62 0)
 				(length 5.08)
 				(name "PR86C"
@@ -38359,7 +38359,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 5.08 0)
 				(length 5.08)
 				(name "PR86A"
@@ -38377,7 +38377,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 2.54 0)
 				(length 5.08)
 				(name "PR83C"
@@ -38395,7 +38395,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 0 0)
 				(length 5.08)
 				(name "PR83A"
@@ -38413,7 +38413,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -2.54 0)
 				(length 5.08)
 				(name "PR56C"
@@ -38431,7 +38431,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -5.08 0)
 				(length 5.08)
 				(name "PR56A"
@@ -38449,7 +38449,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -7.62 0)
 				(length 5.08)
 				(name "PR53C"
@@ -38467,7 +38467,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -10.16 0)
 				(length 5.08)
 				(name "PR53A"
@@ -38485,7 +38485,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -12.7 0)
 				(length 5.08)
 				(name "GR_PCLK3_1"
@@ -38503,7 +38503,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -15.24 0)
 				(length 5.08)
 				(name "GR_PCLK3_0"
@@ -38521,7 +38521,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -17.78 0)
 				(length 5.08)
 				(name "PCLKT3_0"
@@ -38539,7 +38539,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -20.32 0)
 				(length 5.08)
 				(name "PCLKT3_1"
@@ -38557,7 +38557,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -22.86 0)
 				(length 5.08)
 				(name "PR77A"
@@ -38593,7 +38593,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 15.24 180)
 				(length 5.08)
 				(name "PR92B"
@@ -38611,7 +38611,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 12.7 180)
 				(length 5.08)
 				(name "PR89D"
@@ -38629,7 +38629,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 10.16 180)
 				(length 5.08)
 				(name "PR89B"
@@ -38647,7 +38647,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 7.62 180)
 				(length 5.08)
 				(name "PR86D"
@@ -38665,7 +38665,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 5.08 180)
 				(length 5.08)
 				(name "PR86B"
@@ -38683,7 +38683,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 2.54 180)
 				(length 5.08)
 				(name "PR83D"
@@ -38701,7 +38701,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 0 180)
 				(length 5.08)
 				(name "PR83B"
@@ -38719,7 +38719,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -2.54 180)
 				(length 5.08)
 				(name "PR56D"
@@ -38755,7 +38755,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -7.62 180)
 				(length 5.08)
 				(name "PR53D"
@@ -38773,7 +38773,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -10.16 180)
 				(length 5.08)
 				(name "PR53B"
@@ -38791,7 +38791,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -12.7 180)
 				(length 5.08)
 				(name "PR50D"
@@ -38809,7 +38809,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -15.24 180)
 				(length 5.08)
 				(name "PR50B"
@@ -38827,7 +38827,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -17.78 180)
 				(length 5.08)
 				(name "PCLKC3_0"
@@ -38845,7 +38845,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -20.32 180)
 				(length 5.08)
 				(name "PCLKC3_1"
@@ -38908,7 +38908,7 @@
 					(type none)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 17.78 0)
 				(length 5.08)
 				(name "PCLKT6_0"
@@ -38926,7 +38926,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 15.24 0)
 				(length 5.08)
 				(name "PCLKT6_1"
@@ -38944,7 +38944,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 12.7 0)
 				(length 5.08)
 				(name "GR_PCLK6_1"
@@ -38962,7 +38962,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 10.16 0)
 				(length 5.08)
 				(name "GR_PCLK6_0"
@@ -38980,7 +38980,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 7.62 0)
 				(length 5.08)
 				(name "PL53C"
@@ -38998,7 +38998,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 5.08 0)
 				(length 5.08)
 				(name "PL53A"
@@ -39016,7 +39016,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 2.54 0)
 				(length 5.08)
 				(name "PL56C"
@@ -39034,7 +39034,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 0 0)
 				(length 5.08)
 				(name "PL56A"
@@ -39052,7 +39052,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -2.54 0)
 				(length 5.08)
 				(name "PL83C"
@@ -39070,7 +39070,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -5.08 0)
 				(length 5.08)
 				(name "PL83A"
@@ -39088,7 +39088,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -7.62 0)
 				(length 5.08)
 				(name "PL86C"
@@ -39106,7 +39106,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -10.16 0)
 				(length 5.08)
 				(name "PL86A"
@@ -39124,7 +39124,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -12.7 0)
 				(length 5.08)
 				(name "PL65C"
@@ -39142,7 +39142,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -15.24 0)
 				(length 5.08)
 				(name "PL65A"
@@ -39178,7 +39178,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -20.32 0)
 				(length 5.08)
 				(name "PL92A"
@@ -39196,7 +39196,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -22.86 0)
 				(length 5.08)
 				(name "PL77A"
@@ -39214,7 +39214,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 17.78 180)
 				(length 5.08)
 				(name "PCLKC6_0"
@@ -39232,7 +39232,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 15.24 180)
 				(length 5.08)
 				(name "PCLKC6_1"
@@ -39250,7 +39250,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 12.7 180)
 				(length 5.08)
 				(name "PL50D"
@@ -39268,7 +39268,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 10.16 180)
 				(length 5.08)
 				(name "PL50B"
@@ -39286,7 +39286,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 7.62 180)
 				(length 5.08)
 				(name "PL53D"
@@ -39304,7 +39304,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 5.08 180)
 				(length 5.08)
 				(name "PL53B"
@@ -39322,7 +39322,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 2.54 180)
 				(length 5.08)
 				(name "PL56D"
@@ -39358,7 +39358,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -2.54 180)
 				(length 5.08)
 				(name "PL83D"
@@ -39376,7 +39376,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -5.08 180)
 				(length 5.08)
 				(name "PL83B"
@@ -39394,7 +39394,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -7.62 180)
 				(length 5.08)
 				(name "PL86D"
@@ -39412,7 +39412,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -10.16 180)
 				(length 5.08)
 				(name "PL86B"
@@ -39430,7 +39430,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -12.7 180)
 				(length 5.08)
 				(name "PL89D"
@@ -39448,7 +39448,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -15.24 180)
 				(length 5.08)
 				(name "PL89B"
@@ -39484,7 +39484,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -20.32 180)
 				(length 5.08)
 				(name "PL92B"
@@ -39547,7 +39547,7 @@
 					(type none)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 17.78 0)
 				(length 5.08)
 				(name "PL11C"
@@ -39565,7 +39565,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 15.24 0)
 				(length 5.08)
 				(name "PL11A"
@@ -39583,7 +39583,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 12.7 0)
 				(length 5.08)
 				(name "PL14C"
@@ -39601,7 +39601,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 10.16 0)
 				(length 5.08)
 				(name "PL14A"
@@ -39619,7 +39619,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 7.62 0)
 				(length 5.08)
 				(name "PL17C"
@@ -39637,7 +39637,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 5.08 0)
 				(length 5.08)
 				(name "PL17A"
@@ -39655,7 +39655,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 2.54 0)
 				(length 5.08)
 				(name "PL20C"
@@ -39673,7 +39673,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 0 0)
 				(length 5.08)
 				(name "PL20A"
@@ -39709,7 +39709,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -5.08 0)
 				(length 5.08)
 				(name "PL35A"
@@ -39727,7 +39727,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -7.62 0)
 				(length 5.08)
 				(name "PL38C"
@@ -39745,7 +39745,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -10.16 0)
 				(length 5.08)
 				(name "PL38A"
@@ -39763,7 +39763,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -12.7 0)
 				(length 5.08)
 				(name "GR_PCLK7_0"
@@ -39781,7 +39781,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -15.24 0)
 				(length 5.08)
 				(name "GR_PCLK7_1"
@@ -39799,7 +39799,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -17.78 0)
 				(length 5.08)
 				(name "PCLKT7_0"
@@ -39817,7 +39817,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -20.32 0)
 				(length 5.08)
 				(name "PCLKT7_1"
@@ -39835,7 +39835,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 17.78 180)
 				(length 5.08)
 				(name "PL11D"
@@ -39853,7 +39853,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 15.24 180)
 				(length 5.08)
 				(name "PL11B"
@@ -39871,7 +39871,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 12.7 180)
 				(length 5.08)
 				(name "PL14D"
@@ -39889,7 +39889,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 10.16 180)
 				(length 5.08)
 				(name "PL14B"
@@ -39907,7 +39907,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 7.62 180)
 				(length 5.08)
 				(name "PL17D"
@@ -39925,7 +39925,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 5.08 180)
 				(length 5.08)
 				(name "PL17B"
@@ -39943,7 +39943,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 2.54 180)
 				(length 5.08)
 				(name "PL20D"
@@ -39961,7 +39961,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 0 180)
 				(length 5.08)
 				(name "PL20B"
@@ -39979,7 +39979,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -2.54 180)
 				(length 5.08)
 				(name "PL35D"
@@ -39997,7 +39997,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -5.08 180)
 				(length 5.08)
 				(name "PL35B"
@@ -40015,7 +40015,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -7.62 180)
 				(length 5.08)
 				(name "PL38D"
@@ -40033,7 +40033,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -10.16 180)
 				(length 5.08)
 				(name "PL38B"
@@ -40051,7 +40051,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -12.7 180)
 				(length 5.08)
 				(name "PL41D"
@@ -40069,7 +40069,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -15.24 180)
 				(length 5.08)
 				(name "PL41B"
@@ -40087,7 +40087,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -17.78 180)
 				(length 5.08)
 				(name "PCLKC7_0"
@@ -40105,7 +40105,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -20.32 180)
 				(length 5.08)
 				(name "PCLKC7_1"
@@ -40294,7 +40294,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 0 0)
 				(length 5.08)
 				(name "PROGRAMn"
@@ -43763,7 +43763,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 17.78 0)
 				(length 5.08)
 				(name "PCLKT0_0"
@@ -43781,7 +43781,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 15.24 0)
 				(length 5.08)
 				(name "PCLKT0_1"
@@ -43799,7 +43799,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 12.7 0)
 				(length 5.08)
 				(name "GR_PCLK0_1"
@@ -43817,7 +43817,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 10.16 0)
 				(length 5.08)
 				(name "PT58A"
@@ -43835,7 +43835,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 7.62 0)
 				(length 5.08)
 				(name "PT20A"
@@ -43853,7 +43853,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 5.08 0)
 				(length 5.08)
 				(name "PT18A"
@@ -43871,7 +43871,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 2.54 0)
 				(length 5.08)
 				(name "PT15A"
@@ -43889,7 +43889,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 0 0)
 				(length 5.08)
 				(name "PT13A"
@@ -43907,7 +43907,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -2.54 0)
 				(length 5.08)
 				(name "PT11A"
@@ -43925,7 +43925,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -5.08 0)
 				(length 5.08)
 				(name "PT9A"
@@ -43943,7 +43943,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -7.62 0)
 				(length 5.08)
 				(name "PT6A"
@@ -43961,7 +43961,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -10.16 0)
 				(length 5.08)
 				(name "PT4A"
@@ -43979,7 +43979,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -12.7 0)
 				(length 5.08)
 				(name "PT56A"
@@ -43997,7 +43997,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -15.24 0)
 				(length 5.08)
 				(name "PT54A"
@@ -44015,7 +44015,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 17.78 180)
 				(length 5.08)
 				(name "PCLKC0_0"
@@ -44033,7 +44033,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 15.24 180)
 				(length 5.08)
 				(name "PCLKC0_1"
@@ -44051,7 +44051,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 12.7 180)
 				(length 5.08)
 				(name "GR_PCLK0_0"
@@ -44069,7 +44069,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 10.16 180)
 				(length 5.08)
 				(name "PT58B"
@@ -44087,7 +44087,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 7.62 180)
 				(length 5.08)
 				(name "PT20B"
@@ -44105,7 +44105,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 5.08 180)
 				(length 5.08)
 				(name "PT18B"
@@ -44123,7 +44123,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 2.54 180)
 				(length 5.08)
 				(name "PT15B"
@@ -44141,7 +44141,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 0 180)
 				(length 5.08)
 				(name "PT13B"
@@ -44159,7 +44159,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -2.54 180)
 				(length 5.08)
 				(name "PT11B"
@@ -44177,7 +44177,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -5.08 180)
 				(length 5.08)
 				(name "PT9B"
@@ -44195,7 +44195,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -7.62 180)
 				(length 5.08)
 				(name "PT6B"
@@ -44213,7 +44213,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -10.16 180)
 				(length 5.08)
 				(name "PT4B"
@@ -44231,7 +44231,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -12.7 180)
 				(length 5.08)
 				(name "PT56B"
@@ -44294,7 +44294,7 @@
 					(type none)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 17.78 0)
 				(length 5.08)
 				(name "PT121A"
@@ -44312,7 +44312,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 15.24 0)
 				(length 5.08)
 				(name "PT119A"
@@ -44330,7 +44330,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 12.7 0)
 				(length 5.08)
 				(name "PT116A"
@@ -44348,7 +44348,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 10.16 0)
 				(length 5.08)
 				(name "PT114A"
@@ -44366,7 +44366,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 7.62 0)
 				(length 5.08)
 				(name "PT112A"
@@ -44384,7 +44384,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 5.08 0)
 				(length 5.08)
 				(name "PT110A"
@@ -44402,7 +44402,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 2.54 0)
 				(length 5.08)
 				(name "PT107A"
@@ -44420,7 +44420,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 0 0)
 				(length 5.08)
 				(name "PT105A"
@@ -44438,7 +44438,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -2.54 0)
 				(length 5.08)
 				(name "PT85A"
@@ -44456,7 +44456,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -5.08 0)
 				(length 5.08)
 				(name "PT83A"
@@ -44474,7 +44474,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -7.62 0)
 				(length 5.08)
 				(name "PT80A"
@@ -44492,7 +44492,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -10.16 0)
 				(length 5.08)
 				(name "PT78A"
@@ -44510,7 +44510,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -12.7 0)
 				(length 5.08)
 				(name "PT76A"
@@ -44528,7 +44528,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -15.24 0)
 				(length 5.08)
 				(name "GR_PCLK1_0"
@@ -44546,7 +44546,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -17.78 0)
 				(length 5.08)
 				(name "PCLKT1_0"
@@ -44564,7 +44564,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -20.32 0)
 				(length 5.08)
 				(name "PCLKT1_1"
@@ -44582,7 +44582,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -22.86 0)
 				(length 5.08)
 				(name "PT103A"
@@ -44600,7 +44600,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 17.78 180)
 				(length 5.08)
 				(name "PT121B"
@@ -44618,7 +44618,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 15.24 180)
 				(length 5.08)
 				(name "PT119B"
@@ -44636,7 +44636,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 12.7 180)
 				(length 5.08)
 				(name "PT116B"
@@ -44654,7 +44654,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 10.16 180)
 				(length 5.08)
 				(name "PT114B"
@@ -44672,7 +44672,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 7.62 180)
 				(length 5.08)
 				(name "PT112B"
@@ -44690,7 +44690,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 5.08 180)
 				(length 5.08)
 				(name "PT110B"
@@ -44708,7 +44708,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 2.54 180)
 				(length 5.08)
 				(name "PT107B"
@@ -44726,7 +44726,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 0 180)
 				(length 5.08)
 				(name "PT105B"
@@ -44744,7 +44744,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -2.54 180)
 				(length 5.08)
 				(name "PT85B"
@@ -44762,7 +44762,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -5.08 180)
 				(length 5.08)
 				(name "PT83B"
@@ -44780,7 +44780,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -7.62 180)
 				(length 5.08)
 				(name "PT80B"
@@ -44798,7 +44798,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -10.16 180)
 				(length 5.08)
 				(name "PT78B"
@@ -44816,7 +44816,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -12.7 180)
 				(length 5.08)
 				(name "PT76B"
@@ -44834,7 +44834,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -15.24 180)
 				(length 5.08)
 				(name "GR_PCLK1_1"
@@ -44852,7 +44852,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -17.78 180)
 				(length 5.08)
 				(name "PCLKC1_0"
@@ -44870,7 +44870,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -20.32 180)
 				(length 5.08)
 				(name "PCLKC1_1"
@@ -44933,7 +44933,7 @@
 					(type none)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 17.78 0)
 				(length 5.08)
 				(name "PCLKT2_0"
@@ -44951,7 +44951,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 15.24 0)
 				(length 5.08)
 				(name "PCLKT2_1"
@@ -44969,7 +44969,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 12.7 0)
 				(length 5.08)
 				(name "GR_PCLK2_0"
@@ -44987,7 +44987,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 10.16 0)
 				(length 5.08)
 				(name "GR_PCLK2_1"
@@ -45005,7 +45005,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 7.62 0)
 				(length 5.08)
 				(name "PR38C"
@@ -45023,7 +45023,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 5.08 0)
 				(length 5.08)
 				(name "PR38A"
@@ -45059,7 +45059,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 0 0)
 				(length 5.08)
 				(name "PR35A"
@@ -45077,7 +45077,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -2.54 0)
 				(length 5.08)
 				(name "PR20C"
@@ -45095,7 +45095,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -5.08 0)
 				(length 5.08)
 				(name "PR20A"
@@ -45113,7 +45113,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -7.62 0)
 				(length 5.08)
 				(name "PR17C"
@@ -45131,7 +45131,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -10.16 0)
 				(length 5.08)
 				(name "PR17A"
@@ -45149,7 +45149,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -12.7 0)
 				(length 5.08)
 				(name "PR14C"
@@ -45167,7 +45167,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -15.24 0)
 				(length 5.08)
 				(name "PR14A"
@@ -45185,7 +45185,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -17.78 0)
 				(length 5.08)
 				(name "PR11C"
@@ -45203,7 +45203,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -20.32 0)
 				(length 5.08)
 				(name "PR11A"
@@ -45221,7 +45221,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -22.86 0)
 				(length 5.08)
 				(name "PR29A"
@@ -45239,7 +45239,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 17.78 180)
 				(length 5.08)
 				(name "PCLKC2_0"
@@ -45257,7 +45257,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 15.24 180)
 				(length 5.08)
 				(name "PCLKC2_1"
@@ -45275,7 +45275,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 12.7 180)
 				(length 5.08)
 				(name "PR41D"
@@ -45293,7 +45293,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 10.16 180)
 				(length 5.08)
 				(name "PR41B"
@@ -45311,7 +45311,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 7.62 180)
 				(length 5.08)
 				(name "PR38D"
@@ -45329,7 +45329,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 5.08 180)
 				(length 5.08)
 				(name "PR38B"
@@ -45347,7 +45347,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 2.54 180)
 				(length 5.08)
 				(name "PR35D"
@@ -45365,7 +45365,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 0 180)
 				(length 5.08)
 				(name "PR35B"
@@ -45383,7 +45383,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -2.54 180)
 				(length 5.08)
 				(name "PR20D"
@@ -45401,7 +45401,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -5.08 180)
 				(length 5.08)
 				(name "PR20B"
@@ -45419,7 +45419,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -7.62 180)
 				(length 5.08)
 				(name "PR17D"
@@ -45437,7 +45437,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -10.16 180)
 				(length 5.08)
 				(name "PR17B"
@@ -45455,7 +45455,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -12.7 180)
 				(length 5.08)
 				(name "PR14D"
@@ -45473,7 +45473,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -15.24 180)
 				(length 5.08)
 				(name "PR14B"
@@ -45491,7 +45491,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -17.78 180)
 				(length 5.08)
 				(name "PR11D"
@@ -45509,7 +45509,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -20.32 180)
 				(length 5.08)
 				(name "PR11B"
@@ -45527,7 +45527,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -22.86 180)
 				(length 5.08)
 				(name "PR29B"
@@ -45608,7 +45608,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 15.24 0)
 				(length 5.08)
 				(name "PR92A"
@@ -45626,7 +45626,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 12.7 0)
 				(length 5.08)
 				(name "PR89C"
@@ -45644,7 +45644,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 10.16 0)
 				(length 5.08)
 				(name "PR89A"
@@ -45662,7 +45662,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 7.62 0)
 				(length 5.08)
 				(name "PR86C"
@@ -45680,7 +45680,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 5.08 0)
 				(length 5.08)
 				(name "PR86A"
@@ -45698,7 +45698,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 2.54 0)
 				(length 5.08)
 				(name "PR83C"
@@ -45716,7 +45716,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 0 0)
 				(length 5.08)
 				(name "PR83A"
@@ -45734,7 +45734,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -2.54 0)
 				(length 5.08)
 				(name "PR56C"
@@ -45752,7 +45752,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -5.08 0)
 				(length 5.08)
 				(name "PR56A"
@@ -45770,7 +45770,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -7.62 0)
 				(length 5.08)
 				(name "PR53C"
@@ -45788,7 +45788,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -10.16 0)
 				(length 5.08)
 				(name "PR53A"
@@ -45806,7 +45806,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -12.7 0)
 				(length 5.08)
 				(name "GR_PCLK3_1"
@@ -45824,7 +45824,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -15.24 0)
 				(length 5.08)
 				(name "GR_PCLK3_0"
@@ -45842,7 +45842,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -17.78 0)
 				(length 5.08)
 				(name "PCLKT3_0"
@@ -45860,7 +45860,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -20.32 0)
 				(length 5.08)
 				(name "PCLKT3_1"
@@ -45878,7 +45878,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -22.86 0)
 				(length 5.08)
 				(name "PR77A"
@@ -45914,7 +45914,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 15.24 180)
 				(length 5.08)
 				(name "PR92B"
@@ -45932,7 +45932,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 12.7 180)
 				(length 5.08)
 				(name "PR89D"
@@ -45950,7 +45950,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 10.16 180)
 				(length 5.08)
 				(name "PR89B"
@@ -45968,7 +45968,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 7.62 180)
 				(length 5.08)
 				(name "PR86D"
@@ -45986,7 +45986,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 5.08 180)
 				(length 5.08)
 				(name "PR86B"
@@ -46004,7 +46004,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 2.54 180)
 				(length 5.08)
 				(name "PR83D"
@@ -46022,7 +46022,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 0 180)
 				(length 5.08)
 				(name "PR83B"
@@ -46040,7 +46040,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -2.54 180)
 				(length 5.08)
 				(name "PR56D"
@@ -46076,7 +46076,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -7.62 180)
 				(length 5.08)
 				(name "PR53D"
@@ -46094,7 +46094,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -10.16 180)
 				(length 5.08)
 				(name "PR53B"
@@ -46112,7 +46112,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -12.7 180)
 				(length 5.08)
 				(name "PR50D"
@@ -46130,7 +46130,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -15.24 180)
 				(length 5.08)
 				(name "PR50B"
@@ -46148,7 +46148,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -17.78 180)
 				(length 5.08)
 				(name "PCLKC3_0"
@@ -46166,7 +46166,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -20.32 180)
 				(length 5.08)
 				(name "PCLKC3_1"
@@ -46229,7 +46229,7 @@
 					(type none)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 17.78 0)
 				(length 5.08)
 				(name "PCLKT6_0"
@@ -46247,7 +46247,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 15.24 0)
 				(length 5.08)
 				(name "PCLKT6_1"
@@ -46265,7 +46265,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 12.7 0)
 				(length 5.08)
 				(name "GR_PCLK6_1"
@@ -46283,7 +46283,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 10.16 0)
 				(length 5.08)
 				(name "GR_PCLK6_0"
@@ -46301,7 +46301,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 7.62 0)
 				(length 5.08)
 				(name "PL53C"
@@ -46319,7 +46319,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 5.08 0)
 				(length 5.08)
 				(name "PL53A"
@@ -46337,7 +46337,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 2.54 0)
 				(length 5.08)
 				(name "PL56C"
@@ -46355,7 +46355,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 0 0)
 				(length 5.08)
 				(name "PL56A"
@@ -46373,7 +46373,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -2.54 0)
 				(length 5.08)
 				(name "PL83C"
@@ -46391,7 +46391,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -5.08 0)
 				(length 5.08)
 				(name "PL83A"
@@ -46409,7 +46409,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -7.62 0)
 				(length 5.08)
 				(name "PL86C"
@@ -46427,7 +46427,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -10.16 0)
 				(length 5.08)
 				(name "PL86A"
@@ -46445,7 +46445,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -12.7 0)
 				(length 5.08)
 				(name "PL65C"
@@ -46463,7 +46463,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -15.24 0)
 				(length 5.08)
 				(name "PL65A"
@@ -46499,7 +46499,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -20.32 0)
 				(length 5.08)
 				(name "PL92A"
@@ -46517,7 +46517,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -22.86 0)
 				(length 5.08)
 				(name "PL77A"
@@ -46535,7 +46535,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 17.78 180)
 				(length 5.08)
 				(name "PCLKC6_0"
@@ -46553,7 +46553,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 15.24 180)
 				(length 5.08)
 				(name "PCLKC6_1"
@@ -46571,7 +46571,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 12.7 180)
 				(length 5.08)
 				(name "PL50D"
@@ -46589,7 +46589,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 10.16 180)
 				(length 5.08)
 				(name "PL50B"
@@ -46607,7 +46607,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 7.62 180)
 				(length 5.08)
 				(name "PL53D"
@@ -46625,7 +46625,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 5.08 180)
 				(length 5.08)
 				(name "PL53B"
@@ -46643,7 +46643,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 2.54 180)
 				(length 5.08)
 				(name "PL56D"
@@ -46679,7 +46679,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -2.54 180)
 				(length 5.08)
 				(name "PL83D"
@@ -46697,7 +46697,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -5.08 180)
 				(length 5.08)
 				(name "PL83B"
@@ -46715,7 +46715,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -7.62 180)
 				(length 5.08)
 				(name "PL86D"
@@ -46733,7 +46733,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -10.16 180)
 				(length 5.08)
 				(name "PL86B"
@@ -46751,7 +46751,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -12.7 180)
 				(length 5.08)
 				(name "PL89D"
@@ -46769,7 +46769,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -15.24 180)
 				(length 5.08)
 				(name "PL89B"
@@ -46805,7 +46805,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -20.32 180)
 				(length 5.08)
 				(name "PL92B"
@@ -46868,7 +46868,7 @@
 					(type none)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 17.78 0)
 				(length 5.08)
 				(name "PL11C"
@@ -46886,7 +46886,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 15.24 0)
 				(length 5.08)
 				(name "PL11A"
@@ -46904,7 +46904,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 12.7 0)
 				(length 5.08)
 				(name "PL14C"
@@ -46922,7 +46922,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 10.16 0)
 				(length 5.08)
 				(name "PL14A"
@@ -46940,7 +46940,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 7.62 0)
 				(length 5.08)
 				(name "PL17C"
@@ -46958,7 +46958,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 5.08 0)
 				(length 5.08)
 				(name "PL17A"
@@ -46976,7 +46976,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 2.54 0)
 				(length 5.08)
 				(name "PL20C"
@@ -46994,7 +46994,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 0 0)
 				(length 5.08)
 				(name "PL20A"
@@ -47030,7 +47030,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -5.08 0)
 				(length 5.08)
 				(name "PL35A"
@@ -47048,7 +47048,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -7.62 0)
 				(length 5.08)
 				(name "PL38C"
@@ -47066,7 +47066,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -10.16 0)
 				(length 5.08)
 				(name "PL38A"
@@ -47084,7 +47084,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -12.7 0)
 				(length 5.08)
 				(name "GR_PCLK7_0"
@@ -47102,7 +47102,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -15.24 0)
 				(length 5.08)
 				(name "GR_PCLK7_1"
@@ -47120,7 +47120,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -17.78 0)
 				(length 5.08)
 				(name "PCLKT7_0"
@@ -47138,7 +47138,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 -20.32 0)
 				(length 5.08)
 				(name "PCLKT7_1"
@@ -47156,7 +47156,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 17.78 180)
 				(length 5.08)
 				(name "PL11D"
@@ -47174,7 +47174,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 15.24 180)
 				(length 5.08)
 				(name "PL11B"
@@ -47192,7 +47192,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 12.7 180)
 				(length 5.08)
 				(name "PL14D"
@@ -47210,7 +47210,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 10.16 180)
 				(length 5.08)
 				(name "PL14B"
@@ -47228,7 +47228,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 7.62 180)
 				(length 5.08)
 				(name "PL17D"
@@ -47246,7 +47246,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 5.08 180)
 				(length 5.08)
 				(name "PL17B"
@@ -47264,7 +47264,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 2.54 180)
 				(length 5.08)
 				(name "PL20D"
@@ -47282,7 +47282,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 0 180)
 				(length 5.08)
 				(name "PL20B"
@@ -47300,7 +47300,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -2.54 180)
 				(length 5.08)
 				(name "PL35D"
@@ -47318,7 +47318,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -5.08 180)
 				(length 5.08)
 				(name "PL35B"
@@ -47336,7 +47336,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -7.62 180)
 				(length 5.08)
 				(name "PL38D"
@@ -47354,7 +47354,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -10.16 180)
 				(length 5.08)
 				(name "PL38B"
@@ -47372,7 +47372,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -12.7 180)
 				(length 5.08)
 				(name "PL41D"
@@ -47390,7 +47390,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -15.24 180)
 				(length 5.08)
 				(name "PL41B"
@@ -47408,7 +47408,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -17.78 180)
 				(length 5.08)
 				(name "PCLKC7_0"
@@ -47426,7 +47426,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 19.05 -20.32 180)
 				(length 5.08)
 				(name "PCLKC7_1"
@@ -47615,7 +47615,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -19.05 0 0)
 				(length 5.08)
 				(name "PROGRAMn"
