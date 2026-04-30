@@ -4,7 +4,7 @@
   (lib (name "lfe5bg381")(type "KiCad")(uri "${KIPRJMOD}/footprints/lattice/lfe5bg381.kicad_sym")(options "")(descr ""))
   (lib (name "ft2232")(type "KiCad")(uri "${KIPRJMOD}/footprints/usbserial/ft2232.kicad_sym")(options "")(descr ""))
   (lib (name "esp32")(type "KiCad")(uri "${KIPRJMOD}/footprints/esp32/esp32.kicad_sym")(options "")(descr ""))
-  (lib (name "ssd_13xx")(type "Legacy")(uri "${KIPRJMOD}/footprints/oled/ssd_13xx.lib")(options "")(descr ""))
+  (lib (name "ssd_13xx")(type "KiCad")(uri "${KIPRJMOD}/footprints/oled/ssd_13xx.kicad_sym")(options "")(descr ""))
   (lib (name "ftdi")(type "Legacy")(uri "${KIPRJMOD}/footprints/usbserial/ftdi.lib")(options "")(descr ""))
   (lib (name "max1112x")(type "Legacy")(uri "${KIPRJMOD}/footprints/adc/max1112x/max1112x.lib")(options "")(descr ""))
   (lib (name "micro_sd_card_cd")(type "Legacy")(uri "${KIPRJMOD}/footprints/micro-sd/micro_sd_card_cd.lib")(options "")(descr ""))
