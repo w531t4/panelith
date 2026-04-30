@@ -9514,7 +9514,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "usb_otg:USB_OTG"
+		(symbol "ulx3s-rescue:USB_OTG"
 			(pin_names
 				(offset 1.016)
 			)
@@ -9703,7 +9703,7 @@
 						)
 					)
 				)
-				(pin power_in line
+				(pin passive line
 					(at 2.54 -7.62 90)
 					(length 3.81)
 					(name "ID"
@@ -12836,7 +12836,7 @@
 		)
 	)
 	(symbol
-		(lib_id "usb_otg:USB_OTG")
+		(lib_id "ulx3s-rescue:USB_OTG")
 		(at 38.1 48.26 90)
 		(mirror x)
 		(unit 1)
@@ -13077,7 +13077,7 @@
 		)
 	)
 	(symbol
-		(lib_id "usb_otg:USB_OTG")
+		(lib_id "ulx3s-rescue:USB_OTG")
 		(at 38.1 72.39 90)
 		(mirror x)
 		(unit 1)
