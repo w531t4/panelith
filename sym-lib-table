@@ -16,5 +16,5 @@
   (lib (name "jack_trs_6pins_apple")(type "KiCad")(uri "${KIPRJMOD}/footprints/audio-jack/jack_trs_6pins_apple.kicad_sym")(options "")(descr ""))
   (lib (name "pca9306d")(type "KiCad")(uri "${KIPRJMOD}/footprints/level-translator/pca9306d.kicad_sym")(options "")(descr ""))
   (lib (name "st7789")(type "KiCad")(uri "${KIPRJMOD}/footprints/lcd/st7789.kicad_sym")(options "")(descr ""))
-  (lib (name "micro_sd_slide")(type "Legacy")(uri "${KIPRJMOD}/footprints/micro-sd/104031-0811.lib")(options "")(descr ""))
+  (lib (name "micro_sd_slide")(type "KiCad")(uri "${KIPRJMOD}/footprints/micro-sd/104031-0811.kicad_sym")(options "")(descr ""))
 )
