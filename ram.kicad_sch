@@ -12038,10 +12038,6 @@
 		)
 		(instances
 			(project "ulx3s"
-				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21"
-					(reference "U9")
-					(unit 1)
-				)
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6d507"
 					(reference "U2")
 					(unit 1)
@@ -13248,10 +13244,6 @@
 		)
 		(instances
 			(project "ulx3s"
-				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21"
-					(reference "U1")
-					(unit 3)
-				)
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6d507"
 					(reference "U1")
 					(unit 3)
@@ -14458,10 +14450,6 @@
 		)
 		(instances
 			(project "ulx3s"
-				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21"
-					(reference "U1")
-					(unit 4)
-				)
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6d507"
 					(reference "U1")
 					(unit 4)
