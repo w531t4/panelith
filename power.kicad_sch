@@ -11106,6 +11106,12 @@
 		(uuid "05ca97bb-6506-4ee4-a037-12571327b1da")
 	)
 	(junction
+		(at 275.59 77.47)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "081cf746-7099-4f49-920c-5af5bdd58b6c")
+	)
+	(junction
 		(at 93.98 26.67)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -30721,6 +30727,72 @@
 			(project "ulx3s"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d51cad"
 					(reference "#PWR0174")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 275.59 77.47 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a1a5289c-0968-46c5-944f-f59c5376dfed")
+		(property "Reference" "#FLG04"
+			(at 277.495 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 280.924 69.342 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 275.59 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 275.59 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 275.59 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "970f5343-f9bb-49ba-9e41-d38c37808f5b")
+		)
+		(instances
+			(project "ulx3s"
+				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d51cad"
+					(reference "#FLG04")
 					(unit 1)
 				)
 			)
