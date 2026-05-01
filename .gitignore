@@ -7,5 +7,6 @@ ulx3s.bin
 ulx3s.ses
 ulx3s.rules
 
-/footprints/**/*.bak
+*.bak
+*.lck
 /ulx3s-backups
