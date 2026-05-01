@@ -60,6 +60,10 @@
       ],
       "drc_exclusions": [
         [
+          "clearance|152281000|98328500|a009c1c5-f11c-4bae-9c07-f4e45b27ff7a|ce53f391-6ec7-4bd8-8b9e-90ae018c2be7",
+          "this is related to user adjustable jumper pads. not an issue"
+        ],
+        [
           "shorting_items|109432750|80132000|194eb79f-2552-4515-9c9a-0156c7a76197|61fdc3e6-98a7-4119-86f8-f610a795ad60",
           "deliberate jumper"
         ],
