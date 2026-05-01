@@ -36,4 +36,5 @@
   (lib (name "oshw")(type "KiCad")(uri "$(KIPRJMOD)/footprints/logo/oshw.pretty")(options "")(descr ""))
   (lib (name "abs07")(type "KiCad")(uri "$(KIPRJMOD)/footprints/crystal/abs07.pretty")(options "")(descr ""))
   (lib (name "Socket_Strips")(type "KiCad")(uri "${KIPRJMOD}/footprints/socket_strips/Socket_Strips.pretty")(options "")(descr ""))
+  (lib (name "Mounting_Holes")(type "KiCad")(uri "${KIPRJMOD}/footprints/mounting_holes/Mounting_Holes.pretty")(options "")(descr ""))
 )
