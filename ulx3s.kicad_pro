@@ -58,7 +58,20 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "starved_thermal|158693000|93530000|00000000-0000-0000-0000-0000618fced0|5560c773-f308-400d-8c8d-b3afea81190b|F.Cu",
+          "There's no way to get this pad more relief"
+        ],
+        [
+          "starved_thermal|161093000|82070000|00000000-0000-0000-0000-0000618fced0|b545ddbb-9db0-4138-82c3-f0bdfa0a22ee|F.Cu",
+          "There's no way to get this pad more relief"
+        ],
+        [
+          "starved_thermal|177285000|97815000|00000000-0000-0000-0000-0000618fced0|773f8199-506e-4583-9110-90fb395dcaec|F.Cu",
+          "There's no way to get this pad more relief... "
+        ]
+      ],
       "meta": {
         "version": 2
       },
