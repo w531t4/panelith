@@ -958,6 +958,7 @@
 		(drill 1.016)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
+		(thermal_gap 0.3)
 		(uuid "05b66c1b-5ca2-46da-891e-7e87f84292ad")
 	)
 	(pad "4" thru_hole rect
@@ -966,6 +967,7 @@
 		(drill 1.016)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
+		(thermal_gap 0.3)
 		(uuid "d92579c4-bab4-4818-9119-3d15a901a45b")
 	)
 	(pad "5" thru_hole oval
@@ -1102,6 +1104,7 @@
 		(drill 1.016)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
+		(thermal_gap 0.3)
 		(uuid "5450d65d-b8e7-4ec4-bc8a-d517a4007f18")
 	)
 	(pad "22" thru_hole rect
@@ -1110,6 +1113,7 @@
 		(drill 1.016)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
+		(thermal_gap 0.3)
 		(uuid "c1466070-c6d7-41f3-bb9a-a998692d4e51")
 	)
 	(pad "23" thru_hole oval
@@ -1230,6 +1234,7 @@
 		(drill 1.016)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
+		(thermal_gap 0.3)
 		(uuid "8903c32e-1ea9-4928-b025-df3578f2c8a8")
 	)
 	(pad "38" thru_hole rect
@@ -1238,6 +1243,7 @@
 		(drill 1.016)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
+		(thermal_gap 0.3)
 		(uuid "2d4e1bca-c52a-4ed5-8e51-2016037786f2")
 	)
 	(pad "39" thru_hole oval
