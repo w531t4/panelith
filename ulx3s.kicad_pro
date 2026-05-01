@@ -60,6 +60,58 @@
       ],
       "drc_exclusions": [
         [
+          "shorting_items|109432750|80132000|194eb79f-2552-4515-9c9a-0156c7a76197|61fdc3e6-98a7-4119-86f8-f610a795ad60",
+          "deliberate jumper"
+        ],
+        [
+          "shorting_items|109432750|80932000|0b5300f3-e6be-403c-87fb-209511aaa592|61fdc3e6-98a7-4119-86f8-f610a795ad60",
+          "deliberate jumper"
+        ],
+        [
+          "shorting_items|148972000|78711000|8090c44a-4ad5-42ed-ae38-36e8d519f78e|9ee50b13-2eb8-4084-a008-631ae43fff30",
+          "deliberate jumper"
+        ],
+        [
+          "shorting_items|149095750|77911000|64be4f23-946d-406a-b4cb-9d48799232f0|9ee50b13-2eb8-4084-a008-631ae43fff30",
+          "deliberate jumper"
+        ],
+        [
+          "shorting_items|149095750|78711000|0bfc43ef-4950-428d-94f2-dc19105f6f48|9ee50b13-2eb8-4084-a008-631ae43fff30",
+          "deliberate jumper"
+        ],
+        [
+          "shorting_items|151904750|96961000|070f7f6a-0741-45b6-a7dc-2e88efa46dab|ce53f391-6ec7-4bd8-8b9e-90ae018c2be7",
+          "deliberate jumper"
+        ],
+        [
+          "shorting_items|151904750|97761000|2dbc80ad-4464-4f4b-abf1-5e3053eb80c5|ce53f391-6ec7-4bd8-8b9e-90ae018c2be7",
+          "deliberate jumper"
+        ],
+        [
+          "shorting_items|156130000|66200000|2729eb00-8dc2-4db6-aa0d-a0c3bc728575|37352b48-4c85-4f2c-a07e-c32ff517a7c9",
+          "deliberate jumper"
+        ],
+        [
+          "shorting_items|156130000|68000000|37352b48-4c85-4f2c-a07e-c32ff517a7c9|816e4f4b-df24-4c85-b74c-697c5d2ad142",
+          "deliberate jumper"
+        ],
+        [
+          "shorting_items|159705000|66200000|95d88052-643a-4c41-807d-424f500808b9|ce4b8dbf-d59a-4233-89bb-c5e62b6edab0",
+          "deliberate jumper"
+        ],
+        [
+          "shorting_items|159705000|68000000|95d88052-643a-4c41-807d-424f500808b9|ac43a923-7f0f-4ba2-8d84-890238b1f46b",
+          "deliberate jumper"
+        ],
+        [
+          "shorting_items|163954000|73450000|1b85e457-eab5-4dfc-b366-a4183acc78f0|6f317c71-f2d1-449f-86dc-cc7fe97af6e8",
+          "deliberate jumper"
+        ],
+        [
+          "shorting_items|165754000|73450000|6f317c71-f2d1-449f-86dc-cc7fe97af6e8|ae89d127-4de6-4bf2-b6cb-0c53d2919c6c",
+          "deliberate jumper"
+        ],
+        [
           "starved_thermal|158693000|93530000|00000000-0000-0000-0000-0000618fced0|5560c773-f308-400d-8c8d-b3afea81190b|F.Cu",
           "There's no way to get this pad more relief"
         ],
