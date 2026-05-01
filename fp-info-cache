@@ -1,4 +1,4 @@
-27324670228227722
+27326447886515098
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -73338,6 +73338,13 @@ mounting
 0
 0
 0
+Mounting_Holes
+MountingHole_3.2mm_M3_ISO14580_Pad
+Mounting Hole 3.2mm, M3, ISO14580
+mounting hole 3.2mm m3 iso14580
+0
+1
+1
 Mounting_Wuerth
 Mounting_Wuerth_WA-SMSE-ExternalM3_H5mm_9771050360
 Mounting Hardware, external M3, height 5, Wuerth electronics 9771050360 (https://www.we-online.com/components/products/datasheet/9771050360R.pdf), generated with kicad-footprint-generator
