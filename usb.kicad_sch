@@ -21279,6 +21279,24 @@
 				)
 			)
 		)
+		(property "Digikey" "13-AC0603FR-071K1LCT-ND"
+			(at 57.15 118.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "13-AC0603FR-071K1LCT-ND"
+			(at 57.15 118.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d3239a84-d6d9-4ebc-bd02-f87a8f02a6dc")
 		)
@@ -22004,7 +22022,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "BZT52C3V6S"
+		(property "MPN" "833-BZT52C3V6S-TP"
 			(at 66.04 76.2 0)
 			(effects
 				(font
@@ -22142,7 +22160,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "BZT52C3V6S"
+		(property "MPN" "833-BZT52C3V6S-TP"
 			(at 68.58 76.2 0)
 			(effects
 				(font
@@ -22380,6 +22398,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Digikey" "13-AC0603FR-071K1LCT-ND"
+			(at 57.15 133.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "13-AC0603FR-071K1LCT-ND"
+			(at 57.15 133.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -25441,7 +25477,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "1N4148WS "
+		(property "MPN" "1N4148WS"
 			(at 49.53 123.19 0)
 			(effects
 				(font
@@ -25544,7 +25580,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "1N4148WS "
+		(property "MPN" "1N4148WS"
 			(at 49.53 138.43 0)
 			(effects
 				(font
@@ -25647,7 +25683,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "1N4148WS "
+		(property "MPN" "1N4148WS"
 			(at 49.53 118.11 0)
 			(effects
 				(font

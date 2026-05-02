@@ -1561,6 +1561,24 @@
 				)
 			)
 		)
+		(property "Digikey" "13-AC0603FR-07130RLCT-ND"
+			(at 48.26 69.85 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "13-AC0603FR-07130RLCT-ND"
+			(at 48.26 69.85 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d56b79e6-8a58-4d42-8074-3a7a53ef5ac0")
 		)
@@ -1686,6 +1704,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Digikey" "13-AC0603FR-07549RLCT-ND"
+			(at 115.57 116.84 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "13-AC0603FR-07549RLCT-ND"
+			(at 115.57 116.84 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -1926,6 +1962,24 @@
 				)
 			)
 		)
+		(property "Digikey" "13-AC0603FR-07549RLCT-ND"
+			(at 139.7 135.89 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "13-AC0603FR-07549RLCT-ND"
+			(at 139.7 135.89 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "edcc0e57-549a-4b35-a189-5d305bf0d30e")
 		)
@@ -1989,6 +2043,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Digikey" "13-AC0603FR-07549RLCT-ND"
+			(at 133.35 64.77 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "13-AC0603FR-07549RLCT-ND"
+			(at 133.35 64.77 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -2056,6 +2128,24 @@
 				)
 			)
 		)
+		(property "Digikey" "13-AC0603FR-07549RLCT-ND"
+			(at 133.35 69.85 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "13-AC0603FR-07549RLCT-ND"
+			(at 133.35 69.85 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "95743362-4ca5-4369-b22d-21695ddd86da")
 		)
@@ -2119,6 +2209,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Digikey" "13-AC0603FR-07549RLCT-ND"
+			(at 115.57 148.59 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "13-AC0603FR-07549RLCT-ND"
+			(at 115.57 148.59 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"

@@ -9761,6 +9761,24 @@
 				)
 			)
 		)
+		(property "Digikey" "13-AC0603FR-071K1LCT-ND"
+			(at 97.79 59.69 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "13-AC0603FR-071K1LCT-ND"
+			(at 97.79 59.69 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ce95e7e5-6342-4f09-9152-4df4c1891442")
 		)
@@ -12481,7 +12499,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "1N4148WS "
+		(property "MPN" "1N4148WS"
 			(at 127 90.17 0)
 			(effects
 				(font
@@ -12628,7 +12646,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "1N4148WS "
+		(property "MPN" "1N4148WS"
 			(at 127 86.36 0)
 			(effects
 				(font

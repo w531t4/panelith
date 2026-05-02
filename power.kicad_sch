@@ -16502,7 +16502,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0805ZKY5V5BB226 "
+		(property "MPN" "CC0805ZKY5V5BB226"
 			(at 187.96 93.98 0)
 			(effects
 				(font
@@ -17161,7 +17161,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CC0805ZKY5V5BB226 "
+		(property "MPN" "CC0805ZKY5V5BB226"
 			(at 248.92 83.82 0)
 			(effects
 				(font
@@ -17255,7 +17255,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CC0805ZKY5V5BB226 "
+		(property "MPN" "CC0805ZKY5V5BB226"
 			(at 257.81 83.82 0)
 			(effects
 				(font
@@ -17579,7 +17579,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0805ZKY5V5BB226 "
+		(property "MPN" "CC0805ZKY5V5BB226"
 			(at 187.96 154.94 0)
 			(effects
 				(font
@@ -18085,7 +18085,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CC0805ZKY5V5BB226 "
+		(property "MPN" "CC0805ZKY5V5BB226"
 			(at 248.92 144.78 0)
 			(effects
 				(font
@@ -18179,7 +18179,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CC0805ZKY5V5BB226 "
+		(property "MPN" "CC0805ZKY5V5BB226"
 			(at 257.81 144.78 0)
 			(effects
 				(font
@@ -18503,7 +18503,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0805ZKY5V5BB226 "
+		(property "MPN" "CC0805ZKY5V5BB226"
 			(at 187.96 124.46 0)
 			(effects
 				(font
@@ -19066,7 +19066,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CC0805ZKY5V5BB226 "
+		(property "MPN" "CC0805ZKY5V5BB226"
 			(at 248.92 114.3 0)
 			(effects
 				(font
@@ -19160,7 +19160,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CC0805ZKY5V5BB226 "
+		(property "MPN" "CC0805ZKY5V5BB226"
 			(at 257.81 114.3 0)
 			(effects
 				(font
@@ -19708,7 +19708,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "1N4148WS "
+		(property "MPN" "1N4148WS"
 			(at 109.22 107.95 0)
 			(effects
 				(font
@@ -19937,6 +19937,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Digikey" "13-AC0603FR-071K1LCT-ND"
+			(at 86.36 95.25 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "13-AC0603FR-071K1LCT-ND"
+			(at 86.36 95.25 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -20523,6 +20541,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Digikey" "13-AC0603FR-071K1LCT-ND"
+			(at 104.14 132.08 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "13-AC0603FR-071K1LCT-ND"
+			(at 104.14 132.08 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -21317,7 +21353,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "1N4148WS "
+		(property "MPN" "1N4148WS"
 			(at 102.87 107.95 0)
 			(effects
 				(font
@@ -21480,7 +21516,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "1N4148WS "
+		(property "MPN" "1N4148WS"
 			(at 86.36 137.16 0)
 			(effects
 				(font
@@ -21718,7 +21754,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "1N4148WS "
+		(property "MPN" "1N4148WS"
 			(at 73.66 100.33 0)
 			(effects
 				(font
@@ -22016,7 +22052,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "1N4148WS "
+		(property "MPN" "1N4148WS"
 			(at 80.01 105.41 0)
 			(effects
 				(font
@@ -22245,6 +22281,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Digikey" "13-AC0603FR-07130RLCT-ND"
+			(at 68.58 125.73 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "13-AC0603FR-07130RLCT-ND"
+			(at 68.58 125.73 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -24879,7 +24933,7 @@
 				)
 			)
 		)
-		(property "MPN" "CX0603MRX7R8BB223"
+		(property "MPN" "CC0603JRX7R8BB223"
 			(at 153.67 120.65 0)
 			(effects
 				(font
@@ -25044,7 +25098,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CX0603MRX7R8BB223"
+		(property "MPN" "CC0603JRX7R8BB223"
 			(at 139.7 82.55 0)
 			(effects
 				(font
@@ -25209,7 +25263,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CX0603MRX7R8BB223"
+		(property "MPN" "CC0603JRX7R8BB223"
 			(at 146.05 82.55 0)
 			(effects
 				(font
@@ -25493,7 +25547,7 @@
 				)
 			)
 		)
-		(property "MPN" "CX0603MRX7R8BB223"
+		(property "MPN" "CC0603JRX7R8BB223"
 			(at 139.7 101.6 0)
 			(effects
 				(font
@@ -25649,7 +25703,7 @@
 				)
 			)
 		)
-		(property "MPN" "CX0603MRX7R8BB223"
+		(property "MPN" "CC0603JRX7R8BB223"
 			(at 146.05 101.6 0)
 			(effects
 				(font
@@ -26053,7 +26107,7 @@
 				)
 			)
 		)
-		(property "MPN" "CX0603MRX7R8BB223"
+		(property "MPN" "CC0603JRX7R8BB223"
 			(at 146.05 120.65 0)
 			(effects
 				(font
@@ -26147,7 +26201,7 @@
 				)
 			)
 		)
-		(property "MPN" "CX0603MRX7R8BB223"
+		(property "MPN" "CC0603JRX7R8BB223"
 			(at 139.7 120.65 0)
 			(effects
 				(font
@@ -27223,7 +27277,7 @@
 				)
 			)
 		)
-		(property "MPN" "CX0603MRX7R8BB223"
+		(property "MPN" "CC0603JRX7R8BB223"
 			(at 95.25 180.34 0)
 			(effects
 				(font
@@ -27503,7 +27557,7 @@
 				)
 			)
 		)
-		(property "MPN" "CX0603MRX7R8BB223"
+		(property "MPN" "CC0603JRX7R8BB223"
 			(at 82.55 180.34 0)
 			(effects
 				(font
@@ -27721,7 +27775,7 @@
 				)
 			)
 		)
-		(property "MPN" "CX0603MRX7R8BB223"
+		(property "MPN" "CC0603JRX7R8BB223"
 			(at 101.6 180.34 0)
 			(effects
 				(font
@@ -27877,7 +27931,7 @@
 				)
 			)
 		)
-		(property "MPN" "CX0603MRX7R8BB223"
+		(property "MPN" "CC0603JRX7R8BB223"
 			(at 88.9 180.34 0)
 			(effects
 				(font
@@ -28033,7 +28087,7 @@
 				)
 			)
 		)
-		(property "MPN" "CX0603MRX7R8BB223"
+		(property "MPN" "CC0603JRX7R8BB223"
 			(at 160.02 120.65 0)
 			(effects
 				(font
@@ -29099,7 +29153,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "1N4148WS "
+		(property "MPN" "1N4148WS"
 			(at 73.66 90.17 0)
 			(effects
 				(font
@@ -29171,6 +29225,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Digikey" "13-AC0603FR-071K1LCT-ND"
+			(at 80.01 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "13-AC0603FR-071K1LCT-ND"
+			(at 80.01 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"

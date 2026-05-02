@@ -3025,6 +3025,24 @@
 				)
 			)
 		)
+		(property "Digikey" "13-AC0603FR-07549RLCT-ND"
+			(at 115.57 69.85 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "13-AC0603FR-07549RLCT-ND"
+			(at 115.57 69.85 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "52b6f997-354a-4c37-a752-80949d149f89")
 		)

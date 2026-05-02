@@ -8551,7 +8551,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CX0603MRX7R8BB223"
+		(property "MPN" "CC0603JRX7R8BB223"
 			(at 184.15 91.44 90)
 			(effects
 				(font
@@ -8646,7 +8646,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CX0603MRX7R8BB223"
+		(property "MPN" "CC0603JRX7R8BB223"
 			(at 105.41 91.44 90)
 			(effects
 				(font
@@ -8741,7 +8741,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CX0603MRX7R8BB223"
+		(property "MPN" "CC0603JRX7R8BB223"
 			(at 96.52 93.98 90)
 			(effects
 				(font
@@ -8836,7 +8836,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CX0603MRX7R8BB223"
+		(property "MPN" "CC0603JRX7R8BB223"
 			(at 193.04 93.98 90)
 			(effects
 				(font
