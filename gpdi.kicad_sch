@@ -8136,6 +8136,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C446029"
+			(at 91.44 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "220-2177-ND"
+			(at 91.44 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "B11"
 			(uuid "5bec2b9b-544c-4fa9-aa70-b3cd2a0bfaa2")
 		)
