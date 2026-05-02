@@ -120,8 +120,8 @@
           "There's no way to get this pad more relief"
         ],
         [
-          "starved_thermal|161093000|82070000|00000000-0000-0000-0000-0000618fced0|b545ddbb-9db0-4138-82c3-f0bdfa0a22ee|F.Cu",
-          "There's no way to get this pad more relief"
+          "starved_thermal|163493000|93530000|00000000-0000-0000-0000-0000618fced0|62da0e82-cec5-4447-be53-4dec98f8166f|F.Cu",
+          "difficult"
         ]
       ],
       "meta": {
@@ -206,7 +206,7 @@
         "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.2,
         "min_track_width": 0.0762,
-        "min_via_annular_width": 0.1,
+        "min_via_annular_width": 0.05,
         "min_via_diameter": 0.3,
         "solder_mask_clearance": 0.05,
         "solder_mask_min_width": 0.25,
