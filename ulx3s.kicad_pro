@@ -1368,25 +1368,25 @@
           "group_by": false,
           "label": "MPN2",
           "name": "MPN2",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
           "label": "MPN3",
           "name": "MPN3",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
           "label": "MPN4",
           "name": "MPN4",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
           "label": "MPN5",
           "name": "MPN5",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -1657,7 +1657,7 @@
       "group_symbols": true,
       "include_excluded_from_bom": false,
       "name": "",
-      "sort_asc": true,
+      "sort_asc": false,
       "sort_field": "MPN"
     },
     "connection_grid_size": 50.0,

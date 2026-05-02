@@ -20041,7 +20041,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "NSR0530HT1G "
+		(property "MPN" "BAT54WSQ-7-F"
 			(at 78.74 142.24 0)
 			(effects
 				(font
@@ -20068,7 +20068,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN2" "BAT54WSQ-7-F "
+		(property "MPN2" "NSR0530HT1G "
 			(at 78.74 142.24 0)
 			(effects
 				(font
@@ -28812,7 +28812,16 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "NSR0530HT1G "
+		(property "MPN" "BAT54WSQ-7-F"
+			(at 96.52 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN2" "NSR0530HT1G "
 			(at 96.52 125.73 0)
 			(effects
 				(font

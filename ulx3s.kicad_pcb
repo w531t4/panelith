@@ -28962,12 +28962,26 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "NSR0530HT1G "
+		(property "MPN" "BAT54WSQ-7-F"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "256a860f-1c19-4ebb-90f3-c0b3c62c95e8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN2" "NSR0530HT1G "
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "60cd8727-a347-4afc-8c7e-174ac0480776")
 			(effects
 				(font
 					(size 1 1)
@@ -29935,7 +29949,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "NSR0530HT1G "
+		(property "MPN" "BAT54WSQ-7-F"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -29977,7 +29991,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN2" "BAT54WSQ-7-F "
+		(property "MPN2" "NSR0530HT1G "
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
