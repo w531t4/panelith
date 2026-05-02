@@ -9915,7 +9915,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "AC0603FR-104K7L"
+		(property "MPN" "603-RC0603FR-074K7L"
 			(at 102.87 59.69 90)
 			(effects
 				(font

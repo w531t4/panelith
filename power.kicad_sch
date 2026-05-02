@@ -18892,7 +18892,7 @@
 				)
 			)
 		)
-		(property "MPN" "AC0603FR-104K7L"
+		(property "MPN" "603-RC0603FR-074K7L"
 			(at 243.84 119.38 90)
 			(effects
 				(font
@@ -19234,7 +19234,7 @@
 				)
 			)
 		)
-		(property "MPN" "AC0603FR-104K7L"
+		(property "MPN" "603-RC0603FR-074K7L"
 			(at 109.22 119.38 90)
 			(effects
 				(font
@@ -20359,7 +20359,7 @@
 				)
 			)
 		)
-		(property "MPN" "AC0603FR-104K7L"
+		(property "MPN" "603-RC0603FR-074K7L"
 			(at 123.19 119.38 90)
 			(effects
 				(font
@@ -21652,7 +21652,7 @@
 				)
 			)
 		)
-		(property "MPN" "AC0603FR-104K7L"
+		(property "MPN" "603-RC0603FR-074K7L"
 			(at 80.01 111.76 90)
 			(effects
 				(font
