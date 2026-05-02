@@ -17177,7 +17177,7 @@
 		)
 		(uuid "56147368-22ef-4d48-b448-779a6bf4a169")
 	)
-	(text "STPS2L40AF"
+	(text "STPS2L40A"
 		(exclude_from_sim no)
 		(at 60.96 59.69 0)
 		(effects
@@ -19810,7 +19810,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "STPS2L40AF"
+		(property "Value" "STPS2L40A"
 			(at 71.12 41.91 0)
 			(effects
 				(font
@@ -19853,7 +19853,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "STPS2L30AF"
+		(property "MPN" "511-STPS2L30A"
 			(at 58.42 43.18 0)
 			(effects
 				(font
@@ -19871,7 +19871,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" "497-12310-1-ND"
+		(property "Digikey" "497-3759-1-ND"
 			(at 58.42 43.18 0)
 			(effects
 				(font
@@ -19898,7 +19898,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C111630"
+		(property "LCSC" ""
 			(at 58.42 43.18 0)
 			(effects
 				(font
