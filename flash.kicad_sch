@@ -8356,6 +8356,14 @@
 		(at 203.2 109.22)
 		(uuid "b12d8c7b-a08b-4f3e-a28b-368c772c9ecf")
 	)
+	(no_connect
+		(at 165.1 99.06)
+		(uuid "defdbc0d-25e5-4a07-9b3d-30e192bace0e")
+	)
+	(no_connect
+		(at 203.2 99.06)
+		(uuid "df509df8-fbb2-4b52-a1a2-1d920fa4fdf9")
+	)
 	(wire
 		(pts
 			(xy 82.55 113.03) (xy 64.77 113.03)

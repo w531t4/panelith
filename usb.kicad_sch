@@ -17525,12 +17525,32 @@
 		(uuid "c7f4eeb1-9360-4333-ab38-4164f7282913")
 	)
 	(no_connect
+		(at 219.71 69.85)
+		(uuid "3752cdf0-fe97-40d7-9de9-c697f38f0291")
+	)
+	(no_connect
+		(at 219.71 67.31)
+		(uuid "53519c3c-d373-420f-b98a-5c5bcd5e949b")
+	)
+	(no_connect
 		(at 46.99 50.8)
 		(uuid "61c9ed54-c91f-495e-8b27-a486d02d5954")
 	)
 	(no_connect
+		(at 219.71 72.39)
+		(uuid "87274391-90e7-4924-85e5-2fbf804074e4")
+	)
+	(no_connect
+		(at 257.81 69.85)
+		(uuid "a15c02b7-303e-460b-8bb6-fcc3a595db79")
+	)
+	(no_connect
 		(at 219.71 74.93)
 		(uuid "a42f08e9-6edc-4fce-9685-0f0a5dcd6b8f")
+	)
+	(no_connect
+		(at 257.81 72.39)
+		(uuid "a7631db0-6c67-482b-a33a-a12261bc6db8")
 	)
 	(polyline
 		(pts
