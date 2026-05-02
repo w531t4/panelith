@@ -20858,7 +20858,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "FT231XQ"
+		(property "Value" "FT231XS"
 			(at 152.4 66.04 0)
 			(effects
 				(font
@@ -20867,7 +20867,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ft231x:FT231X-QFN-20-1EP_4x4mm_P0.5mm_EP2x2mm"
+		(property "Footprint" "ft231x:FT231X-SSOP-20_4.4x6.5mm_Pitch0.65mm"
 			(at 144.78 86.36 0)
 			(effects
 				(font
@@ -20902,7 +20902,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "FT231XQ"
+		(property "MPN" "895-FT231XS-U"
 			(at 144.78 86.36 0)
 			(effects
 				(font
@@ -20929,7 +20929,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" "768-1128-1-ND"
+		(property "Digikey" " 768-1156-5-ND"
 			(at 144.78 86.36 0)
 			(effects
 				(font
