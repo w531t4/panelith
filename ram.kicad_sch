@@ -11620,7 +11620,7 @@
 				)
 			)
 		)
-		(property "Value" "MT48LC16M16A2TG"
+		(property "Value" "IS42S16160J-6TL"
 			(at 156.21 119.38 0)
 			(effects
 				(font
@@ -11673,7 +11673,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "MT48LC16M16A2TG-6A"
+		(property "MPN" "870-IS42S16160J-6TL"
 			(at 138.43 88.9 0)
 			(effects
 				(font
@@ -11853,7 +11853,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" "1450-1385-1-ND"
+		(property "Digikey" ""
 			(at 138.43 88.9 0)
 			(effects
 				(font
@@ -11871,7 +11871,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C492195"
+		(property "LCSC" "C1353383"
 			(at 138.43 88.9 0)
 			(effects
 				(font
@@ -11880,7 +11880,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCS_C1" "C524867"
+		(property "LCS_C1" ""
 			(at 138.43 88.9 0)
 			(effects
 				(font
