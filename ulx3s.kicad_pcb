@@ -40637,7 +40637,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "2N7002P,215"
+		(property "MPN" "863-2N7002ET1G"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -40707,7 +40707,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Digikey" "2N7002K-TPMSCT-ND"
+		(property "Digikey" "2N7002ET1GOSCT-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -40735,7 +40735,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" "C179727"
+		(property "LCSC" "C71533"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
