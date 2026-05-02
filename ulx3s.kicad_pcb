@@ -41060,7 +41060,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "BC857"
+		(property "MPN" "757-TBC857BLM"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
