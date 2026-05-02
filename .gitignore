@@ -10,3 +10,4 @@ ulx3s.rules
 *.bak
 *.lck
 /ulx3s-backups
+/ulx3s.kicad_prl
