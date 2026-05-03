@@ -21460,7 +21460,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "www.ftdichip.com/Documents/DataSheets/ICs/DS_FT231X.pdf"
+		(property "Datasheet" "https://ftdichip.com/wp-content/uploads/2021/10/DS_FT231X.pdf"
 			(at 144.78 86.36 0)
 			(hide yes)
 			(show_name no)
