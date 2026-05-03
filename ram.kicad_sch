@@ -12016,7 +12016,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.micron.com/~/media/Documents/Products/Data%20Sheet/DRAM/256Mb_sdr.pdf"
+		(property "Datasheet" "https://www.issi.com/WW/pdf/42-45S83200J-16160J.pdf"
 			(at 138.43 95.25 0)
 			(hide yes)
 			(show_name no)
