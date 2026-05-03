@@ -27232,7 +27232,7 @@
 			)
 		)
 		(property "Value" "15k"
-			(at 0 1.51 270)
+			(at 0 1.51 90)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "01627ef0-f742-490a-89a8-dc50ac346c48")
@@ -27245,7 +27245,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4e6e4303-2e33-4854-b3b5-c1de7261ea9d")
@@ -27257,7 +27257,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8945f0b7-8a48-4de3-938c-8a8f45fdb699")
@@ -27528,7 +27528,7 @@
 			(uuid "67680a65-b14b-422d-87b9-3adbd08ab921")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "B.Fab")
 			(uuid "a05e1c20-4c14-41cf-828a-d2d86cce6244")
 			(effects

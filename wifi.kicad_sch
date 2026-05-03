@@ -2348,7 +2348,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "ESP32-WROVER-E"
+		(property "MPN" "356-ESP32S3WRM1N16R8"
 			(at 168.91 87.63 0)
 			(effects
 				(font
@@ -2393,7 +2393,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" "1965-ESP32-WROVER-B(16MB)CT-ND"
+		(property "Digikey" "5407-ESP32-S3-WROOM-1-N16R8CT-ND"
 			(at 168.91 87.63 0)
 			(effects
 				(font

@@ -1244,6 +1244,48 @@
 			)
 		)
 	)
+	(sheet
+		(at 102.87 93.98)
+		(size 27.94 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e3c5fc99-7d7e-4398-9db7-ce8f634bc330")
+		(property "Sheetname" "esp32_s3_wifi"
+			(at 102.87 93.2684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "esp32_s3_wifi.kicad_sch"
+			(at 102.87 116.1546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ulx3s"
+				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21"
+					(page "13")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
