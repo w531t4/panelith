@@ -601,14 +601,14 @@
       {
         "name": "BGA_ESCAPE",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 3,
+        "priority": 7,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "tuning_profile": ""
       },
       {
         "name": "CLOCKS",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 4,
+        "priority": 8,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "tuning_profile": ""
       },
@@ -621,7 +621,7 @@
         "microvia_drill": 0.254,
         "name": "FTDI",
         "pcb_color": "rgb(255, 153, 0)",
-        "priority": 10,
+        "priority": 14,
         "schematic_color": "rgb(255, 153, 0)",
         "track_width": 0.09,
         "tuning_profile": "",
@@ -638,7 +638,7 @@
         "microvia_drill": 0.254,
         "name": "JTAG",
         "pcb_color": "rgb(255, 0, 255)",
-        "priority": 9,
+        "priority": 13,
         "schematic_color": "rgb(255, 0, 255)",
         "track_width": 0.09,
         "tuning_profile": "",
@@ -647,31 +647,67 @@
         "wire_width": 6
       },
       {
+        "clearance": 0.09,
+        "name": "PWR_5V_IN",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.5,
+        "tuning_profile": ""
+      },
+      {
+        "clearance": 0.09,
+        "name": "PWR_BUCK_OUT",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 2,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.6,
+        "tuning_profile": ""
+      },
+      {
+        "clearance": 0.09,
+        "name": "PWR_BUCK_SW",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 1,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.5,
+        "tuning_profile": ""
+      },
+      {
+        "clearance": 0.09,
+        "name": "PWR_RAIL",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 3,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.3,
+        "tuning_profile": ""
+      },
+      {
         "line_style": 1,
         "name": "Power",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 7,
+        "priority": 11,
         "schematic_color": "rgb(255, 0, 0)",
         "tuning_profile": ""
       },
       {
         "name": "SDRAM_ADDR_CTRL",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 6,
+        "priority": 10,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "tuning_profile": ""
       },
       {
         "name": "SDRAM_DATA",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 5,
+        "priority": 9,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "tuning_profile": ""
       },
       {
         "name": "USB",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 8,
+        "priority": 12,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "tuning_profile": ""
       },
@@ -679,7 +715,7 @@
         "clearance": 0.09,
         "name": "USB_DIFF",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 2,
+        "priority": 6,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.127,
         "tuning_profile": "USB_90R_DIFF"
@@ -687,14 +723,14 @@
       {
         "name": "USB_DIFF_OTHER",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 0,
+        "priority": 4,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "tuning_profile": ""
       },
       {
         "name": "USB_PULL",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 1,
+        "priority": 5,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "tuning_profile": ""
       }
@@ -740,6 +776,22 @@
       {
         "netclass": "USB_DIFF_OTHER",
         "pattern": "USB_(FPGA)_D[\\-|\\+]"
+      },
+      {
+        "netclass": "PWR_5V_IN",
+        "pattern": "USB5V|\\+5V"
+      },
+      {
+        "netclass": "PWR_BUCK_SW",
+        "pattern": "/power/L[0-9]+$"
+      },
+      {
+        "netclass": "PWR_BUCK_OUT",
+        "pattern": "/power/P[0-9]+V[0-9]+$"
+      },
+      {
+        "netclass": "PWR_RAIL",
+        "pattern": "^\\+[0-9]V[0-9]|[0-9]V[0-9]_[0-9]V[0-9]$"
       }
     ]
   },
