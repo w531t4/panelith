@@ -599,6 +599,20 @@
         "wire_width": 6
       },
       {
+        "name": "BGA_ESCAPE",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 2,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "tuning_profile": ""
+      },
+      {
+        "name": "CLOCKS",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 3,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "tuning_profile": ""
+      },
+      {
         "bus_width": 12,
         "clearance": 0.09,
         "diff_pair_gap": 0.25,
@@ -607,7 +621,7 @@
         "microvia_drill": 0.254,
         "name": "FTDI",
         "pcb_color": "rgb(255, 153, 0)",
-        "priority": 1,
+        "priority": 9,
         "schematic_color": "rgb(255, 153, 0)",
         "track_width": 0.09,
         "tuning_profile": "",
@@ -624,13 +638,56 @@
         "microvia_drill": 0.254,
         "name": "JTAG",
         "pcb_color": "rgb(255, 0, 255)",
-        "priority": 0,
+        "priority": 8,
         "schematic_color": "rgb(255, 0, 255)",
         "track_width": 0.09,
         "tuning_profile": "",
         "via_diameter": 0.3,
         "via_drill": 0.2,
         "wire_width": 6
+      },
+      {
+        "line_style": 1,
+        "name": "Power",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 6,
+        "schematic_color": "rgb(255, 0, 0)",
+        "tuning_profile": ""
+      },
+      {
+        "name": "SDRAM_ADDR_CTRL",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 5,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "tuning_profile": ""
+      },
+      {
+        "name": "SDRAM_DATA",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 4,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "tuning_profile": ""
+      },
+      {
+        "name": "USB",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 7,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "tuning_profile": ""
+      },
+      {
+        "name": "USB_DIFF",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 1,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "tuning_profile": ""
+      },
+      {
+        "name": "USB_PULL",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "tuning_profile": ""
       }
     ],
     "meta": {
@@ -646,6 +703,30 @@
       {
         "netclass": "FTDI",
         "pattern": "FTDI_*"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "(\\+|FT)?([0-9]V[0-9]).*|\\+5V|(USB|IN|OUT)5V|GND"
+      },
+      {
+        "netclass": "USB_DIFF",
+        "pattern": "USB_(FPGA|FTDI)_D[\\-|\\+]"
+      },
+      {
+        "netclass": "CLOCKS",
+        "pattern": "^CLK.*|.*CK$|.+_CLK$|.+_SCK$"
+      },
+      {
+        "netclass": "SDRAM_DATA",
+        "pattern": "^SDRAM_D[0-9]+$"
+      },
+      {
+        "netclass": "SDRAM_ADDR_CTRL",
+        "pattern": "^SDRAM_(B?A[0-9]+|n.+|CKE)"
+      },
+      {
+        "netclass": "USB_PULL",
+        "pattern": "USB_FPGA_PULL_D\\-|\\+]"
       }
     ]
   },
