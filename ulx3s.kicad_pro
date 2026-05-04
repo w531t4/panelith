@@ -710,7 +710,7 @@
       },
       {
         "netclass": "USB_DIFF",
-        "pattern": "USB_(FPGA|FTDI)_D[\\-|\\+]"
+        "pattern": "USB_(FPGA|FTDI)_D[\\-|\\+]|/usb/FTD.*"
       },
       {
         "netclass": "CLOCKS",
