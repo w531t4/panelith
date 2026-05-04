@@ -187,7 +187,7 @@
         "track_segment_length": "error",
         "track_width": "error",
         "tracks_crossing": "error",
-        "tuning_profile_track_geometries": "ignore",
+        "tuning_profile_track_geometries": "error",
         "unconnected_items": "error",
         "unresolved_variable": "error",
         "via_dangling": "error",
@@ -601,14 +601,14 @@
       {
         "name": "BGA_ESCAPE",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 2,
+        "priority": 3,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "tuning_profile": ""
       },
       {
         "name": "CLOCKS",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 3,
+        "priority": 4,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "tuning_profile": ""
       },
@@ -621,7 +621,7 @@
         "microvia_drill": 0.254,
         "name": "FTDI",
         "pcb_color": "rgb(255, 153, 0)",
-        "priority": 9,
+        "priority": 10,
         "schematic_color": "rgb(255, 153, 0)",
         "track_width": 0.09,
         "tuning_profile": "",
@@ -638,7 +638,7 @@
         "microvia_drill": 0.254,
         "name": "JTAG",
         "pcb_color": "rgb(255, 0, 255)",
-        "priority": 8,
+        "priority": 9,
         "schematic_color": "rgb(255, 0, 255)",
         "track_width": 0.09,
         "tuning_profile": "",
@@ -650,42 +650,51 @@
         "line_style": 1,
         "name": "Power",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 6,
+        "priority": 7,
         "schematic_color": "rgb(255, 0, 0)",
         "tuning_profile": ""
       },
       {
         "name": "SDRAM_ADDR_CTRL",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 5,
+        "priority": 6,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "tuning_profile": ""
       },
       {
         "name": "SDRAM_DATA",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 4,
+        "priority": 5,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "tuning_profile": ""
       },
       {
         "name": "USB",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 7,
+        "priority": 8,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "tuning_profile": ""
       },
       {
+        "clearance": 0.09,
         "name": "USB_DIFF",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 1,
+        "priority": 2,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.127,
+        "tuning_profile": "USB_90R_DIFF"
+      },
+      {
+        "name": "USB_DIFF_OTHER",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "tuning_profile": ""
       },
       {
         "name": "USB_PULL",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 0,
+        "priority": 1,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "tuning_profile": ""
       }
@@ -710,7 +719,7 @@
       },
       {
         "netclass": "USB_DIFF",
-        "pattern": "USB_(FPGA|FTDI)_D[\\-|\\+]|/usb/FTD.*"
+        "pattern": "USB_FTDI_D[\\-|\\+]|/usb/FTD.*"
       },
       {
         "netclass": "CLOCKS",
@@ -727,6 +736,10 @@
       {
         "netclass": "USB_PULL",
         "pattern": "USB_FPGA_PULL_D\\-|\\+]"
+      },
+      {
+        "netclass": "USB_DIFF_OTHER",
+        "pattern": "USB_(FPGA)_D[\\-|\\+]"
       }
     ]
   },
@@ -1928,12 +1941,12 @@
         "enable_time_domain_tuning": false,
         "layer_entries": [
           {
-            "bottom_reference_layer": "In1.Cu",
-            "delay": 0,
-            "diff_pair_gap": 0,
-            "signal_layer": "F.Cu",
-            "top_reference_layer": "UNDEFINED",
-            "width": 0
+            "bottom_reference_layer": "In2.Cu",
+            "delay": 7094700,
+            "diff_pair_gap": 93388,
+            "signal_layer": "In1.Cu",
+            "top_reference_layer": "F.Cu",
+            "width": 127000
           }
         ],
         "profile_name": "USB_90R_DIFF",
