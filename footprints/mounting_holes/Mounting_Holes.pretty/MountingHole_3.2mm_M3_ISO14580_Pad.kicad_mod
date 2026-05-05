@@ -1,7 +1,7 @@
 (footprint "MountingHole_3.2mm_M3_ISO14580_Pad"
-	(version 20241229)
+	(version 20260206)
 	(generator "pcbnew")
-	(generator_version "9.0")
+	(generator_version "10.0")
 	(layer "F.Cu")
 	(descr "Mounting Hole 3.2mm, M3, ISO14580")
 	(tags "mounting hole 3.2mm m3 iso14580")
@@ -9,7 +9,7 @@
 		(at 0 -3.75 0)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "2f750d54-698d-490a-8167-a3d93377aaae")
+		(uuid "733c1e24-d124-4685-97ad-4cfe6be50cb5")
 		(effects
 			(font
 				(size 1 1)
@@ -21,7 +21,7 @@
 		(at 0 3.75 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "bb7e8627-095b-4186-b2f6-c2206646862f")
+		(uuid "ce1dc616-99b8-4262-9ac7-2f8cf5adfff6")
 		(effects
 			(font
 				(size 1 1)
@@ -33,7 +33,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "fe465a91-5704-4ec0-b80d-b6c47e87b6f3")
+		(uuid "eee802b0-6fff-4281-b113-6b67a88bc65b")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -45,7 +45,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "eec2814a-8e22-4d9b-8025-cbb11fd2af2c")
+		(uuid "30c05d49-143e-474e-b7f9-51710c0a825e")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -54,6 +54,7 @@
 		)
 	)
 	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_circle
 		(center 0 0)
 		(end 3 0)
@@ -63,15 +64,20 @@
 		)
 		(fill no)
 		(layer "F.CrtYd")
-		(uuid "aca42c38-7834-4cd8-95b1-cde251384c5f")
+		(uuid "118c5333-eb2a-48a9-a44a-cc439bc4555b")
 	)
-	(pad "1" thru_hole circle
+	(pad "" smd circle
+		(at 0 0)
+		(size 3.2 3.2)
+		(layers "*.Paste")
+		(uuid "3b8e8ed1-8136-4db5-85b3-2c0ad70d7f58")
+	)
+	(pad "" np_thru_hole circle
 		(at 0 0)
 		(size 5.5 5.5)
 		(drill 3.2)
 		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
-		(uuid "a1ea0d61-0ccb-4379-8ee4-300ff600795a")
+		(uuid "cb910f96-52af-4b50-b770-d185e4b0b29b")
 	)
 	(embedded_fonts no)
 )
