@@ -1,0 +1,7 @@
+(version 1)
+(rule "SDRAM data bus skew sanity"
+    (condition "A.hasNetclass('SDRAM_DATA')")
+    (constraint skew (max 12mm)))
+(rule "SDRAM address/control skew sanity"
+    (condition "A.hasNetclass('SDRAM_ADDR_CTRL')")
+    (constraint skew (max 16mm)))
