@@ -273,6 +273,7 @@
         0.127,
         0.2,
         0.3,
+        0.4,
         0.5,
         1.0
       ],
@@ -607,7 +608,7 @@
       },
       {
         "name": "CLOCKS",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "pcb_color": "rgb(221, 133, 0)",
         "priority": 8,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "tuning_profile": ""
@@ -620,7 +621,7 @@
         "microvia_diameter": 0.4572,
         "microvia_drill": 0.254,
         "name": "FTDI",
-        "pcb_color": "rgb(255, 153, 0)",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 14,
         "schematic_color": "rgb(255, 153, 0)",
         "track_width": 0.09,
@@ -637,7 +638,7 @@
         "microvia_diameter": 0.4572,
         "microvia_drill": 0.254,
         "name": "JTAG",
-        "pcb_color": "rgb(255, 0, 255)",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 13,
         "schematic_color": "rgb(255, 0, 255)",
         "track_width": 0.09,
@@ -649,7 +650,7 @@
       {
         "clearance": 0.09,
         "name": "PWR_5V_IN",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "pcb_color": "rgb(255, 0, 0)",
         "priority": 0,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.5,
@@ -658,7 +659,7 @@
       {
         "clearance": 0.09,
         "name": "PWR_BUCK_OUT",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "pcb_color": "rgb(0, 0, 194)",
         "priority": 2,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.6,
@@ -667,7 +668,7 @@
       {
         "clearance": 0.09,
         "name": "PWR_BUCK_SW",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "pcb_color": "rgb(0, 194, 0)",
         "priority": 1,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.5,
@@ -676,7 +677,7 @@
       {
         "clearance": 0.09,
         "name": "PWR_RAIL",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "pcb_color": "rgb(194, 0, 194)",
         "priority": 3,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.3,
