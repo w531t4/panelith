@@ -1253,52 +1253,6 @@
 		)
 	)
 	(sheet
-		(at 220.98 149.86)
-		(size 19.05 11.43)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "00000000-0000-0000-0000-000058d82bd0")
-		(property "Sheetname" "analog"
-			(at 220.98 149.0214 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "analog.kicad_sch"
-			(at 220.98 161.9762 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "ulx3s"
-				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21"
-					(page "7")
-				)
-			)
-		)
-	)
-	(sheet
 		(at 264.16 149.86)
 		(size 19.05 11.43)
 		(exclude_from_sim no)
