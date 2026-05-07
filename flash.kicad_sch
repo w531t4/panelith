@@ -8463,6 +8463,14 @@
 		(uuid "0881ec13-c16a-43a5-b8a4-24dcf190e116")
 	)
 	(no_connect
+		(at 203.2 96.52)
+		(uuid "275eed82-9b0c-48c3-b3f0-e90ecf8413ff")
+	)
+	(no_connect
+		(at 165.1 96.52)
+		(uuid "807cb4d7-6f21-4a67-b78e-9080201af984")
+	)
+	(no_connect
 		(at 203.2 109.22)
 		(uuid "b12d8c7b-a08b-4f3e-a28b-368c772c9ecf")
 	)
