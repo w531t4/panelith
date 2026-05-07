@@ -13119,8 +13119,8 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
+		(in_pos_files no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00005b5dd430")
 		(property "Reference" "D28"
 			(at 127 83.82 0)
@@ -13174,7 +13174,7 @@
 				)
 			)
 		)
-		(property "Note" "Leave empty"
+		(property "Note" ""
 			(at 127 86.36 0)
 			(hide yes)
 			(show_name no)

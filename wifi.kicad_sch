@@ -3498,8 +3498,8 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
+		(in_pos_files no)
+		(dnp yes)
 		(uuid "c898ced8-c0a2-4b9f-8574-1ab2a917c105")
 		(property "Reference" "J6"
 			(at 119.38 66.04 0)
@@ -3552,7 +3552,7 @@
 				)
 			)
 		)
-		(property "Note" "Leave empty"
+		(property "Note" ""
 			(at 121.92 67.31 0)
 			(hide yes)
 			(show_name no)

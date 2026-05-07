@@ -267,6 +267,26 @@
 		)
 		(uuid "a8114599-7a43-4705-ab6a-d72f73530f24")
 	)
+	(text_box "0.0.6 - build\ncurrent\n	- Marked RV2 as DNP - Stencil Issue\n	- VJ1/RP1/RP2/RP3/J1/J2/D51/D52/D9/J4/J6/H1/H2/H3/H4 marked as DNP - doesn't affect stencil"
+		(exclude_from_sim no)
+		(at 153.67 57.15 0)
+		(size 76.2 35.56)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left top)
+		)
+		(uuid "0b76c64e-27ec-4817-b3d0-4eb6b3799e06")
+	)
 	(polyline
 		(pts
 			(xy 113.03 137.16) (xy 74.93 137.16)
@@ -315,8 +335,8 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
+		(in_pos_files no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-000058e6b981")
 		(property "Reference" "H1"
 			(at 77.47 161.29 0)
@@ -389,8 +409,8 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
+		(in_pos_files no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-000058e6bace")
 		(property "Reference" "H2"
 			(at 105.41 161.29 0)
@@ -463,8 +483,8 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
+		(in_pos_files no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-000058e6baef")
 		(property "Reference" "H3"
 			(at 105.41 143.51 0)
@@ -537,8 +557,8 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
+		(in_pos_files no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-000058e6bbe9")
 		(property "Reference" "H4"
 			(at 77.47 143.51 0)
@@ -591,7 +611,7 @@
 				)
 			)
 		)
-		(property "Note" "Leave empty"
+		(property "Note" ""
 			(at 80.01 143.51 0)
 			(hide yes)
 			(show_name no)

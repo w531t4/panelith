@@ -12938,8 +12938,8 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
+		(in_pos_files no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-000056ac483b")
 		(property "Reference" "D51"
 			(at 189.23 95.25 0)
@@ -12992,7 +12992,7 @@
 				)
 			)
 		)
-		(property "Note" "Leave empty"
+		(property "Note" ""
 			(at 189.23 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -13027,8 +13027,8 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
+		(in_pos_files no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-000056ac4846")
 		(property "Reference" "D52"
 			(at 238.76 95.25 0)
@@ -13081,7 +13081,7 @@
 				)
 			)
 		)
-		(property "Note" "Leave empty"
+		(property "Note" ""
 			(at 238.76 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -13341,8 +13341,8 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
+		(in_pos_files no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-000058e6b7f6")
 		(property "Reference" "J2"
 			(at 213.36 143.51 0)
@@ -13395,7 +13395,7 @@
 				)
 			)
 		)
-		(property "Note" "Leave empty"
+		(property "Note" ""
 			(at 212.09 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -13544,8 +13544,8 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
+		(in_pos_files no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-000058e6b835")
 		(property "Reference" "J1"
 			(at 48.26 90.17 0)
@@ -13598,7 +13598,7 @@
 				)
 			)
 		)
-		(property "Note" "Leave empty"
+		(property "Note" ""
 			(at 49.53 115.57 0)
 			(hide yes)
 			(show_name no)
