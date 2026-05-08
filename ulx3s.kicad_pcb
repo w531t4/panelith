@@ -46816,7 +46816,7 @@
 			(justify mirror)
 		)
 	)
-	(gr_text "2.5/3.3V"
+	(gr_text "3.3V"
 		(at 100.465 62.327 0)
 		(layer "B.SilkS")
 		(uuid "8c47fad3-99c5-446f-a703-a11e529056de")
@@ -46828,7 +46828,7 @@
 			(justify right mirror)
 		)
 	)
-	(gr_text "2.5/3.3V"
+	(gr_text "3.3V"
 		(at 100.465 111.476 0)
 		(layer "B.SilkS")
 		(uuid "cfaec274-fdcd-4cd2-8fd8-a511aca3ffac")
