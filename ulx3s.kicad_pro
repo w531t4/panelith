@@ -1932,7 +1932,11 @@
       }
     ],
     "used_designators": "",
-    "variants": []
+    "variants": [
+      {
+        "name": "ESP32-S3"
+      }
+    ]
   },
   "sheets": [
     [
