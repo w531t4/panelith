@@ -116,14 +116,6 @@
         [
           "shorting_items|165754000|73450000|6f317c71-f2d1-449f-86dc-cc7fe97af6e8|ae89d127-4de6-4bf2-b6cb-0c53d2919c6c",
           "deliberate jumper"
-        ],
-        [
-          "starved_thermal|158693000|93530000|00000000-0000-0000-0000-0000618fced0|5560c773-f308-400d-8c8d-b3afea81190b|F.Cu",
-          "There's no way to get this pad more relief"
-        ],
-        [
-          "starved_thermal|163493000|93530000|00000000-0000-0000-0000-0000618fced0|62da0e82-cec5-4447-be53-4dec98f8166f|F.Cu",
-          "difficult"
         ]
       ],
       "meta": {
