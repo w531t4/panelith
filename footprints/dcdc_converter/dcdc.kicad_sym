@@ -211,7 +211,7 @@
 			)
 		)
 		(property "Value" "MPM54304GMN-0001"
-			(at 36.83 17.78 0)
+			(at 36.83 22.606 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -246,7 +246,7 @@
 			)
 		)
 		(property "Description" "Switching Voltage Regulators 4 to 16V, Quad-Output Power Module with I2C and MTP, Set output voltage with resistor divider"
-			(at 22.352 -43.18 0)
+			(at 22.606 -50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -341,7 +341,7 @@
 			)
 		)
 		(property "MPN" "946-MPM54304GMN-0001"
-			(at 0 0 0)
+			(at -11.43 15.748 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -353,8 +353,8 @@
 		)
 		(symbol "MPM54304GMN-0001_1_1"
 			(rectangle
-				(start 5.08 15.24)
-				(end 35.56 -27.94)
+				(start 5.08 19.05)
+				(end 35.56 -36.83)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -363,10 +363,42 @@
 					(type background)
 				)
 			)
-			(pin passive line
-				(at 0 0 0)
+			(text "2A"
+				(at 25.146 -17.272 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(text "3A"
+				(at 25.4 8.89 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(text "3A"
+				(at 25.4 0.508 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(text "2A"
+				(at 25.4 -8.636 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(pin power_out line
+				(at 40.64 -6.35 180)
 				(length 5.08)
-				(name "VOUT3_1"
+				(name "VOUT3"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -381,10 +413,10 @@
 					)
 				)
 			)
-			(pin passive line
-				(at 0 -2.54 0)
+			(pin power_in line
+				(at 8.89 -41.91 90)
 				(length 5.08)
-				(name "GND_1"
+				(name "GND"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -399,8 +431,8 @@
 					)
 				)
 			)
-			(pin passive line
-				(at 0 -5.08 0)
+			(pin bidirectional line
+				(at 0 -13.97 0)
 				(length 5.08)
 				(name "SDA"
 					(effects
@@ -417,8 +449,8 @@
 					)
 				)
 			)
-			(pin passive line
-				(at 0 -7.62 0)
+			(pin input line
+				(at 0 -16.51 0)
 				(length 5.08)
 				(name "SCL"
 					(effects
@@ -435,10 +467,10 @@
 					)
 				)
 			)
-			(pin passive line
-				(at 0 -10.16 0)
+			(pin power_in line
+				(at 11.43 -41.91 90)
 				(length 5.08)
-				(name "GND_2"
+				(name "GND"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -453,8 +485,8 @@
 					)
 				)
 			)
-			(pin passive line
-				(at 0 -12.7 0)
+			(pin input line
+				(at 40.64 -2.54 180)
 				(length 5.08)
 				(name "FB2"
 					(effects
@@ -471,10 +503,10 @@
 					)
 				)
 			)
-			(pin passive line
-				(at 7.62 -33.02 90)
+			(pin power_in line
+				(at 13.97 -41.91 90)
 				(length 5.08)
-				(name "GND_3"
+				(name "GND"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -489,10 +521,10 @@
 					)
 				)
 			)
-			(pin passive line
-				(at 10.16 -33.02 90)
+			(pin power_out line
+				(at 40.64 2.54 180)
 				(length 5.08)
-				(name "VOUT2_1"
+				(name "VOUT2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -507,10 +539,10 @@
 					)
 				)
 			)
-			(pin passive line
-				(at 12.7 -33.02 90)
+			(pin power_out line
+				(at 40.64 0 180)
 				(length 5.08)
-				(name "VOUT2_2"
+				(name "VOUT2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -525,10 +557,10 @@
 					)
 				)
 			)
-			(pin passive line
-				(at 15.24 -33.02 90)
+			(pin power_in line
+				(at 16.51 -41.91 90)
 				(length 5.08)
-				(name "GND_4"
+				(name "GND"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -544,7 +576,7 @@
 				)
 			)
 			(pin passive line
-				(at 17.78 -33.02 90)
+				(at 0 -8.89 0)
 				(length 5.08)
 				(name "SW2"
 					(effects
@@ -562,7 +594,7 @@
 				)
 			)
 			(pin passive line
-				(at 20.32 -33.02 90)
+				(at 0 -6.35 0)
 				(length 5.08)
 				(name "SW1"
 					(effects
@@ -579,10 +611,10 @@
 					)
 				)
 			)
-			(pin passive line
-				(at 22.86 -33.02 90)
+			(pin power_in line
+				(at 19.05 -41.91 90)
 				(length 5.08)
-				(name "GND_5"
+				(name "GND"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -597,10 +629,10 @@
 					)
 				)
 			)
-			(pin passive line
-				(at 25.4 -33.02 90)
+			(pin power_out line
+				(at 40.64 11.43 180)
 				(length 5.08)
-				(name "VOUT1_1"
+				(name "VOUT1"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -615,10 +647,10 @@
 					)
 				)
 			)
-			(pin passive line
-				(at 27.94 -33.02 90)
+			(pin power_out line
+				(at 40.64 8.89 180)
 				(length 5.08)
-				(name "VOUT1_2"
+				(name "VOUT1"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -633,10 +665,10 @@
 					)
 				)
 			)
-			(pin passive line
-				(at 30.48 -33.02 90)
+			(pin power_in line
+				(at 21.59 -41.91 90)
 				(length 5.08)
-				(name "GND_6"
+				(name "GND"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -651,8 +683,8 @@
 					)
 				)
 			)
-			(pin passive line
-				(at 40.64 -12.7 180)
+			(pin power_in line
+				(at 40.64 -25.4 180)
 				(length 5.08)
 				(name "SGND1"
 					(effects
@@ -669,8 +701,8 @@
 					)
 				)
 			)
-			(pin passive line
-				(at 40.64 -10.16 180)
+			(pin input line
+				(at 40.64 6.35 180)
 				(length 5.08)
 				(name "FB1"
 					(effects
@@ -687,8 +719,8 @@
 					)
 				)
 			)
-			(pin passive line
-				(at 40.64 -7.62 180)
+			(pin input line
+				(at 0 0 0)
 				(length 5.08)
 				(name "EN"
 					(effects
@@ -705,10 +737,10 @@
 					)
 				)
 			)
-			(pin passive line
-				(at 40.64 -5.08 180)
+			(pin power_in line
+				(at 24.13 -41.91 90)
 				(length 5.08)
-				(name "GND_7"
+				(name "GND"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -723,10 +755,10 @@
 					)
 				)
 			)
-			(pin passive line
-				(at 40.64 -2.54 180)
+			(pin power_in line
+				(at 26.67 -41.91 90)
 				(length 5.08)
-				(name "GND_8"
+				(name "GND"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -741,10 +773,10 @@
 					)
 				)
 			)
-			(pin passive line
-				(at 40.64 0 180)
+			(pin power_out line
+				(at 40.64 -15.24 180)
 				(length 5.08)
-				(name "VOUT4_1"
+				(name "VOUT4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -759,10 +791,10 @@
 					)
 				)
 			)
-			(pin passive line
-				(at 33.02 20.32 270)
+			(pin power_out line
+				(at 40.64 -17.78 180)
 				(length 5.08)
-				(name "VOUT4_2"
+				(name "VOUT4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -777,8 +809,8 @@
 					)
 				)
 			)
-			(pin passive line
-				(at 30.48 20.32 270)
+			(pin input line
+				(at 40.64 -20.32 180)
 				(length 5.08)
 				(name "FB4"
 					(effects
@@ -795,8 +827,8 @@
 					)
 				)
 			)
-			(pin passive line
-				(at 27.94 20.32 270)
+			(pin power_out line
+				(at 40.64 16.51 180)
 				(length 5.08)
 				(name "VCC"
 					(effects
@@ -813,8 +845,8 @@
 					)
 				)
 			)
-			(pin passive line
-				(at 25.4 20.32 270)
+			(pin open_collector line
+				(at 0 3.81 0)
 				(length 5.08)
 				(name "GPIO"
 					(effects
@@ -831,10 +863,10 @@
 					)
 				)
 			)
-			(pin passive line
-				(at 22.86 20.32 270)
+			(pin power_in line
+				(at 29.21 -41.91 90)
 				(length 5.08)
-				(name "GND_"
+				(name "GND"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -849,10 +881,10 @@
 					)
 				)
 			)
-			(pin passive line
-				(at 20.32 20.32 270)
+			(pin power_in line
+				(at 19.05 24.13 270)
 				(length 5.08)
-				(name "VIN_1"
+				(name "VIN"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -867,10 +899,10 @@
 					)
 				)
 			)
-			(pin passive line
-				(at 17.78 20.32 270)
+			(pin power_in line
+				(at 21.59 24.13 270)
 				(length 5.08)
-				(name "VIN_2"
+				(name "VIN"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -885,8 +917,8 @@
 					)
 				)
 			)
-			(pin passive line
-				(at 15.24 20.32 270)
+			(pin power_in line
+				(at 40.64 -27.94 180)
 				(length 5.08)
 				(name "SGND2"
 					(effects
@@ -903,8 +935,8 @@
 					)
 				)
 			)
-			(pin passive line
-				(at 12.7 20.32 270)
+			(pin input line
+				(at 40.64 -11.43 180)
 				(length 5.08)
 				(name "FB3"
 					(effects
@@ -921,10 +953,10 @@
 					)
 				)
 			)
-			(pin passive line
-				(at 10.16 20.32 270)
+			(pin power_out line
+				(at 40.64 -8.89 180)
 				(length 5.08)
-				(name "VOUT3_2"
+				(name "VOUT3"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -939,10 +971,10 @@
 					)
 				)
 			)
-			(pin passive line
-				(at 7.62 20.32 270)
+			(pin power_in line
+				(at 31.75 -41.91 90)
 				(length 5.08)
-				(name "GND_9"
+				(name "GND"
 					(effects
 						(font
 							(size 1.27 1.27)
