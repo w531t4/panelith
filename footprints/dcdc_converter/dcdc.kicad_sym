@@ -351,10 +351,56 @@
 				)
 			)
 		)
+		(symbol "MPM54304GMN-0001_0_1"
+			(rectangle
+				(start 17.78 13.97)
+				(end 35.56 2.54)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(rectangle
+				(start 17.78 0)
+				(end 35.56 -11.43)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(rectangle
+				(start 17.78 -12.7)
+				(end 35.56 -24.13)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(rectangle
+				(start 17.78 -25.4)
+				(end 35.56 -36.83)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+		)
 		(symbol "MPM54304GMN-0001_1_1"
 			(rectangle
 				(start 5.08 19.05)
-				(end 35.56 -36.83)
+				(end 35.56 -48.26)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -363,8 +409,40 @@
 					(type background)
 				)
 			)
+			(text "PO: t0+0ms"
+				(at 23.622 8.128 0)
+				(effects
+					(font
+						(size 1.016 1.016)
+					)
+				)
+			)
+			(text "PO: t0+2ms"
+				(at 23.622 -4.572 0)
+				(effects
+					(font
+						(size 1.016 1.016)
+					)
+				)
+			)
+			(text "PO: t0+1ms"
+				(at 23.622 -16.51 0)
+				(effects
+					(font
+						(size 1.016 1.016)
+					)
+				)
+			)
+			(text "PO: t0+3ms"
+				(at 23.622 -28.702 0)
+				(effects
+					(font
+						(size 1.016 1.016)
+					)
+				)
+			)
 			(text "2A"
-				(at 25.146 -17.272 0)
+				(at 25.146 -26.416 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -372,7 +450,7 @@
 				)
 			)
 			(text "3A"
-				(at 25.4 8.89 0)
+				(at 25.4 11.43 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -380,7 +458,7 @@
 				)
 			)
 			(text "3A"
-				(at 25.4 0.508 0)
+				(at 25.4 -2.032 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -388,7 +466,7 @@
 				)
 			)
 			(text "2A"
-				(at 25.4 -8.636 0)
+				(at 25.4 -14.224 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -396,7 +474,7 @@
 				)
 			)
 			(pin power_out line
-				(at 40.64 -6.35 180)
+				(at 40.64 -13.97 180)
 				(length 5.08)
 				(name "VOUT3"
 					(effects
@@ -414,7 +492,7 @@
 				)
 			)
 			(pin power_in line
-				(at 8.89 -41.91 90)
+				(at 8.89 -53.34 90)
 				(length 5.08)
 				(name "GND"
 					(effects
@@ -468,7 +546,7 @@
 				)
 			)
 			(pin power_in line
-				(at 11.43 -41.91 90)
+				(at 11.43 -53.34 90)
 				(length 5.08)
 				(name "GND"
 					(effects
@@ -486,7 +564,7 @@
 				)
 			)
 			(pin input line
-				(at 40.64 -2.54 180)
+				(at 40.64 -8.89 180)
 				(length 5.08)
 				(name "FB2"
 					(effects
@@ -504,7 +582,7 @@
 				)
 			)
 			(pin power_in line
-				(at 13.97 -41.91 90)
+				(at 13.97 -53.34 90)
 				(length 5.08)
 				(name "GND"
 					(effects
@@ -522,7 +600,7 @@
 				)
 			)
 			(pin power_out line
-				(at 40.64 2.54 180)
+				(at 40.64 -1.27 180)
 				(length 5.08)
 				(name "VOUT2"
 					(effects
@@ -540,7 +618,7 @@
 				)
 			)
 			(pin power_out line
-				(at 40.64 0 180)
+				(at 40.64 -3.81 180)
 				(length 5.08)
 				(name "VOUT2"
 					(effects
@@ -558,7 +636,7 @@
 				)
 			)
 			(pin power_in line
-				(at 16.51 -41.91 90)
+				(at 16.51 -53.34 90)
 				(length 5.08)
 				(name "GND"
 					(effects
@@ -612,7 +690,7 @@
 				)
 			)
 			(pin power_in line
-				(at 19.05 -41.91 90)
+				(at 19.05 -53.34 90)
 				(length 5.08)
 				(name "GND"
 					(effects
@@ -666,7 +744,7 @@
 				)
 			)
 			(pin power_in line
-				(at 21.59 -41.91 90)
+				(at 21.59 -53.34 90)
 				(length 5.08)
 				(name "GND"
 					(effects
@@ -684,7 +762,7 @@
 				)
 			)
 			(pin power_in line
-				(at 40.64 -25.4 180)
+				(at 40.64 -39.37 180)
 				(length 5.08)
 				(name "SGND1"
 					(effects
@@ -702,7 +780,7 @@
 				)
 			)
 			(pin input line
-				(at 40.64 6.35 180)
+				(at 40.64 3.81 180)
 				(length 5.08)
 				(name "FB1"
 					(effects
@@ -738,7 +816,7 @@
 				)
 			)
 			(pin power_in line
-				(at 24.13 -41.91 90)
+				(at 24.13 -53.34 90)
 				(length 5.08)
 				(name "GND"
 					(effects
@@ -756,7 +834,7 @@
 				)
 			)
 			(pin power_in line
-				(at 26.67 -41.91 90)
+				(at 26.67 -53.34 90)
 				(length 5.08)
 				(name "GND"
 					(effects
@@ -774,7 +852,7 @@
 				)
 			)
 			(pin power_out line
-				(at 40.64 -15.24 180)
+				(at 40.64 -26.67 180)
 				(length 5.08)
 				(name "VOUT4"
 					(effects
@@ -792,7 +870,7 @@
 				)
 			)
 			(pin power_out line
-				(at 40.64 -17.78 180)
+				(at 40.64 -29.21 180)
 				(length 5.08)
 				(name "VOUT4"
 					(effects
@@ -810,7 +888,7 @@
 				)
 			)
 			(pin input line
-				(at 40.64 -20.32 180)
+				(at 40.64 -34.29 180)
 				(length 5.08)
 				(name "FB4"
 					(effects
@@ -864,7 +942,7 @@
 				)
 			)
 			(pin power_in line
-				(at 29.21 -41.91 90)
+				(at 29.21 -53.34 90)
 				(length 5.08)
 				(name "GND"
 					(effects
@@ -918,7 +996,7 @@
 				)
 			)
 			(pin power_in line
-				(at 40.64 -27.94 180)
+				(at 40.64 -41.91 180)
 				(length 5.08)
 				(name "SGND2"
 					(effects
@@ -936,7 +1014,7 @@
 				)
 			)
 			(pin input line
-				(at 40.64 -11.43 180)
+				(at 40.64 -21.59 180)
 				(length 5.08)
 				(name "FB3"
 					(effects
@@ -954,7 +1032,7 @@
 				)
 			)
 			(pin power_out line
-				(at 40.64 -8.89 180)
+				(at 40.64 -16.51 180)
 				(length 5.08)
 				(name "VOUT3"
 					(effects
@@ -972,7 +1050,7 @@
 				)
 			)
 			(pin power_in line
-				(at 31.75 -41.91 90)
+				(at 31.75 -53.34 90)
 				(length 5.08)
 				(name "GND"
 					(effects
