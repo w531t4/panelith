@@ -10902,6 +10902,10 @@
 		(uuid "10e90185-6fcc-4549-b0fb-da9f3cbbe48c")
 	)
 	(no_connect
+		(at 104.14 139.7)
+		(uuid "49d67f37-a41a-43b3-a4ad-3001c780ed50")
+	)
+	(no_connect
 		(at 144.78 162.56)
 		(uuid "4afb5845-dd37-4238-8dbb-eee0f820fe2a")
 	)
@@ -10912,6 +10916,10 @@
 	(no_connect
 		(at 104.14 132.08)
 		(uuid "c832e887-f0f1-4a22-928d-7bf892bac890")
+	)
+	(no_connect
+		(at 104.14 142.24)
+		(uuid "c8e79533-51ba-4998-aa49-aa546a52ac82")
 	)
 	(no_connect
 		(at 144.78 154.94)
