@@ -39,9 +39,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": true,
         "pads": {
-          "drill": 1.016,
-          "height": 1.7272,
-          "width": 1.7272
+          "drill": 0.0,
+          "height": 1.35,
+          "width": 0.4
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -50,7 +50,7 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": true,
         "zones": {
-          "min_clearance": 0.127
+          "min_clearance": 0.0
         }
       },
       "diff_pair_dimensions": [
@@ -61,38 +61,6 @@
         }
       ],
       "drc_exclusions": [
-        [
-          "clearance|152281000|98328500|a009c1c5-f11c-4bae-9c07-f4e45b27ff7a|ce53f391-6ec7-4bd8-8b9e-90ae018c2be7",
-          "this is related to user adjustable jumper pads. not an issue"
-        ],
-        [
-          "shorting_items|109432750|80132000|194eb79f-2552-4515-9c9a-0156c7a76197|61fdc3e6-98a7-4119-86f8-f610a795ad60",
-          "deliberate jumper"
-        ],
-        [
-          "shorting_items|109432750|80932000|0b5300f3-e6be-403c-87fb-209511aaa592|61fdc3e6-98a7-4119-86f8-f610a795ad60",
-          "deliberate jumper"
-        ],
-        [
-          "shorting_items|148972000|78711000|8090c44a-4ad5-42ed-ae38-36e8d519f78e|9ee50b13-2eb8-4084-a008-631ae43fff30",
-          "deliberate jumper"
-        ],
-        [
-          "shorting_items|149095750|77911000|64be4f23-946d-406a-b4cb-9d48799232f0|9ee50b13-2eb8-4084-a008-631ae43fff30",
-          "deliberate jumper"
-        ],
-        [
-          "shorting_items|149095750|78711000|0bfc43ef-4950-428d-94f2-dc19105f6f48|9ee50b13-2eb8-4084-a008-631ae43fff30",
-          "deliberate jumper"
-        ],
-        [
-          "shorting_items|151904750|96961000|070f7f6a-0741-45b6-a7dc-2e88efa46dab|ce53f391-6ec7-4bd8-8b9e-90ae018c2be7",
-          "deliberate jumper"
-        ],
-        [
-          "shorting_items|151904750|97761000|2dbc80ad-4464-4f4b-abf1-5e3053eb80c5|ce53f391-6ec7-4bd8-8b9e-90ae018c2be7",
-          "deliberate jumper"
-        ],
         [
           "shorting_items|156130000|66200000|2729eb00-8dc2-4db6-aa0d-a0c3bc728575|37352b48-4c85-4f2c-a07e-c32ff517a7c9",
           "deliberate jumper"
@@ -303,6 +271,10 @@
         {
           "diameter": 0.3,
           "drill": 0.2
+        },
+        {
+          "diameter": 0.5,
+          "drill": 0.3
         },
         {
           "diameter": 0.6,
@@ -1965,7 +1937,7 @@
         "uuid": "49a43414-f3c1-43b2-ad20-ac3166075f21"
       }
     ],
-    "used_designators": "R43,D27,#PWR118-119",
+    "used_designators": "RP4-6",
     "variants": [
       {
         "name": "ESP32-S3"
