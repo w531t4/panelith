@@ -1891,6 +1891,12 @@
           "label": "Arrow Price/Stock",
           "name": "Arrow Price/Stock",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Pins",
+          "name": "Sim.Pins",
+          "show": false
         }
       ],
       "filter_string": "",
