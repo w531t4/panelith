@@ -9249,6 +9249,17 @@
 		)
 		(uuid "32a10b55-b1db-48f3-ab1c-5444fb087691")
 	)
+	(text "LED2 < faux.0.0.7"
+		(exclude_from_sim no)
+		(at 79.248 130.556 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left bottom)
+		)
+		(uuid "35770d5c-a939-42ff-b413-8458f95fa708")
+	)
 	(text "24"
 		(exclude_from_sim no)
 		(at 212.09 106.68 0)
@@ -9304,6 +9315,17 @@
 		)
 		(uuid "58a041bc-6f43-4258-87a0-fdebeba607fe")
 	)
+	(text "WIFI_GPIO25 < faux.0.0.7"
+		(exclude_from_sim no)
+		(at 164.084 56.642 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left bottom)
+		)
+		(uuid "59a13ed8-1b18-4138-be48-5b7a5898b9a8")
+	)
 	(text "27"
 		(exclude_from_sim no)
 		(at 212.09 99.06 0)
@@ -9347,6 +9369,17 @@
 			(justify left bottom)
 		)
 		(uuid "672bb1d0-e3ee-41a7-af8e-28312858c1c5")
+	)
+	(text "AUDIO_L2 < faux.0.0.7"
+		(exclude_from_sim no)
+		(at 74.168 112.776 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left bottom)
+		)
+		(uuid "6a8e5178-3898-4637-879c-eed903b973d8")
 	)
 	(text "18"
 		(exclude_from_sim no)
@@ -9414,6 +9447,17 @@
 		)
 		(uuid "87aaae99-d6e7-47e8-8dac-3b36a3a250fd")
 	)
+	(text "WIFI_GPIO35 < faux.0.0.7"
+		(exclude_from_sim no)
+		(at 59.182 72.39 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left bottom)
+		)
+		(uuid "954c3c2d-fa63-491a-b3e8-aed208430921")
+	)
 	(text "26"
 		(exclude_from_sim no)
 		(at 212.09 101.6 0)
@@ -9446,17 +9490,6 @@
 			(justify right bottom)
 		)
 		(uuid "9afa3a19-1f1b-416a-a770-6e8cd4f0e48f")
-	)
-	(text "NC <v3.1.2"
-		(exclude_from_sim no)
-		(at 71.12 72.39 0)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify left bottom)
-		)
-		(uuid "9d282ea5-3302-455f-9677-3bf78976a5f0")
 	)
 	(text "PCLKT0_0"
 		(exclude_from_sim no)
@@ -9711,35 +9744,24 @@
 		)
 		(uuid "f37f2614-82bb-4c0d-86f0-447edbf762e6")
 	)
-	(text "NC v1.7"
-		(exclude_from_sim no)
-		(at 171.45 57.15 0)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify left bottom)
-		)
-		(uuid "fdba0806-a27d-4f24-9c86-756f58384680")
-	)
 	(no_connect
-		(at 143.51 130.81)
+		(at 154.94 129.54)
 		(uuid "070294a4-2118-4c66-bb3c-417d88807645")
 	)
 	(no_connect
-		(at 105.41 102.87)
+		(at 116.84 101.6)
 		(uuid "0c4574f6-0337-4e30-9e2b-5d5011afbb5c")
 	)
 	(no_connect
-		(at 143.51 113.03)
+		(at 154.94 111.76)
 		(uuid "1d695c3d-a463-4f67-b32a-315d65177887")
 	)
 	(no_connect
-		(at 105.41 113.03)
+		(at 116.84 111.76)
 		(uuid "265c3d86-48a8-4520-b288-ac09b4659741")
 	)
 	(no_connect
-		(at 105.41 133.35)
+		(at 116.84 132.08)
 		(uuid "2e66f5bb-314e-4963-bf66-ece56678f7fb")
 	)
 	(no_connect
@@ -9747,15 +9769,15 @@
 		(uuid "437b0585-9bcc-4289-8e2f-1a2323699460")
 	)
 	(no_connect
-		(at 105.41 138.43)
+		(at 116.84 137.16)
 		(uuid "46c72412-9dd2-4992-85f1-c7b9dd171433")
 	)
 	(no_connect
-		(at 143.51 118.11)
+		(at 154.94 116.84)
 		(uuid "4ba9cd06-4db8-469b-b411-21e310a7e5a1")
 	)
 	(no_connect
-		(at 105.41 130.81)
+		(at 116.84 129.54)
 		(uuid "4e205239-7391-4727-a93c-b2a27f5d7a18")
 	)
 	(no_connect
@@ -9763,7 +9785,7 @@
 		(uuid "58cac6b7-f43f-4ae6-a5c6-df661fb2b8d9")
 	)
 	(no_connect
-		(at 105.41 118.11)
+		(at 116.84 116.84)
 		(uuid "6074bcc8-1399-4bbf-a2ef-cfa10409d7bc")
 	)
 	(no_connect
@@ -9771,7 +9793,7 @@
 		(uuid "67d1095c-66c3-4064-920d-590ef6417182")
 	)
 	(no_connect
-		(at 143.51 115.57)
+		(at 154.94 114.3)
 		(uuid "681daf3d-1db3-4a37-9154-b3112eff592b")
 	)
 	(no_connect
@@ -9779,15 +9801,15 @@
 		(uuid "713f4020-124c-4a4b-b986-dc1e69c08e64")
 	)
 	(no_connect
-		(at 143.51 138.43)
+		(at 154.94 137.16)
 		(uuid "71680aa4-6a6c-428e-bbeb-ef59d2f0c58a")
 	)
 	(no_connect
-		(at 143.51 133.35)
+		(at 154.94 132.08)
 		(uuid "8bde04ac-d41f-482e-9d01-4a2f3b6173bc")
 	)
 	(no_connect
-		(at 105.41 115.57)
+		(at 116.84 114.3)
 		(uuid "8fff0ca1-f2a0-44da-b7fb-eb62db3fc74b")
 	)
 	(no_connect
@@ -9795,11 +9817,11 @@
 		(uuid "98d17119-50e9-4721-945c-43c342dd1e6e")
 	)
 	(no_connect
-		(at 105.41 128.27)
+		(at 116.84 127)
 		(uuid "b70cd226-010d-4c4d-bf48-ddd8aedb82ad")
 	)
 	(no_connect
-		(at 143.51 102.87)
+		(at 154.94 101.6)
 		(uuid "c0187a73-fad5-47b3-8e8d-2ab3d1894fe4")
 	)
 	(no_connect
@@ -9807,11 +9829,11 @@
 		(uuid "cd43cabe-10eb-47f8-aba1-9dd259f4b601")
 	)
 	(no_connect
-		(at 105.41 107.95)
+		(at 116.84 106.68)
 		(uuid "de25f54c-29fd-43e9-bedf-7e76968c53a7")
 	)
 	(no_connect
-		(at 143.51 107.95)
+		(at 154.94 106.68)
 		(uuid "e4e24d85-8dcf-4839-a3aa-5eeead672d89")
 	)
 	(no_connect
@@ -9819,7 +9841,7 @@
 		(uuid "ec7d851e-eee9-4951-897f-7fabe8115f83")
 	)
 	(no_connect
-		(at 143.51 128.27)
+		(at 154.94 127)
 		(uuid "f0e6f0b3-0ad7-49b3-b08f-7c67a267a3ec")
 	)
 	(no_connect
@@ -10208,7 +10230,7 @@
 	)
 	(global_label "GP9"
 		(shape input)
-		(at 105.41 125.73 180)
+		(at 116.84 124.46 180)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -10217,7 +10239,7 @@
 		)
 		(uuid "0010e121-a8fd-4cb6-999e-dda9bcccecf6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 105.41 125.73 0)
+			(at 116.84 124.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10230,7 +10252,7 @@
 	)
 	(global_label "GN8"
 		(shape input)
-		(at 143.51 105.41 0)
+		(at 154.94 104.14 0)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -10239,7 +10261,7 @@
 		)
 		(uuid "016b0370-dd39-48b3-84b8-0b65f5977f41")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 143.51 105.41 0)
+			(at 154.94 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10252,7 +10274,7 @@
 	)
 	(global_label "GN10"
 		(shape input)
-		(at 143.51 110.49 0)
+		(at 154.94 109.22 0)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -10261,7 +10283,7 @@
 		)
 		(uuid "01ef75bd-4b89-4ab6-91e1-ae2564fb1fef")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 143.51 110.49 0)
+			(at 154.94 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10406,7 +10428,7 @@
 	)
 	(global_label "AUDIO_V3"
 		(shape input)
-		(at 105.41 118.11 180)
+		(at 116.84 116.84 180)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -10415,7 +10437,7 @@
 		)
 		(uuid "0d1d6b27-df58-4c47-9142-0342528175f5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 105.41 118.11 0)
+			(at 116.84 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10472,7 +10494,7 @@
 	)
 	(global_label "LED5"
 		(shape input)
-		(at 143.51 138.43 0)
+		(at 154.94 137.16 0)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -10481,7 +10503,7 @@
 		)
 		(uuid "19204653-44e1-4b79-a967-514c6d32c7d9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 143.51 138.43 0)
+			(at 154.94 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10494,7 +10516,7 @@
 	)
 	(global_label "AUDIO_V2"
 		(shape input)
-		(at 143.51 118.11 0)
+		(at 154.94 116.84 0)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -10503,7 +10525,7 @@
 		)
 		(uuid "195f9d28-514f-4056-9a5a-353b4b86d693")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 143.51 118.11 0)
+			(at 154.94 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10516,7 +10538,7 @@
 	)
 	(global_label "GN12"
 		(shape input)
-		(at 143.51 140.97 0)
+		(at 154.94 139.7 0)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -10525,7 +10547,7 @@
 		)
 		(uuid "1cc2a8e3-9183-41e7-85f9-2415ed6fef1d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 143.51 140.97 0)
+			(at 154.94 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10538,7 +10560,7 @@
 	)
 	(global_label "GN9"
 		(shape input)
-		(at 143.51 125.73 0)
+		(at 154.94 124.46 0)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -10547,7 +10569,7 @@
 		)
 		(uuid "1d3f6bf5-4f32-473a-aa7a-38b918525dfc")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 143.51 125.73 0)
+			(at 154.94 124.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10692,7 +10714,7 @@
 	)
 	(global_label "LED6"
 		(shape input)
-		(at 143.51 128.27 0)
+		(at 154.94 127 0)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -10701,7 +10723,7 @@
 		)
 		(uuid "33ea8ad6-6c7b-4ea1-b50d-e1d47bc425bd")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 143.51 128.27 0)
+			(at 154.94 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10714,7 +10736,7 @@
 	)
 	(global_label "GP10"
 		(shape input)
-		(at 105.41 110.49 180)
+		(at 116.84 109.22 180)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -10723,7 +10745,7 @@
 		)
 		(uuid "38c66a21-d4fb-4394-b82e-0244c3f03738")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 105.41 110.49 0)
+			(at 116.84 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10736,7 +10758,7 @@
 	)
 	(global_label "LED4"
 		(shape input)
-		(at 143.51 130.81 0)
+		(at 154.94 129.54 0)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -10745,7 +10767,7 @@
 		)
 		(uuid "401c3bc7-a28b-488f-b40c-101a30c75eba")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 143.51 130.81 0)
+			(at 154.94 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10780,7 +10802,7 @@
 	)
 	(global_label "LED1"
 		(shape input)
-		(at 143.51 123.19 0)
+		(at 154.94 121.92 0)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -10789,7 +10811,7 @@
 		)
 		(uuid "47df7444-40a8-413d-81e5-8381bd97a6f4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 143.51 123.19 0)
+			(at 154.94 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10800,7 +10822,7 @@
 			)
 		)
 	)
-	(global_label "WIFI_GPIO35"
+	(global_label "WIFI_GPIO38"
 		(shape input)
 		(at 106.68 71.12 180)
 		(effects
@@ -10824,7 +10846,7 @@
 	)
 	(global_label "GP11"
 		(shape input)
-		(at 105.41 120.65 180)
+		(at 116.84 119.38 180)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -10833,7 +10855,7 @@
 		)
 		(uuid "5154134e-ec9a-4e7e-9496-0775009bdd74")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 105.41 120.65 0)
+			(at 116.84 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10868,7 +10890,7 @@
 	)
 	(global_label "AUDIO_L1"
 		(shape input)
-		(at 143.51 113.03 0)
+		(at 154.94 111.76 0)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -10877,7 +10899,7 @@
 		)
 		(uuid "531e4959-2422-4617-96e4-d5323a9de575")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 143.51 113.03 0)
+			(at 154.94 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10890,7 +10912,7 @@
 	)
 	(global_label "AUDIO_L0"
 		(shape input)
-		(at 105.41 115.57 180)
+		(at 116.84 114.3 180)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -10899,7 +10921,7 @@
 		)
 		(uuid "561d6167-79ab-4d50-9030-df49dada0f48")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 105.41 115.57 0)
+			(at 116.84 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11000,7 +11022,7 @@
 	)
 	(global_label "AUDIO_L3"
 		(shape input)
-		(at 143.51 107.95 0)
+		(at 154.94 106.68 0)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -11009,7 +11031,7 @@
 		)
 		(uuid "65a43a95-49f6-41cc-9e3d-e8389aa056b7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 143.51 107.95 0)
+			(at 154.94 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11130,9 +11152,9 @@
 			)
 		)
 	)
-	(global_label "AUDIO_L2"
+	(global_label "WIFI_GPIO9"
 		(shape input)
-		(at 105.41 113.03 180)
+		(at 116.84 111.76 180)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -11141,7 +11163,7 @@
 		)
 		(uuid "6d8c53e7-d6b8-49d7-b51e-2678ccbcde97")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 105.41 113.03 0)
+			(at 116.84 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11154,7 +11176,7 @@
 	)
 	(global_label "LED3"
 		(shape input)
-		(at 105.41 128.27 180)
+		(at 116.84 127 180)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -11163,7 +11185,7 @@
 		)
 		(uuid "6da775ce-37e6-4102-aae1-1fbd725ab0ae")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 105.41 128.27 0)
+			(at 116.84 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11176,7 +11198,7 @@
 	)
 	(global_label "GP8"
 		(shape input)
-		(at 105.41 105.41 180)
+		(at 116.84 104.14 180)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -11185,7 +11207,7 @@
 		)
 		(uuid "704ae0c0-33dd-43e2-89c7-b73cb6844dd9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 105.41 105.41 0)
+			(at 116.84 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11198,7 +11220,7 @@
 	)
 	(global_label "AUDIO_R2"
 		(shape input)
-		(at 143.51 115.57 0)
+		(at 154.94 114.3 0)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -11207,7 +11229,7 @@
 		)
 		(uuid "70705be1-6727-4851-acb3-89c16c74737a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 143.51 115.57 0)
+			(at 154.94 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11264,7 +11286,7 @@
 	)
 	(global_label "GP13"
 		(shape input)
-		(at 105.41 135.89 180)
+		(at 116.84 134.62 180)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -11273,7 +11295,7 @@
 		)
 		(uuid "7a9668c3-bb12-4d00-8c08-ab167ff77652")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 105.41 135.89 0)
+			(at 116.84 134.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11528,7 +11550,7 @@
 	)
 	(global_label "GP12"
 		(shape input)
-		(at 105.41 140.97 180)
+		(at 116.84 139.7 180)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -11537,7 +11559,7 @@
 		)
 		(uuid "912132e3-1138-4289-bfa8-224a06a3d673")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 105.41 140.97 0)
+			(at 116.84 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11548,7 +11570,7 @@
 			)
 		)
 	)
-	(global_label "WIFI_GPIO25"
+	(global_label "WIFI_GPIO42"
 		(shape input)
 		(at 144.78 55.88 0)
 		(effects
@@ -11572,7 +11594,7 @@
 	)
 	(global_label "AUDIO_R1"
 		(shape input)
-		(at 105.41 102.87 180)
+		(at 116.84 101.6 180)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -11581,7 +11603,7 @@
 		)
 		(uuid "9606c309-2752-4db6-8896-644ae95a19ad")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 105.41 102.87 0)
+			(at 116.84 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11616,7 +11638,7 @@
 	)
 	(global_label "LED0"
 		(shape input)
-		(at 105.41 123.19 180)
+		(at 116.84 121.92 180)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -11625,7 +11647,7 @@
 		)
 		(uuid "a296b14c-739a-44db-bbc8-6539e7d0132a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 105.41 123.19 0)
+			(at 116.84 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11680,9 +11702,9 @@
 			)
 		)
 	)
-	(global_label "LED2"
+	(global_label "WIFI_GPIO3"
 		(shape input)
-		(at 105.41 130.81 180)
+		(at 116.84 129.54 180)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -11691,7 +11713,7 @@
 		)
 		(uuid "a756579b-5fda-40cc-8c06-fff1f829a5e2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 105.41 130.81 0)
+			(at 116.84 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11704,7 +11726,7 @@
 	)
 	(global_label "AUDIO_V0"
 		(shape input)
-		(at 105.41 133.35 180)
+		(at 116.84 132.08 180)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -11713,7 +11735,7 @@
 		)
 		(uuid "a9a7e282-7bcc-4639-bb9c-1863cd039a79")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 105.41 133.35 0)
+			(at 116.84 132.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11858,7 +11880,7 @@
 	)
 	(global_label "GN13"
 		(shape input)
-		(at 143.51 135.89 0)
+		(at 154.94 134.62 0)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -11867,7 +11889,7 @@
 		)
 		(uuid "b2d10a5b-bf1a-4b94-af65-497d72d9da5e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 143.51 135.89 0)
+			(at 154.94 134.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11924,7 +11946,7 @@
 	)
 	(global_label "AUDIO_V1"
 		(shape input)
-		(at 105.41 138.43 180)
+		(at 116.84 137.16 180)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -11933,7 +11955,7 @@
 		)
 		(uuid "bdf0518c-be46-427c-b2ca-3baeccc5127e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 105.41 138.43 0)
+			(at 116.84 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12254,7 +12276,7 @@
 	)
 	(global_label "LED7"
 		(shape input)
-		(at 143.51 133.35 0)
+		(at 154.94 132.08 0)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -12263,7 +12285,7 @@
 		)
 		(uuid "e0f38a51-5b3b-4757-8b43-85aaaf9e8ae5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 143.51 133.35 0)
+			(at 154.94 132.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12320,7 +12342,7 @@
 	)
 	(global_label "AUDIO_R0"
 		(shape input)
-		(at 105.41 107.95 180)
+		(at 116.84 106.68 180)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -12329,7 +12351,7 @@
 		)
 		(uuid "eee956f8-dd4b-4abf-939a-08d3091b9202")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 105.41 107.95 0)
+			(at 116.84 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12386,7 +12408,7 @@
 	)
 	(global_label "GN11"
 		(shape input)
-		(at 143.51 120.65 0)
+		(at 154.94 119.38 0)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -12395,7 +12417,7 @@
 		)
 		(uuid "f017d6cc-6ad2-41bc-b7b1-c24db5b53580")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 143.51 120.65 0)
+			(at 154.94 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12430,7 +12452,7 @@
 	)
 	(global_label "AUDIO_R3"
 		(shape input)
-		(at 143.51 102.87 0)
+		(at 154.94 101.6 0)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -12439,7 +12461,7 @@
 		)
 		(uuid "f6a03e14-6ca6-4ade-a73e-5bd051cee535")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 143.51 102.87 0)
+			(at 154.94 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16425,7 +16447,7 @@
 	)
 	(symbol
 		(lib_id "lfe5bg381:LFE5UM-85F-6BG381C")
-		(at 124.46 120.65 0)
+		(at 135.89 119.38 0)
 		(unit 6)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -16435,7 +16457,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005a0783c9")
 		(property "Reference" "U1"
-			(at 124.46 96.52 0)
+			(at 135.89 95.25 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16445,7 +16467,7 @@
 			)
 		)
 		(property "Value" "LFE5U-85F-6BG381C"
-			(at 124.46 99.06 0)
+			(at 135.89 97.79 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16455,7 +16477,7 @@
 			)
 		)
 		(property "Footprint" "lfe5bg381:BGA-381_pitch0.8mm_dia0.4mm"
-			(at 97.79 96.52 0)
+			(at 109.22 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16466,7 +16488,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.latticesemi.com/~/media/LatticeSemi/Documents/DataSheets/ECP5/FPGA-DS-02012.pdf"
-			(at 97.79 96.52 0)
+			(at 109.22 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16477,7 +16499,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 124.46 120.65 0)
+			(at 135.89 119.38 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16487,7 +16509,7 @@
 			)
 		)
 		(property "MPN" "LFE5U-85F-6BG381C"
-			(at 124.46 120.65 0)
+			(at 135.89 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16498,7 +16520,7 @@
 			)
 		)
 		(property "LCSC" "C446029"
-			(at 124.46 120.65 0)
+			(at 135.89 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16509,7 +16531,7 @@
 			)
 		)
 		(property "Digikey" "220-2177-ND"
-			(at 124.46 120.65 0)
+			(at 135.89 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16520,7 +16542,7 @@
 			)
 		)
 		(property "Arrow" ""
-			(at 124.46 120.65 0)
+			(at 135.89 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16531,7 +16553,7 @@
 			)
 		)
 		(property "DatasheetLC" ""
-			(at 124.46 120.65 0)
+			(at 135.89 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16542,7 +16564,7 @@
 			)
 		)
 		(property "LCS_C2" ""
-			(at 124.46 120.65 0)
+			(at 135.89 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16553,7 +16575,7 @@
 			)
 		)
 		(property "MP_N4" ""
-			(at 124.46 120.65 0)
+			(at 135.89 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16564,7 +16586,7 @@
 			)
 		)
 		(property "MP_N5" ""
-			(at 124.46 120.65 0)
+			(at 135.89 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16575,7 +16597,7 @@
 			)
 		)
 		(property "Vertical" ""
-			(at 124.46 120.65 0)
+			(at 135.89 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16586,7 +16608,7 @@
 			)
 		)
 		(property "price100_Mouser" ""
-			(at 124.46 120.65 0)
+			(at 135.89 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16597,7 +16619,7 @@
 			)
 		)
 		(property "price1200_Chip1stop" ""
-			(at 124.46 120.65 0)
+			(at 135.89 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16608,7 +16630,7 @@
 			)
 		)
 		(property "price300_LCSC" ""
-			(at 124.46 120.65 0)
+			(at 135.89 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16619,7 +16641,7 @@
 			)
 		)
 		(property "price300_Vertical" ""
-			(at 124.46 120.65 0)
+			(at 135.89 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16630,7 +16652,7 @@
 			)
 		)
 		(property "price_Arrow" ""
-			(at 124.46 120.65 0)
+			(at 135.89 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

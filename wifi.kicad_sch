@@ -2192,7 +2192,7 @@
 	)
 	(text "GPIO25,26 are DAC channels that can directly replay\naudio material over i2s bus"
 		(exclude_from_sim no)
-		(at 34.29 142.24 0)
+		(at 139.954 166.878 0)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -2256,19 +2256,9 @@
 		)
 		(uuid "2b133f93-b826-476d-93dc-42f644d1de9c")
 	)
-	(text "GPIO{35,36,37} in use by \nESP32 for PSRAM addressing!"
-		(exclude_from_sim no)
-		(at 138.43 141.732 0)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-		)
-		(uuid "35696055-8436-4d19-a27e-1bc44a60d795")
-	)
 	(text "Programming pins:\nTXD RXD EN GPIO0"
 		(exclude_from_sim no)
-		(at 77.978 92.71 0)
+		(at 239.014 26.924 0)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -2288,9 +2278,20 @@
 		)
 		(uuid "51566e7c-9240-4fd1-a428-0b97748ad220")
 	)
+	(text "New Pins:\n - WIFI_GPIO15_XTAL_D+/-\n - WIFI_GPIO{39,40,41,42} - ESP32's JTAG\n - WIFI_GPIO{3,8,9,10,11,12,13,14,38,46}\n - WIFI_USB_D+/-\n\nNewly unconnected\n - WIFI_GPIO35\n\nNewly removed\n - WIFI_GPIO{19,21,22,25,26,27}"
+		(exclude_from_sim no)
+		(at 17.526 178.562 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left)
+		)
+		(uuid "593bd2f9-1221-476f-8c7c-096c04bd0bfb")
+	)
 	(text "ESP32 ADC capable pins\nGPIO36,39,34,35,32,33,25,26,27,\nGPIO14,12,13,15 - shared with HSPI/JTAG\nConnected to BANK7 on \"gpio\" sheet"
 		(exclude_from_sim no)
-		(at 63.5 165.1 0)
+		(at -0.762 96.012 0)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -2323,7 +2324,7 @@
 	)
 	(text "Strapping pins\n(avoid using to avoid\nboot problems)\nGPIO0,2,4,5,12,15"
 		(exclude_from_sim no)
-		(at 77.978 104.14 0)
+		(at 239.014 38.354 0)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -2331,27 +2332,6 @@
 			(justify left bottom)
 		)
 		(uuid "b602d344-96f0-41e6-8382-5a6fa89585b0")
-	)
-	(text "JTAG netlists should be placed on general GPIO)\nTDO - I\nTDI - I/O\nTCK - I/O\nTMS - I/O"
-		(exclude_from_sim no)
-		(at 121.158 112.014 0)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-		)
-		(uuid "ba097316-7d97-409d-bde2-c089b646693e")
-	)
-	(text "WROVER GPIO16,17\nused internally for PSRAM"
-		(exclude_from_sim no)
-		(at 80.01 116.078 0)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify left bottom)
-		)
-		(uuid "c22383ff-e5ae-4396-87ae-25fc94bce4b2")
 	)
 	(text "TDO <v3.1"
 		(exclude_from_sim no)
@@ -2374,28 +2354,6 @@
 		)
 		(uuid "d3c87592-1f7e-4850-b0d5-a26dd9a347ab")
 	)
-	(text "pin28 - NC v1.7, >=v3.1.2"
-		(exclude_from_sim no)
-		(at 46.736 113.538 0)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify left bottom)
-		)
-		(uuid "d52531a1-169c-4f74-8fa6-0e2b175a7c44")
-	)
-	(text "pin27 - NC >=v3.1.2"
-		(exclude_from_sim no)
-		(at 46.736 116.078 0)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify left bottom)
-		)
-		(uuid "e85dddfc-74ff-4b35-a21e-caffb218bb48")
-	)
 	(text "R56 makes ESP32 boot at power up\nno R56: FPGA should pull up GPIO0\nand pulse EN for ESP32 to boot"
 		(exclude_from_sim no)
 		(at 100.584 28.448 0)
@@ -2407,9 +2365,9 @@
 		)
 		(uuid "e992472e-6d3d-44dd-854f-3ae59bd1610a")
 	)
-	(text_box "GPIO47/48 are 1.8V!"
+	(text_box "\n\nGPIO47/48 are 1.8V!"
 		(exclude_from_sim no)
-		(at 213.36 140.97 0)
+		(at 238.76 130.436 0)
 		(size 26.67 9.264)
 		(margins 0.9525 0.9525 0.9525 0.9525)
 		(stroke
@@ -2426,6 +2384,26 @@
 			(justify left top)
 		)
 		(uuid "7cc3f67e-3fff-4416-9ee9-39a2bda7cd25")
+	)
+	(text_box "\n\n\n\nGPIO{35,36,37} in use by \nESP32 for PSRAM addressing!"
+		(exclude_from_sim no)
+		(at 113.03 127.6578 0)
+		(size 36.83 17.2951)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify right top)
+		)
+		(uuid "d686a200-a6cf-4110-8135-25b36505e0f8")
 	)
 	(junction
 		(at 193.04 53.34)
@@ -2759,6 +2737,610 @@
 		)
 		(uuid "fa032522-260b-43ee-9594-d9d905ef1616")
 	)
+	(table
+		(column_count 2)
+		(border
+			(external yes)
+			(header yes)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+		)
+		(separators
+			(rows yes)
+			(cols yes)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+		)
+		(column_widths 26.67 26.67)
+		(row_heights 3.81 3.81 3.81 3.81 3.81 3.81 3.81 3.81 3.81 3.81 3.81 3.81
+			3.81 3.81 3.81 3.81 3.81
+		)
+		(uuid "084064f9-f319-431a-9c78-42a8beca0b0e")
+		(cells
+			(table_cell "WIFI_GPIO15_XTAL_D+ (new)"
+				(exclude_from_sim no)
+				(at 53.34 93.98 0)
+				(size 26.67 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "b455742d-821c-4893-b605-9e3587749e85")
+			)
+			(table_cell "pass"
+				(exclude_from_sim no)
+				(at 80.01 93.98 0)
+				(size 26.67 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "d5bec6d1-89d8-405c-be5a-3ea72d3c4c51")
+			)
+			(table_cell "WIFI_GPIO16_XTAL_D- (new)"
+				(exclude_from_sim no)
+				(at 53.34 97.79 0)
+				(size 26.67 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "7fb53635-9130-4bba-85c2-4096ef67bd49")
+			)
+			(table_cell "pass"
+				(exclude_from_sim no)
+				(at 80.01 97.79 0)
+				(size 26.67 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "df99272e-60bd-476b-b49b-80075dfe0ed5")
+			)
+			(table_cell "GPIO_39*done"
+				(exclude_from_sim no)
+				(at 53.34 101.6 0)
+				(size 26.67 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "7e9b582d-c34b-4993-be2a-9dde252010d9")
+			)
+			(table_cell "gpio_19"
+				(exclude_from_sim no)
+				(at 80.01 101.6 0)
+				(size 26.67 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "69f1d9f9-006f-417b-afb9-61c21a75fc52")
+			)
+			(table_cell "GPIO_40 *done"
+				(exclude_from_sim no)
+				(at 53.34 105.41 0)
+				(size 26.67 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "0f7a36d9-4603-4c2a-9b87-840acbf29d06")
+			)
+			(table_cell "gpio_21"
+				(exclude_from_sim no)
+				(at 80.01 105.41 0)
+				(size 26.67 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "865260d4-f45b-4163-9f1a-18281a825ee7")
+			)
+			(table_cell "GPIO_41 *done"
+				(exclude_from_sim no)
+				(at 53.34 109.22 0)
+				(size 26.67 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "efd93604-fda7-46ed-941c-26f7234fd490")
+			)
+			(table_cell "gpio_22"
+				(exclude_from_sim no)
+				(at 80.01 109.22 0)
+				(size 26.67 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "ec4c0b30-06aa-45a0-989e-0e9425444ef2")
+			)
+			(table_cell "GPIO_42"
+				(exclude_from_sim no)
+				(at 53.34 113.03 0)
+				(size 26.67 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "b5869374-07b2-40ca-9712-99caf435e480")
+			)
+			(table_cell "gpio_25"
+				(exclude_from_sim no)
+				(at 80.01 113.03 0)
+				(size 26.67 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "ce838fe9-0981-48ec-8eb2-fdfd05e7f117")
+			)
+			(table_cell "GPIO_3"
+				(exclude_from_sim no)
+				(at 53.34 116.84 0)
+				(size 26.67 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "083a3644-a44b-4e65-b03b-4dee1515a6e9")
+			)
+			(table_cell "C1"
+				(exclude_from_sim no)
+				(at 80.01 116.84 0)
+				(size 26.67 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "8f0fe4fb-bb49-4aed-99f4-aeb165c615e7")
+			)
+			(table_cell "GPIO_8 *done"
+				(exclude_from_sim no)
+				(at 53.34 120.65 0)
+				(size 26.67 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "46ef1969-7025-4dcd-bbc9-2038d70a2cc1")
+			)
+			(table_cell "gpio26"
+				(exclude_from_sim no)
+				(at 80.01 120.65 0)
+				(size 26.67 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "7606ef1f-61fd-4990-a068-c754db67ffba")
+			)
+			(table_cell "GPIO_9"
+				(exclude_from_sim no)
+				(at 53.34 124.46 0)
+				(size 26.67 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "1fd61d56-cb6e-4ff4-91d7-9d981acf6f90")
+			)
+			(table_cell "C3"
+				(exclude_from_sim no)
+				(at 80.01 124.46 0)
+				(size 26.67 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "f4d288c0-bc16-4df4-b718-2a5e50d7266d")
+			)
+			(table_cell "GPIO_10"
+				(exclude_from_sim no)
+				(at 53.34 128.27 0)
+				(size 26.67 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "36807603-e88e-4034-b31f-79b3a96deed1")
+			)
+			(table_cell "gn13"
+				(exclude_from_sim no)
+				(at 80.01 128.27 0)
+				(size 26.67 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "0c258fcf-3b95-4970-bd18-494ce443ed34")
+			)
+			(table_cell "GPIO_12"
+				(exclude_from_sim no)
+				(at 53.34 132.08 0)
+				(size 26.67 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "7d3982c5-5b27-463a-a4b6-b08c3d868b06")
+			)
+			(table_cell "gp13"
+				(exclude_from_sim no)
+				(at 80.01 132.08 0)
+				(size 26.67 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "fccce766-71b1-4be1-8d49-62f7eb4b4328")
+			)
+			(table_cell "GPIO_13"
+				(exclude_from_sim no)
+				(at 53.34 135.89 0)
+				(size 26.67 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "6d7e1ee1-f796-4b77-acfd-d2450fe06aaf")
+			)
+			(table_cell "gn12"
+				(exclude_from_sim no)
+				(at 80.01 135.89 0)
+				(size 26.67 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "66b8cd3e-1d32-481a-aec3-735deff716eb")
+			)
+			(table_cell "GPIO_14"
+				(exclude_from_sim no)
+				(at 53.34 139.7 0)
+				(size 26.67 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "87bedb22-dd8d-4039-ac1b-04d20a3acce1")
+			)
+			(table_cell "gp12"
+				(exclude_from_sim no)
+				(at 80.01 139.7 0)
+				(size 26.67 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "8ca128d6-29e6-4a0f-bcd9-0335ef4698bd")
+			)
+			(table_cell "GPIO_38 *done"
+				(exclude_from_sim no)
+				(at 53.34 143.51 0)
+				(size 26.67 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "cec80d3f-76d3-4e36-9b2c-3c6f45425db7")
+			)
+			(table_cell "gpio35"
+				(exclude_from_sim no)
+				(at 80.01 143.51 0)
+				(size 26.67 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "624dc3a5-68b2-4a44-bde9-1d24a96a3371")
+			)
+			(table_cell "GPIO_46 *done"
+				(exclude_from_sim no)
+				(at 53.34 147.32 0)
+				(size 26.67 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "c09e2ee7-b45c-4bd5-8207-1b86e070afb0")
+			)
+			(table_cell "gpio27"
+				(exclude_from_sim no)
+				(at 80.01 147.32 0)
+				(size 26.67 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "4eb1a4b4-bd3a-47b5-b414-6e5b13eb91d1")
+			)
+			(table_cell "WIFI_USB_D+"
+				(exclude_from_sim no)
+				(at 53.34 151.13 0)
+				(size 26.67 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "beb365ce-3f91-4036-9743-c9225f614b9a")
+			)
+			(table_cell "P1"
+				(exclude_from_sim no)
+				(at 80.01 151.13 0)
+				(size 26.67 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "674eea6f-5c84-43ce-89e5-f7b80919a4a9")
+			)
+			(table_cell "WIFI_USB_D-"
+				(exclude_from_sim no)
+				(at 53.34 154.94 0)
+				(size 26.67 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "38af9646-e27e-46fe-aca7-2dd992bff6cb")
+			)
+			(table_cell "P2"
+				(exclude_from_sim no)
+				(at 80.01 154.94 0)
+				(size 26.67 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "2c34de60-8fab-4404-a605-cb1cba6a04da")
+			)
+		)
+	)
 	(label "WIFIEN"
 		(at 142.24 67.31 0)
 		(effects
@@ -2847,7 +3429,7 @@
 	)
 	(global_label "SD_D0"
 		(shape input)
-		(at 238.76 88.9 0)
+		(at 238.76 116.84 0)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -2856,7 +3438,7 @@
 		)
 		(uuid "156231e4-18b6-497b-8f78-0e29274be563")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 238.76 88.9 90)
+			(at 238.76 116.84 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2933,7 +3515,7 @@
 			)
 		)
 	)
-	(global_label "WIFI_GPIO12"
+	(global_label "GP13"
 		(shape input)
 		(at 238.76 109.22 0)
 		(effects
@@ -3199,7 +3781,7 @@
 	)
 	(global_label "SD_D3"
 		(shape input)
-		(at 238.76 96.52 0)
+		(at 238.76 127 0)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -3208,7 +3790,7 @@
 		)
 		(uuid "561ed140-80bb-457b-92e5-241ac13bbc9f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 238.76 96.52 90)
+			(at 238.76 127 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3265,7 +3847,7 @@
 	)
 	(global_label "JTAG_TDO"
 		(shape input)
-		(at 238.76 119.38 0)
+		(at 238.76 91.44 0)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -3274,7 +3856,7 @@
 		)
 		(uuid "648c68ad-b3e6-425c-9219-e8e12477dddd")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 238.76 119.38 0)
+			(at 238.76 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3331,7 +3913,7 @@
 	)
 	(global_label "SD_D2"
 		(shape input)
-		(at 238.76 93.98 0)
+		(at 238.76 121.92 0)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -3340,7 +3922,7 @@
 		)
 		(uuid "6c5b956d-5bd8-4825-9966-3adc0fa603e7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 238.76 93.98 0)
+			(at 238.76 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3351,7 +3933,7 @@
 			)
 		)
 	)
-	(global_label "WIFI_GPIO11"
+	(global_label "GN13"
 		(shape input)
 		(at 238.76 106.68 0)
 		(effects
@@ -3419,7 +4001,7 @@
 	)
 	(global_label "SD_D1"
 		(shape input)
-		(at 238.76 91.44 0)
+		(at 238.76 119.38 0)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -3428,29 +4010,7 @@
 		)
 		(uuid "8a5b5949-5e7e-4665-87a1-35986b40e7d0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 238.76 91.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-	)
-	(global_label "WIFI_GPIO35"
-		(shape input)
-		(at 22.86 64.77 180)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify right)
-		)
-		(uuid "91384b9d-90fb-49d6-bdec-a66fc6cf4a10")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 22.86 64.77 0)
+			(at 238.76 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3485,7 +4045,7 @@
 	)
 	(global_label "JTAG_TCK"
 		(shape input)
-		(at 238.76 116.84 0)
+		(at 238.76 88.9 0)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -3494,7 +4054,7 @@
 		)
 		(uuid "9b4a0b11-6a91-4c66-b048-2a0b6f86ca13")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 238.76 116.84 0)
+			(at 238.76 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3571,7 +4131,7 @@
 			)
 		)
 	)
-	(global_label "WIFI_GPIO14"
+	(global_label "GP12"
 		(shape input)
 		(at 238.76 114.3 0)
 		(effects
@@ -3661,7 +4221,7 @@
 	)
 	(global_label "JTAG_TMS"
 		(shape input)
-		(at 238.76 127 0)
+		(at 238.76 96.52 0)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -3670,7 +4230,7 @@
 		)
 		(uuid "af80e945-2aae-4c17-b15f-f8c3bf2395cb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 238.76 127 0)
+			(at 238.76 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3771,7 +4331,7 @@
 	)
 	(global_label "JTAG_TDI"
 		(shape input)
-		(at 238.76 121.92 0)
+		(at 238.76 93.98 0)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -3780,7 +4340,7 @@
 		)
 		(uuid "b83d41ee-b2ba-4803-aeae-1421ce06cefd")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 238.76 121.92 0)
+			(at 238.76 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4121,7 +4681,7 @@
 			)
 		)
 	)
-	(global_label "WIFI_GPIO13"
+	(global_label "GN12"
 		(shape input)
 		(at 238.76 111.76 0)
 		(effects

@@ -737,7 +737,7 @@
       },
       {
         "netclass": "USB_DIFF",
-        "pattern": "USB_FTDI_D[\\-|\\+]|/usb/FTD.*"
+        "pattern": "USB_FTDI_D[\\-|\\+]|/usb/FTD.*|WIFI_USB_D[\\-|\\+]"
       },
       {
         "netclass": "CLOCKS",
@@ -1956,7 +1956,7 @@
         "uuid": "49a43414-f3c1-43b2-ad20-ac3166075f21"
       }
     ],
-    "used_designators": "C22,U12,J3,J7,#FLG8,#FLG10,R34,R43-44,#PWR118-119,#PWR143-146",
+    "used_designators": "",
     "variants": [
       {
         "name": "ESP32-S3"
@@ -2007,10 +2007,6 @@
     [
       "4b69fc6e-6ee7-47b8-b020-b064b41f8744",
       "backup_fpga"
-    ],
-    [
-      "e3c5fc99-7d7e-4398-9db7-ce8f634bc330",
-      "esp32_s3_wifi"
     ]
   ],
   "text_variables": {},
