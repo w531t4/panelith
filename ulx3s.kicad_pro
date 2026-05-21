@@ -76,14 +76,6 @@
         [
           "shorting_items|159705000|68000000|95d88052-643a-4c41-807d-424f500808b9|ac43a923-7f0f-4ba2-8d84-890238b1f46b",
           "deliberate jumper"
-        ],
-        [
-          "shorting_items|163954000|73450000|1b85e457-eab5-4dfc-b366-a4183acc78f0|6f317c71-f2d1-449f-86dc-cc7fe97af6e8",
-          "deliberate jumper"
-        ],
-        [
-          "shorting_items|165754000|73450000|6f317c71-f2d1-449f-86dc-cc7fe97af6e8|ae89d127-4de6-4bf2-b6cb-0c53d2919c6c",
-          "deliberate jumper"
         ]
       ],
       "meta": {
@@ -1956,7 +1948,7 @@
         "uuid": "49a43414-f3c1-43b2-ad20-ac3166075f21"
       }
     ],
-    "used_designators": "#PWR148-150,#PWR168-172",
+    "used_designators": "",
     "variants": [
       {
         "name": "ESP32-S3"
