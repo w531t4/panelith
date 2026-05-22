@@ -40,4 +40,5 @@
 	(lib (name "sdram") (type "KiCad") (uri "${KIPRJMOD}/footprints/sdram/sdram.pretty") (options "") (descr ""))
 	(lib (name "MPM54304") (type "KiCad") (uri "${KIPRJMOD}/footprints/dcdc_converter/MPM54304.pretty") (options "") (descr ""))
 	(lib (name "ecs1612mv") (type "KiCad") (uri "${KIPRJMOD}/footprints/crystal/ecs1612mv.pretty") (options "") (descr ""))
+	(lib (name "pts810") (type "KiCad") (uri "${KIPRJMOD}/footprints/pushbutton/pts810.pretty") (options "") (descr ""))
 )
