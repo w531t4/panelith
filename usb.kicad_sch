@@ -21468,7 +21468,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "FNETHE025"
+		(property "Value" "ECS-1612MV-250-CN-TR"
 			(at 141.732 39.624 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21479,7 +21479,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "oscxo:Crystal_SMD_7050_4Pads"
+		(property "Footprint" "ecs1612mv:OSC_ECS-1612MV-250-CN-TR-4"
 			(at 138.43 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -21490,7 +21490,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://ecsxtal.com/store/pdf/ECS-1612MV.pdf"
 			(at 138.43 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -21501,7 +21501,7 @@
 				)
 			)
 		)
-		(property "Description" "Four pin crystal, GND on pins 2 and 4"
+		(property "Description" "Four pin crystal"
 			(at 138.43 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -21512,7 +21512,7 @@
 				)
 			)
 		)
-		(property "MNF1_URL" "www.diodes.com"
+		(property "MNF1_URL" "ecsxtal.com"
 			(at 138.43 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -21523,7 +21523,7 @@
 				)
 			)
 		)
-		(property "MPN" "FNETHE025"
+		(property "MPN" "520-1612MV-250-CNT"
 			(at 138.43 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -21534,7 +21534,7 @@
 				)
 			)
 		)
-		(property "MPN2" "SiT8008BC-81-33E-25.000000X"
+		(property "Digikey" "XC2830CT-ND"
 			(at 138.43 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -21545,7 +21545,7 @@
 				)
 			)
 		)
-		(property "MNF3_URL" "https://datasheet.lcsc.com/szlcsc/1912111437_Shenzhen-SCTF-Elec-S7D25-000000D20F30T_C387026.pdf"
+		(property "Newark" "57AK3015"
 			(at 138.43 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -21556,7 +21556,7 @@
 				)
 			)
 		)
-		(property "MPN3" "S7D25.000000D20F30T"
+		(property "LCSC" "C405444"
 			(at 138.43 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -21564,226 +21564,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mouser" "729-FNETHE025"
-			(at 138.43 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Mouse_r2" "788-8008BC8133E25X "
-			(at 138.43 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Digikey" "3305-7050XOM2500BMD13CCC-CT-ND"
-			(at 138.43 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Digike_y1" "FNETHE025CT-ND"
-			(at 138.43 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Newark" "80AC8624"
-			(at 138.43 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC" "C390569"
-			(at 138.43 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "price100_Digikey" "0.7942$"
-			(at 138.43 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Koncar" "FQ001"
-			(at 138.43 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Side" "T"
-			(at 138.43 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Arrow" ""
-			(at 138.43 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "DatasheetLC" ""
-			(at 138.43 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "LCS_C2" ""
-			(at 138.43 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "MP_N4" ""
-			(at 138.43 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "MP_N5" ""
-			(at 138.43 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Vertical" ""
-			(at 138.43 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "price100_Mouser" ""
-			(at 138.43 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "price1200_Chip1stop" ""
-			(at 138.43 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "price300_LCSC" ""
-			(at 138.43 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "price300_Vertical" ""
-			(at 138.43 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "price_Arrow" ""
-			(at 138.43 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.524 1.524)
 				)
 			)
 		)
