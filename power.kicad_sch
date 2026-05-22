@@ -15034,8 +15034,8 @@
 				)
 			)
 		)
-		(property "Value" "PTS645"
-			(at 22.86 64.77 0)
+		(property "Value" "PTS810SJM250SMTR LFS"
+			(at 27.94 62.23 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15044,7 +15044,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_SPST_PTS645"
+		(property "Footprint" "pts810:PTS810_CNK"
 			(at 26.67 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -15055,7 +15055,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ckswitches.com/media/1471/pts645.pdf"
+		(property "Datasheet" "https://www.littelfuse.com/assetdocs/littelfuse-c-k-tactile-pts810-series-datasheet?assetguid=f1e4bc97-66e9-4beb-99c6-eaef0bd3bff4"
 			(at 26.67 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -15066,8 +15066,9 @@
 				)
 			)
 		)
-		(property "Description" ""
-			(at 26.67 67.31 0)
+		(property "Description" "SWITCH TACTILE SPST-NO 0.05A 16V"
+			(at 26.416 62.23 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15076,7 +15077,7 @@
 				)
 			)
 		)
-		(property "MNF1_URL" "www.ckswitches.com"
+		(property "MPN" "611-PTS810SJM250SMTR"
 			(at 26.67 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -15087,18 +15088,7 @@
 				)
 			)
 		)
-		(property "MPN" "PTS645SL50SMTR92 LFS"
-			(at 26.67 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Mouser" "611-PTS645SL50SMTR92"
+		(property "Digikey" "CKN10502CT-ND"
 			(at 26.67 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -15109,7 +15099,7 @@
 				)
 			)
 		)
-		(property "Digikey" "CKN9088CT-ND"
+		(property "Newark" "26AH0019"
 			(at 26.67 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -15120,51 +15110,7 @@
 				)
 			)
 		)
-		(property "Newark" "15N4500"
-			(at 26.67 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Newar_k2" "79AH5908"
-			(at 26.67 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC" "C285463"
-			(at 26.67 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "price700_LCSC" "0.09966$"
-			(at 26.67 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Koncar" "FSW001"
+		(property "LCSC" "C116501"
 			(at 26.67 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -15183,127 +15129,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Arrow" ""
-			(at 26.67 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "DatasheetLC" ""
-			(at 26.67 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "LCS_C2" ""
-			(at 26.67 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "MP_N4" ""
-			(at 26.67 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "MP_N5" ""
-			(at 26.67 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Vertical" ""
-			(at 26.67 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "price100_Mouser" ""
-			(at 26.67 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "price1200_Chip1stop" ""
-			(at 26.67 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "price300_LCSC" ""
-			(at 26.67 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "price300_Vertical" ""
-			(at 26.67 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "price_Arrow" ""
-			(at 26.67 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.524 1.524)
 				)
 			)
 		)
