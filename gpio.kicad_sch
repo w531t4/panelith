@@ -9160,6 +9160,423 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "samtec:hub75-abcd"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "J"
+				(at -3.81 3.81 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "hub75-abcd"
+				(at -18.542 -24.638 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "Socket_Strips:SAMTEC-HTST-108-01-X-DV"
+				(at -6.604 -34.798 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Datasheet" "https://www.mouser.com/datasheet/3/85/1/htst.pdf"
+				(at 0.762 -29.718 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Connector Header Surface Mount 16 position 0.100 (2.54mm)"
+				(at 6.096 9.906 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "MF" "Samtec"
+				(at -24.13 -14.224 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "SnapEDA_Link" "https://www.snapeda.com/parts/HTST-108-01-L-DV-P/Samtec/view-part/?ref=snap"
+				(at 13.208 7.62 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "MP" "HTST-108-01-L-DV-P"
+				(at -20.066 -29.21 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Check_prices" "https://www.snapeda.com/parts/HTST-108-01-L-DV-P/Samtec/view-part/?ref=eda"
+				(at 10.414 13.716 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(symbol "hub75-abcd_0_0"
+				(rectangle
+					(start 0 5.08)
+					(end 20.3 -17.78)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin input line
+					(at 25.4 2.54 180)
+					(length 5.08)
+					(name "R1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 25.4 0 180)
+					(length 5.08)
+					(name "G1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 25.4 -2.54 180)
+					(length 5.08)
+					(name "B1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 7.62 -22.86 90)
+					(length 5.08)
+					(name "GND"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 25.4 -6.35 180)
+					(length 5.08)
+					(name "R2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 25.4 -8.89 180)
+					(length 5.08)
+					(name "G2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 25.4 -11.43 180)
+					(length 5.08)
+					(name "B2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 10.16 -22.86 90)
+					(length 5.08)
+					(name "GND"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -5.08 1.27 0)
+					(length 5.08)
+					(name "ROW0"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -5.08 -1.27 0)
+					(length 5.08)
+					(name "ROW1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -5.08 -3.81 0)
+					(length 5.08)
+					(name "ROW2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "11"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -5.08 -6.35 0)
+					(length 5.08)
+					(name "ROW3"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "12"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -5.08 -11.43 0)
+					(length 5.08)
+					(name "PXC"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "13"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 25.4 -15.24 180)
+					(length 5.08)
+					(name "RWL"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "14"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -5.08 -13.97 0)
+					(length 5.08)
+					(name "nOE"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "15"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 12.7 -22.86 90)
+					(length 5.08)
+					(name "GND"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "16"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 	)
 	(text "GR_PCLK0_0"
 		(exclude_from_sim no)
@@ -13472,7 +13889,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom no)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files no)
 		(dnp yes)
 		(uuid "00000000-0000-0000-0000-000058e6b7f6")
@@ -13796,7 +14213,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom no)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files no)
 		(dnp yes)
 		(uuid "00000000-0000-0000-0000-000058e6b835")
@@ -17957,6 +18374,178 @@
 		)
 	)
 	(symbol
+		(lib_id "samtec:hub75-abcd")
+		(at 241.3 33.02 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5ab59fee-29cb-462f-90a5-19536c17f810")
+		(property "Reference" "J5"
+			(at 251.45 22.86 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "hub75-abcd"
+			(at 251.45 25.4 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Socket_Strips:SAMTEC-HTST-108-01-X-DV"
+			(at 234.696 67.818 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.com/datasheet/3/85/1/htst.pdf"
+			(at 242.062 62.738 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Connector Header Surface Mount 16 position 0.100 (2.54mm)"
+			(at 247.396 23.114 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MF" "Samtec"
+			(at 217.17 47.244 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/HTST-108-01-L-DV-P/Samtec/view-part/?ref=snap"
+			(at 254.508 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MP" "HTST-108-01-L-DV-P"
+			(at 221.234 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/HTST-108-01-L-DV-P/Samtec/view-part/?ref=eda"
+			(at 251.714 19.304 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(pin "14"
+			(uuid "1b080e8f-9dbb-41ed-99b6-54f193045413")
+		)
+		(pin "13"
+			(uuid "0e9e18b3-9fd6-4141-8e61-4e2d74fbcf23")
+		)
+		(pin "12"
+			(uuid "062e5a30-8891-4a77-a90a-9bcc1672a663")
+		)
+		(pin "11"
+			(uuid "e4df30a0-15b7-49f6-abeb-9c9a1dcc0acc")
+		)
+		(pin "10"
+			(uuid "e6554499-f840-4eb1-a405-1855c31609df")
+		)
+		(pin "9"
+			(uuid "6486b697-1ba9-4efb-ad45-45073d6e2b1e")
+		)
+		(pin "8"
+			(uuid "82754d1d-c718-4738-91ec-00dd7521ff66")
+		)
+		(pin "7"
+			(uuid "e743a43e-f689-4201-9b63-4f697b79fc3e")
+		)
+		(pin "6"
+			(uuid "da0a5338-3f85-434a-a8f5-374c8be42511")
+		)
+		(pin "5"
+			(uuid "10ad6fa8-1bf3-47c7-a631-7e6e0f7f50ff")
+		)
+		(pin "4"
+			(uuid "de70006b-321e-40a9-a4a2-073b29bf190d")
+		)
+		(pin "3"
+			(uuid "52d178ec-f192-4949-b7bf-d92be0cf7b63")
+		)
+		(pin "15"
+			(uuid "4bb70732-6042-47c1-8c51-d6f0cd1c9dc8")
+		)
+		(pin "16"
+			(uuid "01b6c389-8aed-4778-acbf-3be34c4bdcb4")
+		)
+		(pin "2"
+			(uuid "8d3b8d41-a435-49fe-8be2-388c67928c0a")
+		)
+		(pin "1"
+			(uuid "d5b15fed-2a42-4656-adce-967cb779cc06")
+		)
+		(instances
+			(project "ulx3s"
+				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000056ac389c"
+					(reference "J5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3V3")
 		(at 29.21 140.97 90)
 		(unit 1)
@@ -18173,6 +18762,178 @@
 			(project "ulx3s"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000056ac389c"
 					(reference "#PWR092")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "samtec:hub75-abcd")
+		(at 203.2 35.56 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d0e532bd-1cda-496b-be06-37593a7cdf13")
+		(property "Reference" "J3"
+			(at 213.35 25.4 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "hub75-abcd"
+			(at 213.35 27.94 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Socket_Strips:SAMTEC-HTST-108-01-X-DV"
+			(at 196.596 70.358 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.com/datasheet/3/85/1/htst.pdf"
+			(at 203.962 65.278 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Connector Header Surface Mount 16 position 0.100 (2.54mm)"
+			(at 209.296 25.654 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MF" "Samtec"
+			(at 179.07 49.784 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/HTST-108-01-L-DV-P/Samtec/view-part/?ref=snap"
+			(at 216.408 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MP" "HTST-108-01-L-DV-P"
+			(at 183.134 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/HTST-108-01-L-DV-P/Samtec/view-part/?ref=eda"
+			(at 213.614 21.844 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(pin "14"
+			(uuid "344aba21-97d5-40cd-9694-5fc81ba775ef")
+		)
+		(pin "13"
+			(uuid "242bf5ee-2e86-45b4-9b85-46be93fff055")
+		)
+		(pin "12"
+			(uuid "d65eaf65-01f9-4946-a3c1-a9c63bd99748")
+		)
+		(pin "11"
+			(uuid "3fe8433e-a945-4163-a345-5f93703e9e01")
+		)
+		(pin "10"
+			(uuid "2cc257a2-57de-40a6-8527-b1e1faa72c39")
+		)
+		(pin "9"
+			(uuid "1065d44f-3d39-448e-ac85-3315501a84a1")
+		)
+		(pin "8"
+			(uuid "4e64fda9-a06e-490d-8bfc-e1b8f8ec8711")
+		)
+		(pin "7"
+			(uuid "eddac993-ad05-461b-9f3d-22ddd66bc653")
+		)
+		(pin "6"
+			(uuid "146c4e94-c42b-4fc6-8d20-3a1178c105cc")
+		)
+		(pin "5"
+			(uuid "f84f3669-7da5-469d-aeca-b87e858ad97c")
+		)
+		(pin "4"
+			(uuid "77fc7f84-a161-4921-b8c9-96c732d5a22e")
+		)
+		(pin "3"
+			(uuid "e92ff93b-c91f-4b59-91c1-a9e3bf623838")
+		)
+		(pin "15"
+			(uuid "af61f633-edbb-4719-91e9-e50648e7beda")
+		)
+		(pin "16"
+			(uuid "0ca04a60-f6b5-4665-ae85-c879d55536e9")
+		)
+		(pin "2"
+			(uuid "e0213163-f01a-4676-a28e-86d31a690554")
+		)
+		(pin "1"
+			(uuid "8cecac60-1565-4acb-8e9b-ca8896eb7b94")
+		)
+		(instances
+			(project "ulx3s"
+				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000056ac389c"
+					(reference "J3")
 					(unit 1)
 				)
 			)
