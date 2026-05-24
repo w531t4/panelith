@@ -1889,6 +1889,30 @@
           "label": "Sim.Pins",
           "name": "Sim.Pins",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Check_prices",
+          "name": "Check_prices",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MF",
+          "name": "MF",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "SnapEDA_Link",
+          "name": "SnapEDA_Link",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MP",
+          "name": "MP",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -1948,7 +1972,7 @@
         "uuid": "49a43414-f3c1-43b2-ad20-ac3166075f21"
       }
     ],
-    "used_designators": "#PWR23-24,J3,J5,H7",
+    "used_designators": "RP7",
     "variants": [
       {
         "name": "ESP32-S3"
