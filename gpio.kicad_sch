@@ -10174,8 +10174,16 @@
 		(uuid "7e62c84c-00cc-49b6-82e6-14a3501ae21a")
 	)
 	(no_connect
+		(at 207.01 113.03)
+		(uuid "05e6ee55-687f-42b2-a2ab-c4e83cd57740")
+	)
+	(no_connect
 		(at 154.94 129.54)
 		(uuid "070294a4-2118-4c66-bb3c-417d88807645")
+	)
+	(no_connect
+		(at 207.01 120.65)
+		(uuid "0b44a966-0550-4c3d-b27b-c44e112442a3")
 	)
 	(no_connect
 		(at 116.84 101.6)
@@ -10186,6 +10194,10 @@
 		(uuid "1d695c3d-a463-4f67-b32a-315d65177887")
 	)
 	(no_connect
+		(at 207.01 133.35)
+		(uuid "20408b0a-d12f-4f46-83d0-39f2c0997944")
+	)
+	(no_connect
 		(at 116.84 111.76)
 		(uuid "265c3d86-48a8-4520-b288-ac09b4659741")
 	)
@@ -10194,8 +10206,36 @@
 		(uuid "2e66f5bb-314e-4963-bf66-ece56678f7fb")
 	)
 	(no_connect
+		(at 219.71 105.41)
+		(uuid "31d65716-d337-4501-9bc9-b0fe318b0b5a")
+	)
+	(no_connect
+		(at 219.71 123.19)
+		(uuid "3556406e-4a6a-4b11-9e37-0b38cd76277a")
+	)
+	(no_connect
+		(at 219.71 128.27)
+		(uuid "3a30a40a-5451-4ff9-8fd6-e481795b56b8")
+	)
+	(no_connect
+		(at 219.71 102.87)
+		(uuid "3e413d3f-e26c-41af-b05e-9df5c11d25b4")
+	)
+	(no_connect
+		(at 219.71 133.35)
+		(uuid "3f479aaa-1441-44e5-88e7-6da5741f1e8a")
+	)
+	(no_connect
+		(at 219.71 107.95)
+		(uuid "407a6dc5-6287-4fc9-b638-e168520fe909")
+	)
+	(no_connect
 		(at 106.68 55.88)
 		(uuid "437b0585-9bcc-4289-8e2f-1a2323699460")
+	)
+	(no_connect
+		(at 207.01 128.27)
+		(uuid "45b82d59-5a30-49a7-a47c-1613f0445f26")
 	)
 	(no_connect
 		(at 116.84 137.16)
@@ -10214,6 +10254,10 @@
 		(uuid "58cac6b7-f43f-4ae6-a5c6-df661fb2b8d9")
 	)
 	(no_connect
+		(at 219.71 110.49)
+		(uuid "5e3df12f-35a5-499d-a850-3b3752875933")
+	)
+	(no_connect
 		(at 116.84 116.84)
 		(uuid "6074bcc8-1399-4bbf-a2ef-cfa10409d7bc")
 	)
@@ -10226,12 +10270,20 @@
 		(uuid "681daf3d-1db3-4a37-9154-b3112eff592b")
 	)
 	(no_connect
+		(at 219.71 125.73)
+		(uuid "69f3dcd0-8166-461e-9e33-ecfd9732ce2f")
+	)
+	(no_connect
 		(at 106.68 68.58)
 		(uuid "713f4020-124c-4a4b-b986-dc1e69c08e64")
 	)
 	(no_connect
 		(at 154.94 137.16)
 		(uuid "71680aa4-6a6c-428e-bbeb-ef59d2f0c58a")
+	)
+	(no_connect
+		(at 207.01 135.89)
+		(uuid "873fabd1-44c8-4261-aa48-614e425a6094")
 	)
 	(no_connect
 		(at 154.94 132.08)
@@ -10246,12 +10298,36 @@
 		(uuid "98d17119-50e9-4721-945c-43c342dd1e6e")
 	)
 	(no_connect
+		(at 219.71 120.65)
+		(uuid "af1a0ec8-6c5a-41a1-b9a9-910150995720")
+	)
+	(no_connect
+		(at 207.01 107.95)
+		(uuid "b0fac0e0-4e87-467a-9c4e-59ab82017b8c")
+	)
+	(no_connect
+		(at 207.01 130.81)
+		(uuid "b12bdec4-3773-48be-9e60-8a9295449468")
+	)
+	(no_connect
+		(at 219.71 113.03)
+		(uuid "b3a98188-f8cb-4676-ae22-534f73e987fe")
+	)
+	(no_connect
+		(at 207.01 125.73)
+		(uuid "b583b054-d720-4744-9cfe-411dd4f027c4")
+	)
+	(no_connect
 		(at 116.84 127)
 		(uuid "b70cd226-010d-4c4d-bf48-ddd8aedb82ad")
 	)
 	(no_connect
 		(at 154.94 101.6)
 		(uuid "c0187a73-fad5-47b3-8e8d-2ab3d1894fe4")
+	)
+	(no_connect
+		(at 219.71 135.89)
+		(uuid "cc71270f-1389-445e-8dcf-526562b4a8da")
 	)
 	(no_connect
 		(at 144.78 68.58)
@@ -10262,8 +10338,20 @@
 		(uuid "de25f54c-29fd-43e9-bedf-7e76968c53a7")
 	)
 	(no_connect
+		(at 207.01 123.19)
+		(uuid "dfcac933-9b34-4953-ae1c-939ffb76565c")
+	)
+	(no_connect
+		(at 219.71 130.81)
+		(uuid "e1350d3c-66f6-42b0-be1b-4d086a75f148")
+	)
+	(no_connect
 		(at 154.94 106.68)
 		(uuid "e4e24d85-8dcf-4839-a3aa-5eeead672d89")
+	)
+	(no_connect
+		(at 207.01 102.87)
+		(uuid "e7991f6d-d216-4c67-89d3-9cc3a4fb38f8")
 	)
 	(no_connect
 		(at 144.78 76.2)
@@ -10272,6 +10360,14 @@
 	(no_connect
 		(at 154.94 127)
 		(uuid "f0e6f0b3-0ad7-49b3-b08f-7c67a267a3ec")
+	)
+	(no_connect
+		(at 207.01 105.41)
+		(uuid "fb5db459-3604-4f5b-870b-4e05e27e34a0")
+	)
+	(no_connect
+		(at 207.01 110.49)
+		(uuid "fc133177-0839-4985-92a4-2fcd2b20aef7")
 	)
 	(no_connect
 		(at 106.68 76.2)
@@ -13316,7 +13412,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom no)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files no)
 		(dnp yes)
 		(uuid "00000000-0000-0000-0000-000056ac483b")
@@ -13559,7 +13655,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom no)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files no)
 		(dnp yes)
 		(uuid "00000000-0000-0000-0000-000056ac4846")

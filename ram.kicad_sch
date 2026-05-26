@@ -8882,6 +8882,14 @@
 		(uuid "5826eb58-0c1c-45d1-ac49-203aaddcd217")
 	)
 	(no_connect
+		(at 217.17 97.79)
+		(uuid "a0b775cf-348f-4235-97f5-4ed4c46bcca9")
+	)
+	(no_connect
+		(at 255.27 97.79)
+		(uuid "a4012aa4-43a6-4cb6-a04f-faa4e3e3fd41")
+	)
+	(no_connect
 		(at 255.27 102.87)
 		(uuid "acc5f879-f138-47bc-9e19-ee0f4836d466")
 	)

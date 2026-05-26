@@ -16750,6 +16750,17 @@
 		)
 		(uuid "4b9b9439-d7d8-416a-8544-eb2844d64c5e")
 	)
+	(text "OLED_BL < faux.0.0.7"
+		(exclude_from_sim no)
+		(at 159.512 43.434 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left bottom)
+		)
+		(uuid "4f4f4ab9-deec-4c5c-adea-8262a1409489")
+	)
 	(text "WIFI_GPIO22 < faux.0.0.7"
 		(exclude_from_sim no)
 		(at 277.876 60.96 0)
@@ -17027,14 +17038,6 @@
 		(uuid "30af1c90-d38d-4291-b1dd-db5ab94ba6b3")
 	)
 	(no_connect
-		(at 219.71 69.85)
-		(uuid "3752cdf0-fe97-40d7-9de9-c697f38f0291")
-	)
-	(no_connect
-		(at 219.71 67.31)
-		(uuid "53519c3c-d373-420f-b98a-5c5bcd5e949b")
-	)
-	(no_connect
 		(at 46.99 50.8)
 		(uuid "61c9ed54-c91f-495e-8b27-a486d02d5954")
 	)
@@ -17049,10 +17052,6 @@
 	(no_connect
 		(at 219.71 74.93)
 		(uuid "a42f08e9-6edc-4fce-9685-0f0a5dcd6b8f")
-	)
-	(no_connect
-		(at 219.71 41.91)
-		(uuid "d080cc96-aa5e-4ac1-a898-6fe5e7b910ff")
 	)
 	(wire
 		(pts
@@ -18078,7 +18077,7 @@
 			)
 		)
 	)
-	(global_label "OLED_BL"
+	(global_label "WIFI_GPIO10"
 		(shape input)
 		(at 219.71 41.91 180)
 		(effects
@@ -18452,7 +18451,7 @@
 			)
 		)
 	)
-	(global_label "OLED_MOSI"
+	(global_label "WIFI_XTAL_32K_N"
 		(shape input)
 		(at 219.71 69.85 180)
 		(effects
@@ -18496,7 +18495,7 @@
 			)
 		)
 	)
-	(global_label "OLED_CS"
+	(global_label "WIFI_XTAL_32K_P"
 		(shape input)
 		(at 219.71 67.31 180)
 		(effects
