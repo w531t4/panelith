@@ -341,6 +341,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "need fid's"
+		(exclude_from_sim no)
+		(at 45.72 65.532 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+		)
+		(uuid "4282552e-9af9-46f1-aeb2-9e64aff1cabd")
+	)
 	(text "click on mouse pointer arrow on top of right toolbar\nand double-click on sheet to open"
 		(exclude_from_sim no)
 		(at 177.8 129.54 0)
