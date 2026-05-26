@@ -362,6 +362,16 @@
 		)
 		(uuid "a8114599-7a43-4705-ab6a-d72f73530f24")
 	)
+	(text "JLC08161H-2116 8-layer 1.6mm thickness, outer=1oz, inner=0.5oz"
+		(exclude_from_sim no)
+		(at 67.056 81.026 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+		)
+		(uuid "eca76f44-35f9-4a3e-8a41-070461176663")
+	)
 	(text_box "0.0.6 - build (fab'd)\ncurrent\n	- Marked RV2 as DNP - Stencil Issue\n	- VJ1/RP1/RP2/RP3/J1/J2/D51/D52/D9/J4/J6/H1/H2/H3/H4 marked as DNP - doesn't affect stencil\n	- Missing RV3 0ohm resistor\n0.0.7-alpha1 - (not fab'd)\n	- found OLED_BL/J4 (fixed)\n	- 		SD_WP/P5 still \"connected\" (fixed)"
 		(exclude_from_sim no)
 		(at 153.67 57.15 0)
