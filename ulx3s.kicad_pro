@@ -60,24 +60,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        [
-          "shorting_items|156130000|66200000|2729eb00-8dc2-4db6-aa0d-a0c3bc728575|37352b48-4c85-4f2c-a07e-c32ff517a7c9",
-          "deliberate jumper"
-        ],
-        [
-          "shorting_items|156130000|68000000|37352b48-4c85-4f2c-a07e-c32ff517a7c9|816e4f4b-df24-4c85-b74c-697c5d2ad142",
-          "deliberate jumper"
-        ],
-        [
-          "shorting_items|159705000|66200000|95d88052-643a-4c41-807d-424f500808b9|ce4b8dbf-d59a-4233-89bb-c5e62b6edab0",
-          "deliberate jumper"
-        ],
-        [
-          "shorting_items|159705000|68000000|95d88052-643a-4c41-807d-424f500808b9|ac43a923-7f0f-4ba2-8d84-890238b1f46b",
-          "deliberate jumper"
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -103,7 +86,7 @@
         "hole_to_hole": "error",
         "holes_co_located": "error",
         "invalid_outline": "error",
-        "isolated_copper": "warning",
+        "isolated_copper": "error",
         "item_on_disabled_layer": "error",
         "items_not_allowed": "error",
         "length_out_of_range": "error",

@@ -10007,28 +10007,6 @@
 			)
 		)
 	)
-	(global_label "USB_FPGA_D+"
-		(shape input)
-		(at 217.17 97.79 180)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify right)
-		)
-		(uuid "443f0dc6-8ea4-4ee5-85ba-1298e70f7bc0")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 217.17 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-	)
 	(global_label "SDRAM_D5"
 		(shape input)
 		(at 158.75 74.93 0)
@@ -10877,28 +10855,6 @@
 		(uuid "aab81d72-c5b4-46e8-a9c2-190a029c9c96")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 217.17 151.13 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-	)
-	(global_label "USB_FPGA_D-"
-		(shape input)
-		(at 255.27 97.79 0)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify left)
-		)
-		(uuid "aabd94df-0b10-4a9e-a7ef-1da491a1c247")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 255.27 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
