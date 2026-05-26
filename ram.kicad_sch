@@ -8829,6 +8829,28 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "ADC_MOSI < faux.1.0.2"
+		(exclude_from_sim no)
+		(at 166.37 137.414 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left bottom)
+		)
+		(uuid "77314e3c-8394-4b03-9e0b-19d5aee9cf82")
+	)
+	(text "ADC_CSn < faux.1.0.2"
+		(exclude_from_sim no)
+		(at 281.178 137.16 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left bottom)
+		)
+		(uuid "8630fc02-dab6-447d-90f3-48d9c3eabec3")
+	)
 	(junction
 		(at 133.35 53.34)
 		(diameter 0)
@@ -8864,14 +8886,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cc619e5a-e71d-4aa2-97c7-7f5925798d00")
-	)
-	(no_connect
-		(at 255.27 135.89)
-		(uuid "10c4d55b-74e0-4dc4-ae5d-8b4179aaf034")
-	)
-	(no_connect
-		(at 217.17 135.89)
-		(uuid "14f6e48a-4e05-4897-ad70-1f3ff0ff4823")
 	)
 	(no_connect
 		(at 255.27 87.63)
@@ -9501,7 +9515,7 @@
 			)
 		)
 	)
-	(global_label "ADC_MOSI"
+	(global_label "I2C_SDA"
 		(shape input)
 		(at 217.17 135.89 180)
 		(effects
@@ -9721,7 +9735,7 @@
 			)
 		)
 	)
-	(global_label "ADC_CSn"
+	(global_label "I2C_SCL"
 		(shape input)
 		(at 255.27 135.89 0)
 		(effects
