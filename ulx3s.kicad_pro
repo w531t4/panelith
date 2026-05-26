@@ -58,6 +58,11 @@
           "gap": 0.0,
           "via_gap": 0.0,
           "width": 0.0
+        },
+        {
+          "gap": 0.2032,
+          "via_gap": 0.0,
+          "width": 0.1796
         }
       ],
       "drc_exclusions": [],
@@ -2017,12 +2022,12 @@
         "enable_time_domain_tuning": false,
         "layer_entries": [
           {
-            "bottom_reference_layer": "In2.Cu",
-            "delay": 7094700,
-            "diff_pair_gap": 93388,
-            "signal_layer": "In1.Cu",
-            "top_reference_layer": "F.Cu",
-            "width": 127000
+            "bottom_reference_layer": "In6.Cu",
+            "delay": 6989200,
+            "diff_pair_gap": 203200,
+            "signal_layer": "In5.Cu",
+            "top_reference_layer": "In4.Cu",
+            "width": 179600
           }
         ],
         "profile_name": "USB_90R_DIFF",

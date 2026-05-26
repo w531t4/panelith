@@ -2861,7 +2861,7 @@
 			)
 		)
 	)
-	(global_label "WIFI_XTAL_32K_N"
+	(global_label "WIFI_GPIO16"
 		(shape input)
 		(at 147.32 73.66 180)
 		(effects
@@ -3301,7 +3301,7 @@
 			)
 		)
 	)
-	(global_label "WIFI_XTAL_32K_P"
+	(global_label "WIFI_GPIO15"
 		(shape input)
 		(at 147.32 71.12 180)
 		(effects
