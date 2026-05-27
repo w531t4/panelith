@@ -1262,7 +1262,7 @@
 				)
 			)
 		)
-		(property "MPN" "13-AC0603FR-07549RLCT-ND"
+		(property "MPN" "603-AC0603FR-07549RL"
 			(at 115.57 116.84 90)
 			(hide yes)
 			(show_name no)
@@ -1590,7 +1590,7 @@
 				)
 			)
 		)
-		(property "MPN" "LTST-C170KRKT"
+		(property "MPN" "859-LTST-C170KRKT"
 			(at 115.57 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -1876,7 +1876,7 @@
 				)
 			)
 		)
-		(property "MPN" "13-AC0603FR-07549RLCT-ND"
+		(property "MPN" "603-AC0603FR-07549RL"
 			(at 139.7 135.89 90)
 			(hide yes)
 			(show_name no)
@@ -2129,7 +2129,7 @@
 				)
 			)
 		)
-		(property "MPN" "13-AC0603FR-07549RLCT-ND"
+		(property "MPN" "603-AC0603FR-07549RL"
 			(at 133.35 64.77 90)
 			(hide yes)
 			(show_name no)
@@ -2382,7 +2382,7 @@
 				)
 			)
 		)
-		(property "MPN" "13-AC0603FR-07549RLCT-ND"
+		(property "MPN" "603-AC0603FR-07549RL"
 			(at 133.35 69.85 90)
 			(hide yes)
 			(show_name no)
@@ -2635,7 +2635,7 @@
 				)
 			)
 		)
-		(property "MPN" "13-AC0603FR-07549RLCT-ND"
+		(property "MPN" "603-AC0603FR-07549RL"
 			(at 115.57 148.59 90)
 			(hide yes)
 			(show_name no)
@@ -2890,7 +2890,7 @@
 				)
 			)
 		)
-		(property "MPN" "LTST-C170KRKT"
+		(property "MPN" "859-LTST-C170KRKT"
 			(at 115.57 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -3266,7 +3266,7 @@
 				)
 			)
 		)
-		(property "MPN" "LTST-C170KFKT"
+		(property "MPN" "859-LTST-C170KFKT"
 			(at 115.57 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -3642,7 +3642,7 @@
 				)
 			)
 		)
-		(property "MPN" "LTST-C170TBKT"
+		(property "MPN" "859-LTST-C170TBKT"
 			(at 139.7 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -4040,7 +4040,7 @@
 				)
 			)
 		)
-		(property "MPN" "LTST-C170TGKT "
+		(property "MPN" "859-LTST-C170TGKT"
 			(at 139.7 116.84 0)
 			(hide yes)
 			(show_name no)

@@ -9210,7 +9210,7 @@
 				)
 			)
 		)
-		(property "MPN" "IS25LP128F-JBLE"
+		(property "MPN" "870-IS25LP128F-JBLE"
 			(at 92.71 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -9849,7 +9849,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "603-RC0603FR-0710KL"
 			(at 87.63 59.69 90)
 			(hide yes)
 			(show_name no)
@@ -10187,7 +10187,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "603-RC0603FR-0710KL"
 			(at 92.71 59.69 90)
 			(hide yes)
 			(show_name no)
@@ -10514,7 +10514,7 @@
 				)
 			)
 		)
-		(property "MPN" "13-AC0603FR-071K1LCT-ND"
+		(property "MPN" "603-AC0603FR-071K1L"
 			(at 97.79 59.69 90)
 			(hide yes)
 			(show_name no)
@@ -11190,7 +11190,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "603-RC0603FR-0710KL"
 			(at 77.47 59.69 90)
 			(hide yes)
 			(show_name no)
@@ -11583,7 +11583,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "603-RC0603FR-0710KL"
 			(at 82.55 59.69 90)
 			(hide yes)
 			(show_name no)
@@ -12143,7 +12143,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0715KL"
+		(property "MPN" "603-RC0603FR-0715KL"
 			(at 132.08 59.69 90)
 			(hide yes)
 			(show_name no)
@@ -12481,7 +12481,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0715KL"
+		(property "MPN" "603-RC0603FR-0715KL"
 			(at 137.16 59.69 90)
 			(hide yes)
 			(show_name no)
@@ -12819,7 +12819,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0715KL"
+		(property "MPN" "603-RC0603FR-0715KL"
 			(at 142.24 59.69 90)
 			(hide yes)
 			(show_name no)
@@ -13358,7 +13358,7 @@
 				)
 			)
 		)
-		(property "MPN" "LFE5U-85F-6BG381C"
+		(property "MPN" "842-LFE5U85F6BG381C"
 			(at 184.15 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -14787,7 +14787,7 @@
 				)
 			)
 		)
-		(property "MPN" "1N4148WS"
+		(property "MPN" "512-1N4148WS"
 			(at 127 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -15118,7 +15118,7 @@
 				)
 			)
 		)
-		(property "MPN" "1N4148WS"
+		(property "MPN" "512-1N4148WS"
 			(at 127 86.36 0)
 			(hide yes)
 			(show_name no)

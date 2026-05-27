@@ -3525,7 +3525,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0715KL"
+		(property "MPN" "603-RC0603FR-0715KL"
 			(at 130.81 17.78 90)
 			(hide yes)
 			(show_name no)
@@ -5164,7 +5164,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0715KL"
+		(property "MPN" "603-RC0603FR-0715KL"
 			(at 142.24 48.26 90)
 			(hide yes)
 			(show_name no)
@@ -5417,7 +5417,7 @@
 				)
 			)
 		)
-		(property "MPN" "13-AC0603FR-07549RLCT-ND"
+		(property "MPN" "603-AC0603FR-07549RL"
 			(at 142.24 58.42 90)
 			(hide yes)
 			(show_name no)

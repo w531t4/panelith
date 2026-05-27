@@ -11811,7 +11811,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0805MRX5R6BB225"
+		(property "MPN" "603-CC805MRX5R6BB225"
 			(at 135.89 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -12911,7 +12911,7 @@
 				)
 			)
 		)
-		(property "MPN" "LFE5U-85F-6BG381C"
+		(property "MPN" "842-LFE5U85F6BG381C"
 			(at 236.22 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -14307,7 +14307,7 @@
 				)
 			)
 		)
-		(property "MPN" "LFE5U-85F-6BG381C"
+		(property "MPN" "842-LFE5U85F6BG381C"
 			(at 236.22 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -15704,7 +15704,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0603JRX7R8BB223"
+		(property "MPN" "603-CC603JRX7R8BB223"
 			(at 149.86 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -16118,7 +16118,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0603JRX7R8BB223"
+		(property "MPN" "603-CC603JRX7R8BB223"
 			(at 157.48 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -16532,7 +16532,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0603JRX7R8BB223"
+		(property "MPN" "603-CC603JRX7R8BB223"
 			(at 165.1 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -16946,7 +16946,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0603JRX7R8BB223"
+		(property "MPN" "603-CC603JRX7R8BB223"
 			(at 172.72 149.86 0)
 			(hide yes)
 			(show_name no)
