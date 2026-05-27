@@ -1906,6 +1906,12 @@
           "label": "MP",
           "name": "MP",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MN",
+          "name": "MN",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -1965,7 +1971,7 @@
         "uuid": "49a43414-f3c1-43b2-ad20-ac3166075f21"
       }
     ],
-    "used_designators": "J6,RP7",
+    "used_designators": "#FLG1,R51-52,#PWR103,#PWR105,P1,J6,RP7",
     "variants": [
       {
         "name": "ESP32-S3"
