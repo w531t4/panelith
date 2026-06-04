@@ -61,7 +61,7 @@
           "hatch_smoothing_value": 0.1,
           "hatch_thickness": 1.0,
           "min_clearance": 0.254,
-          "min_island_area": 10.0,
+          "min_island_area": 0.0013161349,
           "min_thickness": 0.25,
           "pad_connection": 1,
           "remove_islands": 0,
@@ -85,6 +85,14 @@
         [
           "starved_thermal|141130000|99150000|00000000-0000-0000-0000-0000618fcee5|5728f082-6157-413c-a8f9-adb406042acc|B.Cu",
           "not fixable due to usb footprint"
+        ],
+        [
+          "starved_thermal|145105000|86000000|00000000-0000-0000-0000-0000618fcee5|11429685-0abd-41b4-94f0-fa390cbe5137|F.Cu",
+          "not enough space to fix"
+        ],
+        [
+          "starved_thermal|150655000|86000000|00000000-0000-0000-0000-0000618fcee5|23c66e14-1d68-4a4e-ba9e-989d9f4bdf47|F.Cu",
+          "not enough space to fix"
         ]
       ],
       "meta": {
@@ -95,7 +103,7 @@
         "clearance": "error",
         "connection_width": "warning",
         "copper_edge_clearance": "error",
-        "copper_sliver": "warning",
+        "copper_sliver": "error",
         "courtyards_overlap": "ignore",
         "creepage": "error",
         "diff_pair_gap_out_of_range": "error",
@@ -1992,7 +2000,7 @@
         "uuid": "49a43414-f3c1-43b2-ad20-ac3166075f21"
       }
     ],
-    "used_designators": "#FLG2,TP3-4,R53-54,#PWR106,#PWR115-116,#PWR120-121,#PWR123,#PWR138-140,D9,J7",
+    "used_designators": "",
     "variants": [
       {
         "name": "ESP32-S3"
