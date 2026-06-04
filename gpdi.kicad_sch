@@ -8199,7 +8199,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.latticesemi.com/~/media/LatticeSemi/Documents/DataSheets/ECP5/FPGA-DS-02012.pdf"
+		(property "Datasheet" "https://www.mouser.com/datasheet/3/248/1/FPGA_DS_02012_3_4_ECP5_ECP5G_Family_Data_Sheet.pdf"
 			(at 64.77 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -8221,17 +8221,6 @@
 			)
 		)
 		(property "MPN" "842-LFE5U85F6BG381C"
-			(at 91.44 73.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Mouser_URL" "www.mouser.com"
 			(at 91.44 73.66 0)
 			(hide yes)
 			(show_name no)

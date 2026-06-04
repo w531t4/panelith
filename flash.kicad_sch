@@ -13337,7 +13337,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.latticesemi.com/~/media/LatticeSemi/Documents/ApplicationNotes/EH/TN1260.pdf"
+		(property "Datasheet" "https://www.mouser.com/datasheet/3/248/1/FPGA_DS_02012_3_4_ECP5_ECP5G_Family_Data_Sheet.pdf"
 			(at 157.48 90.17 0)
 			(hide yes)
 			(show_name no)

@@ -12890,7 +12890,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.latticesemi.com/~/media/LatticeSemi/Documents/DataSheets/ECP5/FPGA-DS-02012.pdf"
+		(property "Datasheet" "https://www.mouser.com/datasheet/3/248/1/FPGA_DS_02012_3_4_ECP5_ECP5G_Family_Data_Sheet.pdf"
 			(at 209.55 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -14286,7 +14286,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.latticesemi.com/~/media/LatticeSemi/Documents/DataSheets/ECP5/FPGA-DS-02012.pdf"
+		(property "Datasheet" "https://www.mouser.com/datasheet/3/248/1/FPGA_DS_02012_3_4_ECP5_ECP5G_Family_Data_Sheet.pdf"
 			(at 209.55 109.22 0)
 			(hide yes)
 			(show_name no)

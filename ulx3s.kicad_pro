@@ -83,6 +83,10 @@
       ],
       "drc_exclusions": [
         [
+          "starved_thermal|139930000|100720000|00000000-0000-0000-0000-0000618fcee5|6ba04a6d-34e9-41c1-a753-8623f4e8c755|F.Cu",
+          "not enough space to fix"
+        ],
+        [
           "starved_thermal|141130000|99150000|00000000-0000-0000-0000-0000618fcee5|5728f082-6157-413c-a8f9-adb406042acc|B.Cu",
           "not fixable due to usb footprint"
         ],
@@ -92,6 +96,10 @@
         ],
         [
           "starved_thermal|150655000|86000000|00000000-0000-0000-0000-0000618fcee5|23c66e14-1d68-4a4e-ba9e-989d9f4bdf47|F.Cu",
+          "not enough space to fix"
+        ],
+        [
+          "starved_thermal|152680000|95600000|18d3789b-53ff-4d14-a989-bf41a6847db9|61ae66f8-1805-42ef-8eda-b61cfe588f49|In5.Cu",
           "not enough space to fix"
         ]
       ],
@@ -2000,7 +2008,7 @@
         "uuid": "49a43414-f3c1-43b2-ad20-ac3166075f21"
       }
     ],
-    "used_designators": "",
+    "used_designators": "R35,R40",
     "variants": [
       {
         "name": "ESP32-S3"
