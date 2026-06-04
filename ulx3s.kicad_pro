@@ -40,8 +40,8 @@
         "other_text_upright": true,
         "pads": {
           "drill": 0.0,
-          "height": 1.35,
-          "width": 0.4
+          "height": 0.925,
+          "width": 0.3
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -83,8 +83,8 @@
       ],
       "drc_exclusions": [
         [
-          "starved_thermal|140080000|92800000|00000000-0000-0000-0000-0000618fcee5|3fd98a22-b0e9-44ba-acfc-e91c20b2677a|B.Cu",
-          "no way this is getting solved"
+          "starved_thermal|141130000|99150000|00000000-0000-0000-0000-0000618fcee5|5728f082-6157-413c-a8f9-adb406042acc|B.Cu",
+          "not fixable due to usb footprint"
         ]
       ],
       "meta": {
@@ -767,7 +767,7 @@
       },
       {
         "netclass": "PWR_5V_IN",
-        "pattern": "USB5V|\\+5V"
+        "pattern": "USB5V|\\+5V|IN5V"
       },
       {
         "netclass": "PWR_BUCK_SW",
@@ -1992,7 +1992,7 @@
         "uuid": "49a43414-f3c1-43b2-ad20-ac3166075f21"
       }
     ],
-    "used_designators": "#PWR95",
+    "used_designators": "#FLG2,TP3-4,R53-54,#PWR106,#PWR115-116,#PWR120-121,#PWR123,#PWR138-140,D9,J7",
     "variants": [
       {
         "name": "ESP32-S3"

@@ -18,4 +18,6 @@
 	(lib (name "st7789") (type "KiCad") (uri "${KIPRJMOD}/footprints/lcd/st7789.kicad_sym") (options "") (descr ""))
 	(lib (name "micro_sd_slide") (type "KiCad") (uri "${KIPRJMOD}/footprints/micro-sd/104031-0811.kicad_sym") (options "") (descr ""))
 	(lib (name "samtec") (type "KiCad") (uri "${KIPRJMOD}/footprints/socket_strips/SAMTEC-HTST-108-01-X-DV.kicad_sym") (options "") (descr ""))
+	(lib (name "usb-c") (type "KiCad") (uri "${KIPRJMOD}/footprints/usb_c/USB4140-GF-0170-C_REVA3.kicad_sym") (options "") (descr ""))
+	(lib (name "usb-c-0230") (type "KiCad") (uri "${KIPRJMOD}/footprints/usb_c/USB4140-GF-0230-C.kicad_sym") (options "") (descr ""))
 )
