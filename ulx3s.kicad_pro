@@ -896,7 +896,7 @@
             "group_by": false,
             "label": "Chip1stop",
             "name": "Chip1stop",
-            "show": true
+            "show": false
           },
           {
             "group_by": false,
@@ -992,19 +992,19 @@
             "group_by": false,
             "label": "LCSC",
             "name": "LCSC",
-            "show": true
+            "show": false
           },
           {
             "group_by": false,
             "label": "LCS_C1",
             "name": "LCS_C1",
-            "show": true
+            "show": false
           },
           {
             "group_by": false,
             "label": "LCS_C2",
             "name": "LCS_C2",
-            "show": true
+            "show": false
           },
           {
             "group_by": false,
@@ -1070,13 +1070,13 @@
             "group_by": false,
             "label": "MPN2",
             "name": "MPN2",
-            "show": false
+            "show": true
           },
           {
             "group_by": false,
             "label": "MPN3",
             "name": "MPN3",
-            "show": false
+            "show": true
           },
           {
             "group_by": false,
@@ -1347,6 +1347,90 @@
             "label": "#",
             "name": "${ITEM_NUMBER}",
             "show": false
+          },
+          {
+            "group_by": false,
+            "label": "Field5",
+            "name": "Field5",
+            "show": false
+          },
+          {
+            "group_by": false,
+            "label": "Arrow Part Number",
+            "name": "Arrow Part Number",
+            "show": false
+          },
+          {
+            "group_by": false,
+            "label": "Manufacturer_Name",
+            "name": "Manufacturer_Name",
+            "show": false
+          },
+          {
+            "group_by": false,
+            "label": "Manufacturer_Part_Number",
+            "name": "Manufacturer_Part_Number",
+            "show": false
+          },
+          {
+            "group_by": false,
+            "label": "Mouser Part Number",
+            "name": "Mouser Part Number",
+            "show": false
+          },
+          {
+            "group_by": false,
+            "label": "Height",
+            "name": "Height",
+            "show": false
+          },
+          {
+            "group_by": false,
+            "label": "Mouser Price/Stock",
+            "name": "Mouser Price/Stock",
+            "show": false
+          },
+          {
+            "group_by": false,
+            "label": "Arrow Price/Stock",
+            "name": "Arrow Price/Stock",
+            "show": false
+          },
+          {
+            "group_by": false,
+            "label": "Sim.Pins",
+            "name": "Sim.Pins",
+            "show": false
+          },
+          {
+            "group_by": false,
+            "label": "Check_prices",
+            "name": "Check_prices",
+            "show": false
+          },
+          {
+            "group_by": false,
+            "label": "MF",
+            "name": "MF",
+            "show": false
+          },
+          {
+            "group_by": false,
+            "label": "SnapEDA_Link",
+            "name": "SnapEDA_Link",
+            "show": false
+          },
+          {
+            "group_by": false,
+            "label": "MP",
+            "name": "MP",
+            "show": false
+          },
+          {
+            "group_by": false,
+            "label": "MN",
+            "name": "MN",
+            "show": false
           }
         ],
         "filter_string": "",
@@ -1418,7 +1502,7 @@
           "group_by": false,
           "label": "Chip1stop",
           "name": "Chip1stop",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -1514,19 +1598,19 @@
           "group_by": false,
           "label": "LCSC",
           "name": "LCSC",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
           "label": "LCS_C1",
           "name": "LCS_C1",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
           "label": "LCS_C2",
           "name": "LCS_C2",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -1604,13 +1688,13 @@
           "group_by": false,
           "label": "MPN4",
           "name": "MPN4",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
           "label": "MPN5",
           "name": "MPN5",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -1718,7 +1802,7 @@
           "group_by": false,
           "label": "Newark",
           "name": "Newark",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
