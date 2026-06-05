@@ -20,4 +20,5 @@
 	(lib (name "samtec") (type "KiCad") (uri "${KIPRJMOD}/footprints/socket_strips/SAMTEC-HTST-108-01-X-DV.kicad_sym") (options "") (descr ""))
 	(lib (name "usb-c") (type "KiCad") (uri "${KIPRJMOD}/footprints/usb_c/USB4140-GF-0170-C_REVA3.kicad_sym") (options "") (descr ""))
 	(lib (name "usb-c-0230") (type "KiCad") (uri "${KIPRJMOD}/footprints/usb_c/USB4140-GF-0230-C.kicad_sym") (options "") (descr ""))
+	(lib (name "hub75") (type "KiCad") (uri "${KIPRJMOD}/footprints/hub75/2026-05-12_05-51-50.kicad_sym") (options "") (descr ""))
 )
