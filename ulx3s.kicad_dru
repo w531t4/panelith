@@ -1,6 +1,1 @@
 (version 1)
-(rule Vias_under_SMD_1
-	(layer "F.Cu")
-	(constraint disallow micro_via)
-	(condition "A.Pad_Type == 'SMD' && A.intersectsArea('via in GND pad')")
-)

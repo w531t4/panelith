@@ -84,27 +84,27 @@
       "drc_exclusions": [
         [
           "hole_clearance|139657500|92080000|db52ba7a-02a8-416a-8e4b-c35a75ba09f0|02db9f65-4020-47f8-a924-961c82f68713",
-          "not fixable usb port"
+          "not fixable, not enough space"
         ],
         [
           "starved_thermal|139930000|100720000|00000000-0000-0000-0000-0000618fcee5|6ba04a6d-34e9-41c1-a753-8623f4e8c755|F.Cu",
-          "not enough space to fix"
+          "not fixable, not enough space"
         ],
         [
           "starved_thermal|141130000|99150000|00000000-0000-0000-0000-0000618fcee5|5728f082-6157-413c-a8f9-adb406042acc|B.Cu",
-          "not fixable due to usb footprint"
+          "not fixable, not enough space"
         ],
         [
           "starved_thermal|145105000|86000000|00000000-0000-0000-0000-0000618fcee5|11429685-0abd-41b4-94f0-fa390cbe5137|F.Cu",
-          "not enough space to fix"
+          "not fixable, not enough space"
         ],
         [
           "starved_thermal|150655000|86000000|00000000-0000-0000-0000-0000618fcee5|23c66e14-1d68-4a4e-ba9e-989d9f4bdf47|F.Cu",
-          "not enough space to fix"
+          "not fixable, not enough space"
         ],
         [
           "starved_thermal|152680000|95600000|18d3789b-53ff-4d14-a989-bf41a6847db9|61ae66f8-1805-42ef-8eda-b61cfe588f49|In5.Cu",
-          "not enough space to fix"
+          "not fixable, not enough space"
         ]
       ],
       "meta": {
