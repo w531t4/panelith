@@ -83,6 +83,10 @@
       ],
       "drc_exclusions": [
         [
+          "hole_clearance|139657500|92080000|db52ba7a-02a8-416a-8e4b-c35a75ba09f0|02db9f65-4020-47f8-a924-961c82f68713",
+          "not fixable usb port"
+        ],
+        [
           "starved_thermal|139930000|100720000|00000000-0000-0000-0000-0000618fcee5|6ba04a6d-34e9-41c1-a753-8623f4e8c755|F.Cu",
           "not enough space to fix"
         ],
