@@ -83,8 +83,8 @@
       ],
       "drc_exclusions": [
         [
-          "hole_clearance|139657500|92080000|db52ba7a-02a8-416a-8e4b-c35a75ba09f0|02db9f65-4020-47f8-a924-961c82f68713",
-          "not fixable, not enough space"
+          "starved_thermal|118990810|97375001|00000000-0000-0000-0000-0000618fcee5|dee28619-f8fa-4b43-a381-e79d92aef111|B.Cu",
+          "not enough space"
         ],
         [
           "starved_thermal|139930000|100720000|00000000-0000-0000-0000-0000618fcee5|6ba04a6d-34e9-41c1-a753-8623f4e8c755|F.Cu",
@@ -2012,7 +2012,7 @@
         "uuid": "49a43414-f3c1-43b2-ad20-ac3166075f21"
       }
     ],
-    "used_designators": "#PWR25,#PWR27-28,#PWR30,#PWR33,#PWR44,J8,R35,R40",
+    "used_designators": "",
     "variants": [
       {
         "name": "ESP32-S3"
