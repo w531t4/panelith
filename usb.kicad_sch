@@ -28493,6 +28493,28 @@
 				)
 			)
 		)
+		(property "MPN" "640-USB4140-GF-0230C"
+			(at 35.56 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Digikey" "2073-USB4140-GF-0230-CCT-ND"
+			(at 35.56 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
 		(pin "MH4"
 			(uuid "1831c78e-f099-4c40-9ccc-bbb581954b94")
 		)
