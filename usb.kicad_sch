@@ -20803,7 +20803,7 @@
 				)
 			)
 		)
-		(property "MPN" "895-FT231XS-U"
+		(property "MPN" "895-FT231XS-R"
 			(at 144.78 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -21134,6 +21134,17 @@
 			)
 		)
 		(property "price200_FreelanceElec" ""
+			(at 144.78 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "MPN2" "895-FT231XS-U"
 			(at 144.78 86.36 0)
 			(hide yes)
 			(show_name no)
