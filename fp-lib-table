@@ -43,4 +43,5 @@
 	(lib (name "pts810") (type "KiCad") (uri "${KIPRJMOD}/footprints/pushbutton/pts810.pretty") (options "") (descr ""))
 	(lib (name "usb_c") (type "KiCad") (uri "${KIPRJMOD}/footprints/usb_c/usb-c.pretty") (options "") (descr ""))
 	(lib (name "hub75") (type "KiCad") (uri "${KIPRJMOD}/footprints/hub75/3020-16-0300-00.pretty") (options "") (descr ""))
+	(lib (name "kms221") (type "KiCad") (uri "${KIPRJMOD}/footprints/pushbutton/KMS221.pretty") (options "") (descr ""))
 )

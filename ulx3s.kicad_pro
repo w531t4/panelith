@@ -2092,7 +2092,7 @@
         "uuid": "49a43414-f3c1-43b2-ad20-ac3166075f21"
       }
     ],
-    "used_designators": "",
+    "used_designators": "SW1",
     "variants": [
       {
         "name": "ESP32-S3"
