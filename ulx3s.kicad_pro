@@ -83,10 +83,6 @@
       ],
       "drc_exclusions": [
         [
-          "starved_thermal|118990810|97375001|00000000-0000-0000-0000-0000618fcee5|dee28619-f8fa-4b43-a381-e79d92aef111|B.Cu",
-          "not enough space"
-        ],
-        [
           "starved_thermal|139930000|100720000|00000000-0000-0000-0000-0000618fcee5|6ba04a6d-34e9-41c1-a753-8623f4e8c755|F.Cu",
           "not fixable, not enough space"
         ],
