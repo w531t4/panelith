@@ -87,10 +87,6 @@
           "not enough space"
         ],
         [
-          "starved_thermal|121245000|94130000|00000000-0000-0000-0000-0000618fcee5|3fd98a22-b0e9-44ba-acfc-e91c20b2677a|F.Cu",
-          "not enough space"
-        ],
-        [
           "starved_thermal|139930000|100720000|00000000-0000-0000-0000-0000618fcee5|6ba04a6d-34e9-41c1-a753-8623f4e8c755|F.Cu",
           "not fixable, not enough space"
         ],
