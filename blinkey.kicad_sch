@@ -1049,6 +1049,28 @@
 			)
 		)
 	)
+	(global_label "FTDI_nSLEEP"
+		(shape input)
+		(at 143.51 116.84 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left)
+		)
+		(uuid "bb2687ed-05bb-43da-afed-a5cba48bf7d6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 143.51 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+	)
 	(global_label "JTAG_TMS"
 		(shape input)
 		(at 143.51 148.59 0)
@@ -5155,80 +5177,6 @@
 			(project "ulx3s"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6547c"
 					(reference "#PWR0122")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 143.51 116.84 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "bc0b456b-fad9-4815-8c56-cacad3caecb4")
-		(property "Reference" "#PWR082"
-			(at 139.7 116.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 147.066 116.84 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 143.51 116.84 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 143.51 116.84 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 143.51 116.84 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "e126de95-afc7-489b-9180-2d238097bf10")
-		)
-		(instances
-			(project "ulx3s"
-				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6547c"
-					(reference "#PWR082")
 					(unit 1)
 				)
 			)

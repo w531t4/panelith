@@ -18035,10 +18035,6 @@
 		(uuid "30af1c90-d38d-4291-b1dd-db5ab94ba6b3")
 	)
 	(no_connect
-		(at 162.56 101.6)
-		(uuid "6b0b3ed4-de58-493b-95da-b85881464ee5")
-	)
-	(no_connect
 		(at 257.81 69.85)
 		(uuid "a15c02b7-303e-460b-8bb6-fcc3a595db79")
 	)

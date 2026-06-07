@@ -96,135 +96,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Connector_Generic:Conn_01x01"
-			(pin_names
-				(offset 1.016)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "J"
-				(at 0 2.54 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "Conn_01x01"
-				(at 0 -2.54 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "connector"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_fp_filters" "Connector*:*_1x??_*"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "Conn_01x01_1_1"
-				(rectangle
-					(start -1.27 1.27)
-					(end 1.27 -1.27)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(rectangle
-					(start -1.27 0.127)
-					(end 0 -0.127)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -5.08 0 0)
-					(length 3.81)
-					(name "Pin_1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Mechanical:Fiducial"
 			(exclude_from_sim no)
 			(in_bom no)
@@ -321,33 +192,27 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "power:GND"
-			(power global)
-			(pin_numbers
-				(hide yes)
-			)
+		(symbol "Mechanical:MountingHole"
 			(pin_names
-				(offset 0)
-				(hide yes)
+				(offset 1.016)
 			)
 			(exclude_from_sim no)
-			(in_bom yes)
+			(in_bom no)
 			(on_board yes)
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "#PWR"
-				(at 0 -6.35 0)
+			(property "Reference" "H"
+				(at 0 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
 				)
 			)
-			(property "Value" "GND"
-				(at 0 -3.81 0)
+			(property "Value" "MountingHole"
+				(at 0 3.175 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
@@ -378,7 +243,7 @@
 					)
 				)
 			)
-			(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(property "Description" "Mounting Hole without connection"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -389,7 +254,7 @@
 					)
 				)
 			)
-			(property "ki_keywords" "global power"
+			(property "ki_keywords" "mounting hole"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -400,37 +265,27 @@
 					)
 				)
 			)
-			(symbol "GND_0_1"
-				(polyline
-					(pts
-						(xy 0 0) (xy 0 -1.27) (xy 1.27 -1.27) (xy 0 -2.54) (xy -1.27 -1.27) (xy 0 -1.27)
+			(property "ki_fp_filters" "MountingHole*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
 					)
+				)
+			)
+			(symbol "MountingHole_0_1"
+				(circle
+					(center 0 0)
+					(radius 1.27)
 					(stroke
-						(width 0)
+						(width 1.27)
 						(type default)
 					)
 					(fill
 						(type none)
-					)
-				)
-			)
-			(symbol "GND_1_1"
-				(pin power_in line
-					(at 0 0 270)
-					(length 0)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
 					)
 				)
 			)
@@ -559,18 +414,18 @@
 		(uuid "f7a79277-3eec-47e9-a19f-4c2f25f6869c")
 	)
 	(symbol
-		(lib_id "Connector_Generic:Conn_01x01")
+		(lib_id "Mechanical:MountingHole")
 		(at 80.01 161.29 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom no)
-		(on_board no)
-		(in_pos_files no)
+		(on_board yes)
+		(in_pos_files yes)
 		(dnp yes)
 		(uuid "00000000-0000-0000-0000-000058e6b981")
 		(property "Reference" "H1"
-			(at 77.47 161.29 0)
+			(at 74.93 161.29 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -579,7 +434,7 @@
 				)
 			)
 		)
-		(property "Value" "HOLE"
+		(property "Value" "HALFHOLE"
 			(at 80.01 158.75 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -589,7 +444,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Mounting_Holes:MountingHole_3.2mm_M3_ISO14580_Pad"
+		(property "Footprint" "Mounting_Holes:MountingHole_2.2mm_M2_custom_HALF"
 			(at 80.01 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -602,6 +457,7 @@
 		)
 		(property "Datasheet" ""
 			(at 80.01 161.29 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -610,8 +466,9 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Mounting Hole without connection"
 			(at 80.01 161.29 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -851,9 +708,6 @@
 				)
 			)
 		)
-		(pin "1"
-			(uuid "40211a0e-aa53-4a58-a0e7-eacb307c698c")
-		)
 		(instances
 			(project "ulx3s"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21"
@@ -861,24 +715,26 @@
 					(unit 1)
 					(variant
 						(name "ESP32-S3")
+						(on_board no)
+						(in_pos_files no)
 					)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "Connector_Generic:Conn_01x01")
+		(lib_id "Mechanical:MountingHole")
 		(at 107.95 161.29 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom no)
-		(on_board no)
-		(in_pos_files no)
+		(on_board yes)
+		(in_pos_files yes)
 		(dnp yes)
 		(uuid "00000000-0000-0000-0000-000058e6bace")
 		(property "Reference" "H2"
-			(at 105.41 161.29 0)
+			(at 102.87 161.29 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -887,7 +743,7 @@
 				)
 			)
 		)
-		(property "Value" "HOLE"
+		(property "Value" "HALFHOLE"
 			(at 107.95 158.75 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -897,7 +753,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Mounting_Holes:MountingHole_3.2mm_M3_ISO14580_Pad"
+		(property "Footprint" "Mounting_Holes:MountingHole_2.2mm_M2_custom_HALF"
 			(at 107.95 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -910,6 +766,7 @@
 		)
 		(property "Datasheet" ""
 			(at 107.95 161.29 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -918,8 +775,9 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Mounting Hole without connection"
 			(at 107.95 161.29 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1159,9 +1017,6 @@
 				)
 			)
 		)
-		(pin "1"
-			(uuid "c595ffe9-e22b-4d17-b910-17c7142dcc93")
-		)
 		(instances
 			(project "ulx3s"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21"
@@ -1169,24 +1024,26 @@
 					(unit 1)
 					(variant
 						(name "ESP32-S3")
+						(on_board no)
+						(in_pos_files no)
 					)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "Connector_Generic:Conn_01x01")
+		(lib_id "Mechanical:MountingHole")
 		(at 107.95 143.51 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom no)
-		(on_board no)
-		(in_pos_files no)
+		(on_board yes)
+		(in_pos_files yes)
 		(dnp yes)
 		(uuid "00000000-0000-0000-0000-000058e6baef")
 		(property "Reference" "H3"
-			(at 105.41 143.51 0)
+			(at 102.87 143.51 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1195,7 +1052,7 @@
 				)
 			)
 		)
-		(property "Value" "HOLE"
+		(property "Value" "HALFHOLE"
 			(at 107.95 140.97 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1205,7 +1062,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Mounting_Holes:MountingHole_3.2mm_M3_ISO14580_Pad"
+		(property "Footprint" "Mounting_Holes:MountingHole_2.2mm_M2_custom_HALF"
 			(at 107.95 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -1218,6 +1075,7 @@
 		)
 		(property "Datasheet" ""
 			(at 107.95 143.51 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1226,8 +1084,9 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Mounting Hole without connection"
 			(at 107.95 143.51 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1467,9 +1326,6 @@
 				)
 			)
 		)
-		(pin "1"
-			(uuid "9de0171d-88ee-43d3-a47b-bcbde192bff5")
-		)
 		(instances
 			(project "ulx3s"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21"
@@ -1477,24 +1333,26 @@
 					(unit 1)
 					(variant
 						(name "ESP32-S3")
+						(on_board no)
+						(in_pos_files no)
 					)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "Connector_Generic:Conn_01x01")
-		(at 80.01 143.51 90)
+		(lib_id "Mechanical:MountingHole")
+		(at 93.98 153.67 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom no)
-		(on_board no)
-		(in_pos_files no)
+		(on_board yes)
+		(in_pos_files yes)
 		(dnp yes)
 		(uuid "00000000-0000-0000-0000-000058e6bbe9")
 		(property "Reference" "H4"
-			(at 77.47 143.51 0)
+			(at 88.9 153.67 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1504,7 +1362,7 @@
 			)
 		)
 		(property "Value" "HOLE"
-			(at 80.01 140.97 90)
+			(at 93.98 151.13 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1513,8 +1371,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Mounting_Holes:MountingHole_3.2mm_M3_ISO14580_Pad"
-			(at 80.01 143.51 0)
+		(property "Footprint" "Mounting_Holes:MountingHole_2.2mm_M2_custom"
+			(at 93.98 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1525,7 +1383,8 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 80.01 143.51 0)
+			(at 93.98 153.67 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1534,8 +1393,9 @@
 				)
 			)
 		)
-		(property "Description" ""
-			(at 80.01 143.51 0)
+		(property "Description" "Mounting Hole without connection"
+			(at 93.98 153.67 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1545,7 +1405,7 @@
 			)
 		)
 		(property "Note" ""
-			(at 80.01 143.51 0)
+			(at 93.98 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1556,7 +1416,7 @@
 			)
 		)
 		(property "Arrow" ""
-			(at 80.01 143.51 0)
+			(at 93.98 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1567,7 +1427,7 @@
 			)
 		)
 		(property "DatasheetLC" ""
-			(at 80.01 143.51 0)
+			(at 93.98 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1578,7 +1438,7 @@
 			)
 		)
 		(property "LCS_C2" ""
-			(at 80.01 143.51 0)
+			(at 93.98 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1589,7 +1449,7 @@
 			)
 		)
 		(property "MP_N4" ""
-			(at 80.01 143.51 0)
+			(at 93.98 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1600,7 +1460,7 @@
 			)
 		)
 		(property "MP_N5" ""
-			(at 80.01 143.51 0)
+			(at 93.98 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1611,7 +1471,7 @@
 			)
 		)
 		(property "Vertical" ""
-			(at 80.01 143.51 0)
+			(at 93.98 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1622,7 +1482,7 @@
 			)
 		)
 		(property "price100_Mouser" ""
-			(at 80.01 143.51 0)
+			(at 93.98 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1633,7 +1493,7 @@
 			)
 		)
 		(property "price1200_Chip1stop" ""
-			(at 80.01 143.51 0)
+			(at 93.98 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1644,7 +1504,7 @@
 			)
 		)
 		(property "price300_LCSC" ""
-			(at 80.01 143.51 0)
+			(at 93.98 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1655,7 +1515,7 @@
 			)
 		)
 		(property "price300_Vertical" ""
-			(at 80.01 143.51 0)
+			(at 93.98 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1666,7 +1526,7 @@
 			)
 		)
 		(property "price_Arrow" ""
-			(at 80.01 143.51 0)
+			(at 93.98 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1677,7 +1537,7 @@
 			)
 		)
 		(property "price100_Digikey" ""
-			(at 80.01 143.51 0)
+			(at 93.98 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1688,7 +1548,7 @@
 			)
 		)
 		(property "price200_Mouser" ""
-			(at 80.01 143.51 0)
+			(at 93.98 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1699,7 +1559,7 @@
 			)
 		)
 		(property "price700_LCSC" ""
-			(at 80.01 143.51 0)
+			(at 93.98 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1710,7 +1570,7 @@
 			)
 		)
 		(property "Check_prices" ""
-			(at 80.01 143.51 0)
+			(at 93.98 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1721,7 +1581,7 @@
 			)
 		)
 		(property "Digikey2" ""
-			(at 80.01 143.51 0)
+			(at 93.98 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1732,7 +1592,7 @@
 			)
 		)
 		(property "FreelanceElec" ""
-			(at 80.01 143.51 0)
+			(at 93.98 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1743,7 +1603,7 @@
 			)
 		)
 		(property "MF" ""
-			(at 80.01 143.51 0)
+			(at 93.98 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1754,7 +1614,7 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
-			(at 80.01 143.51 0)
+			(at 93.98 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1765,7 +1625,7 @@
 			)
 		)
 		(property "price100_Mouse" ""
-			(at 80.01 143.51 0)
+			(at 93.98 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1776,7 +1636,7 @@
 			)
 		)
 		(property "price200_FreelanceElec" ""
-			(at 80.01 143.51 0)
+			(at 93.98 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1786,9 +1646,6 @@
 				)
 			)
 		)
-		(pin "1"
-			(uuid "79d0f2ee-8750-4da6-a5a8-81f8e49e025f")
-		)
 		(instances
 			(project "ulx3s"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21"
@@ -1796,303 +1653,9 @@
 					(unit 1)
 					(variant
 						(name "ESP32-S3")
+						(on_board no)
+						(in_pos_files no)
 					)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 80.01 166.37 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-000058e6bc0e")
-		(property "Reference" "#PWR02"
-			(at 80.01 172.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 80.01 170.18 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 80.01 166.37 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 80.01 166.37 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 80.01 166.37 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "5b388408-1b67-44a7-97fa-b11d06bc0f89")
-		)
-		(instances
-			(project "ulx3s"
-				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21"
-					(reference "#PWR02")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 107.95 166.37 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-000058e6bc2e")
-		(property "Reference" "#PWR04"
-			(at 107.95 172.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 107.95 170.18 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 107.95 166.37 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 107.95 166.37 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 107.95 166.37 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "a63e94de-3f50-455f-976c-3fe0147f03c8")
-		)
-		(instances
-			(project "ulx3s"
-				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21"
-					(reference "#PWR04")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 107.95 148.59 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-000058e6bc56")
-		(property "Reference" "#PWR03"
-			(at 107.95 154.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 107.95 152.4 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 107.95 148.59 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 107.95 148.59 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 107.95 148.59 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "b941c43e-1723-4cec-9f49-6d2778ce0fa3")
-		)
-		(instances
-			(project "ulx3s"
-				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21"
-					(reference "#PWR03")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 80.01 148.59 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-000058e6bc72")
-		(property "Reference" "#PWR01"
-			(at 80.01 154.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 80.01 152.4 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 80.01 148.59 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 80.01 148.59 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 80.01 148.59 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "017fa074-2feb-46ce-b0c3-d1530a5de851")
-		)
-		(instances
-			(project "ulx3s"
-				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21"
-					(reference "#PWR01")
-					(unit 1)
 				)
 			)
 		)
