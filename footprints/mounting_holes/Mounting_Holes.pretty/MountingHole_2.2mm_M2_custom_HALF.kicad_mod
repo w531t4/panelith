@@ -8,7 +8,7 @@
 	(property "Reference" "REF**"
 		(at 0 -3.15 0)
 		(layer "F.SilkS")
-		(uuid "580df183-9085-43aa-b7a1-28201bda5b0a")
+		(uuid "3d871584-6632-402b-ad16-f663ed0b8c07")
 		(effects
 			(font
 				(size 1 1)
@@ -19,7 +19,7 @@
 	(property "Value" "MountingHole_2.2mm_M2_custom_HALF"
 		(at 0 3.15 0)
 		(layer "F.Fab")
-		(uuid "e1710f3e-8ddd-4648-bfd8-0d924737c4b2")
+		(uuid "5e00a997-74b8-479a-b514-a8a55ad6b2ad")
 		(effects
 			(font
 				(size 1 1)
@@ -31,7 +31,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "1557ec2a-52df-436e-9546-c6c51c60cb06")
+		(uuid "eaf536ec-7275-4b2c-8dd4-40fbf51ab30a")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -42,7 +42,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "0ee99b33-bdd6-42eb-bf71-49f09ccca2bc")
+		(uuid "803e1696-5950-4645-b263-80120bc7980c")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -53,7 +53,7 @@
 		(at 0 0 0)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "0d2b1f25-8944-4d77-96b0-f7f2ca9eedde")
+		(uuid "8b3e9f77-8938-464e-8146-3532660c7b31")
 		(effects
 			(font
 				(size 1 1)
@@ -63,27 +63,43 @@
 	)
 	(attr exclude_from_pos_files exclude_from_bom)
 	(duplicate_pad_numbers_are_jumpers no)
-	(fp_circle
-		(center 0 0)
+	(fp_arc
+		(start -2.2 0)
+		(mid 0 -2.2)
 		(end 2.2 0)
 		(stroke
 			(width 0.15)
 			(type solid)
 		)
-		(fill no)
 		(layer "F.SilkS")
-		(uuid "9f5ca0d9-6457-4faf-8997-fe99377536d1")
+		(uuid "a023fdc7-f11a-43ab-b23f-c73fee0ce6d2")
 	)
-	(fp_circle
-		(center 0 0)
+	(fp_arc
+		(start -2.2 0)
+		(mid 0 -2.2)
 		(end 2.2 0)
 		(stroke
 			(width 0.15)
 			(type solid)
 		)
-		(fill no)
 		(layer "Cmts.User")
-		(uuid "47cdbe62-6956-4dec-b9f0-ec2ba570ceb0")
+		(uuid "b05cb55d-44fe-451c-8d83-445b04d91acd")
+	)
+	(fp_poly
+		(pts
+			(arc
+				(start -1.1 0)
+				(mid 0 -1.1)
+				(end 1.1 0)
+			)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "Cmts.User")
+		(uuid "cf7ca8b0-c414-4250-9052-1adbf67b7479")
 	)
 	(fp_line
 		(start 0 4.5)
@@ -93,7 +109,7 @@
 			(type solid)
 		)
 		(layer "Eco2.User")
-		(uuid "0bc467d9-f0f9-4050-9837-762782a9514b")
+		(uuid "c9844857-6890-4716-9646-98232c8f69da")
 	)
 	(fp_line
 		(start 0 4.5)
@@ -103,7 +119,7 @@
 			(type solid)
 		)
 		(layer "Eco2.User")
-		(uuid "097714fc-cb78-4999-8d94-37292de84cfe")
+		(uuid "27b647f8-78b9-45c7-8415-aaa5e69faa4a")
 	)
 	(fp_line
 		(start 0 8.5)
@@ -113,7 +129,7 @@
 			(type solid)
 		)
 		(layer "Eco2.User")
-		(uuid "a1293949-3ca7-4c91-8858-fec82d8fce04")
+		(uuid "28fca908-68cd-4d97-afff-1bff568898b6")
 	)
 	(fp_circle
 		(center 0 0)
@@ -124,12 +140,12 @@
 		)
 		(fill no)
 		(layer "F.CrtYd")
-		(uuid "8f710cbc-1e92-499e-95a8-14b3f6a33cdb")
+		(uuid "f6fd69c1-a71e-402a-9e8d-0dab367b2613")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 0 0)
 		(layer "F.Fab")
-		(uuid "2bc231fe-c52a-4d02-b9dd-0301548e4f34")
+		(uuid "bc40505d-821b-42db-bdf4-6c3c4aaa422d")
 		(effects
 			(font
 				(size 1 1)
@@ -137,12 +153,12 @@
 			)
 		)
 	)
-	(fp_text_box "NPTH hole intersecting board edge is \nintentional mechanical screw notch. \nNo plating required."
+	(fp_text_box "Intentional mechanical screw notch. \nNo plating required."
 		(start -17.265 9.33)
 		(end 17.805 16.84)
 		(margins 1.0025 1.0025 1.0025 1.0025)
 		(layer "Eco2.User")
-		(uuid "307cd87a-b4a0-4ecd-9d3a-75ab07296eb2")
+		(uuid "470c1d25-45a7-420c-b4c8-737111cea4be")
 		(effects
 			(font
 				(size 1 1)
@@ -157,13 +173,6 @@
 		)
 		(knockout no)
 	)
-	(pad "" np_thru_hole circle
-		(at 0 0)
-		(size 2.2 2.2)
-		(drill 2.2)
-		(layers "*.Cu" "*.Mask")
-		(uuid "a93cbf00-cc0c-484e-99af-9c5b6d445bd6")
-	)
 	(zone
 		(layers "F.Cu" "B.Cu" "In1.Cu" "In2.Cu" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu"
 			"In7.Cu" "In8.Cu" "In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu"
@@ -171,7 +180,7 @@
 			"In22.Cu" "In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu"
 			"In29.Cu" "In30.Cu"
 		)
-		(uuid "90a7d316-68ee-4d5c-8713-14c321343254")
+		(uuid "3e6a6c68-7bb0-4827-8980-1cc90ccd8282")
 		(name "screw-copper-keepout")
 		(hatch edge 0.5)
 		(connect_pads
