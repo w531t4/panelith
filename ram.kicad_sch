@@ -11495,7 +11495,7 @@
 			(uuid "9e20fef3-247e-45ce-8b47-ee28d1c5f00c")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6d507"
 					(reference "#PWR0124")
 					(unit 1)
@@ -11569,7 +11569,7 @@
 			(uuid "6d3ada33-14ad-4514-8898-ce2bd4127406")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6d507"
 					(reference "#PWR0128")
 					(unit 1)
@@ -11643,7 +11643,7 @@
 			(uuid "d5bdc2df-21c9-4cb4-960d-475125c74353")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6d507"
 					(reference "#PWR0125")
 					(unit 1)
@@ -11717,7 +11717,7 @@
 			(uuid "16c2406c-fb50-44e4-8dd1-6b53221a9973")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6d507"
 					(reference "#PWR0129")
 					(unit 1)
@@ -12060,7 +12060,7 @@
 			(uuid "628f54b2-7612-475b-ba8a-f16f0da0f6ab")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6d507"
 					(reference "C16")
 					(unit 1)
@@ -12137,7 +12137,7 @@
 			(uuid "187bc496-76ff-46fc-ad4a-f6dfd560c37e")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6d507"
 					(reference "#PWR0127")
 					(unit 1)
@@ -12211,7 +12211,7 @@
 			(uuid "bc73795e-472a-4e33-9174-1216277b99b1")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6d507"
 					(reference "#PWR0126")
 					(unit 1)
@@ -12997,7 +12997,7 @@
 			(uuid "8f17d148-b7a0-44d1-88b7-806243057753")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6d507"
 					(reference "U2")
 					(unit 1)
@@ -14473,7 +14473,7 @@
 			(uuid "6a400ec9-ee4e-49a7-b867-2ccdf18901e0")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6d507"
 					(reference "U1")
 					(unit 3)
@@ -15949,7 +15949,7 @@
 			(uuid "eeebd6bb-cc06-4575-bc59-abca0947d606")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6d507"
 					(reference "U1")
 					(unit 4)
@@ -16295,7 +16295,7 @@
 			(uuid "b498a668-e24b-44b7-ba5d-921e55d62605")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6d507"
 					(reference "C33")
 					(unit 1)
@@ -16372,7 +16372,7 @@
 			(uuid "f1a0d197-1af8-48bb-b9cf-f4837559c2ea")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6d507"
 					(reference "#PWR0131")
 					(unit 1)
@@ -16446,7 +16446,7 @@
 			(uuid "b7b9c3b0-1e44-43e1-b515-fbd8c996f4e4")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6d507"
 					(reference "#PWR0130")
 					(unit 1)
@@ -16789,7 +16789,7 @@
 			(uuid "f3da12a4-d663-4437-99bb-8a4cf56f7b74")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6d507"
 					(reference "C34")
 					(unit 1)
@@ -16866,7 +16866,7 @@
 			(uuid "47b8df14-c6b9-41e3-9a1f-ab02b2a1bad4")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6d507"
 					(reference "#PWR0133")
 					(unit 1)
@@ -16940,7 +16940,7 @@
 			(uuid "64d8930b-ef52-4214-a899-fc4ea654fd09")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6d507"
 					(reference "#PWR0132")
 					(unit 1)
@@ -17283,7 +17283,7 @@
 			(uuid "8d67e3b5-c0b1-42e3-a298-e1ee39c905b7")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6d507"
 					(reference "C35")
 					(unit 1)
@@ -17360,7 +17360,7 @@
 			(uuid "252ee73d-12c9-4baa-9686-7905cf049089")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6d507"
 					(reference "#PWR0135")
 					(unit 1)
@@ -17434,7 +17434,7 @@
 			(uuid "ede2d284-6c77-429c-ab4b-fff79a729f9e")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6d507"
 					(reference "#PWR0134")
 					(unit 1)
@@ -17777,7 +17777,7 @@
 			(uuid "fcf77cec-61d1-4e8b-af24-1064bf7f6f83")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6d507"
 					(reference "C52")
 					(unit 1)
@@ -17854,7 +17854,7 @@
 			(uuid "c108f2b0-c788-4537-986f-4b62ea7c2dfd")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6d507"
 					(reference "#PWR0137")
 					(unit 1)
@@ -17928,7 +17928,7 @@
 			(uuid "c782f9e3-e10a-446d-a89b-e7beacdf9c23")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6d507"
 					(reference "#PWR0136")
 					(unit 1)

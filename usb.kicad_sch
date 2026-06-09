@@ -16524,6 +16524,288 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "panelith-rescue:FNETHE025"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "Y"
+				(at 3.175 5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "FNETHE025"
+				(at 3.175 3.175 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Four pin crystal, GND on pins 2 and 4"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property private "KLC_S3.3" "The rectangle is not a symbol body but a graphical element"
+				(at 0 -12.7 0)
+				(show_name yes)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property private "KLC_S4.1" "Some pins are on 50mil grid to make the symbol small"
+				(at 0 -15.24 0)
+				(show_name yes)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "quartz ceramic resonator oscillator"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "Crystal*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "FNETHE025_0_1"
+				(polyline
+					(pts
+						(xy -2.54 0) (xy -2.032 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.032 -1.27) (xy -2.032 1.27)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -3.81) (xy 0 -3.556)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.032 0) (xy 2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.032 -1.27) (xy 2.032 1.27)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "FNETHE025_1_1"
+				(polyline
+					(pts
+						(xy -2.54 2.286) (xy -2.54 3.556) (xy 2.54 3.556) (xy 2.54 2.286)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 -2.286) (xy -2.54 -3.556) (xy 2.54 -3.556) (xy 2.54 -2.286)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.143 2.54)
+					(end 1.143 -2.54)
+					(stroke
+						(width 0.3048)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -3.81 0 0)
+					(length 1.27)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 -5.08 90)
+					(length 1.27)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 3.81 0 180)
+					(length 1.27)
+					(name "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 5.08 270)
+					(length 1.27)
+					(name "VDD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "power:+3V3"
 			(power global)
 			(pin_numbers
@@ -17027,288 +17309,6 @@
 					)
 					(fill
 						(type none)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "ulx3s-rescue:FNETHE025"
-			(pin_names
-				(offset 1.016)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "Y"
-				(at 3.175 5.08 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "FNETHE025"
-				(at 3.175 3.175 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "Four pin crystal, GND on pins 2 and 4"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property private "KLC_S3.3" "The rectangle is not a symbol body but a graphical element"
-				(at 0 -12.7 0)
-				(show_name yes)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property private "KLC_S4.1" "Some pins are on 50mil grid to make the symbol small"
-				(at 0 -15.24 0)
-				(show_name yes)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "quartz ceramic resonator oscillator"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_fp_filters" "Crystal*"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "FNETHE025_0_1"
-				(polyline
-					(pts
-						(xy -2.54 0) (xy -2.032 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.032 -1.27) (xy -2.032 1.27)
-					)
-					(stroke
-						(width 0.508)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -3.81) (xy 0 -3.556)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.032 0) (xy 2.54 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.032 -1.27) (xy 2.032 1.27)
-					)
-					(stroke
-						(width 0.508)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "FNETHE025_1_1"
-				(polyline
-					(pts
-						(xy -2.54 2.286) (xy -2.54 3.556) (xy 2.54 3.556) (xy 2.54 2.286)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 -2.286) (xy -2.54 -3.556) (xy 2.54 -3.556) (xy 2.54 -2.286)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.143 2.54)
-					(end 1.143 -2.54)
-					(stroke
-						(width 0.3048)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -3.81 0 0)
-					(length 1.27)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 0 -5.08 90)
-					(length 1.27)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 3.81 0 180)
-					(length 1.27)
-					(name "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 0 5.08 270)
-					(length 1.27)
-					(name "VDD"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
 					)
 				)
 			)
@@ -20563,7 +20563,7 @@
 			(uuid "81c86687-4ef7-4844-9f02-573ca879ce3d")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6bf46"
 					(reference "D8")
 					(unit 1)
@@ -20640,7 +20640,7 @@
 			(uuid "065f7eed-2698-4b4f-9718-6d54c49458fa")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6bf46"
 					(reference "#PWR0107")
 					(unit 1)
@@ -20714,7 +20714,7 @@
 			(uuid "c63a7981-a21c-4fa9-943b-81a372aa3358")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6bf46"
 					(reference "#PWR0111")
 					(unit 1)
@@ -21212,7 +21212,7 @@
 			(uuid "626b80fb-5cea-48fb-a036-fb6cf9591d76")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6bf46"
 					(reference "U6")
 					(unit 1)
@@ -21644,7 +21644,7 @@
 			(uuid "320a3518-b1f4-409f-a84f-846cd0c88379")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6bf46"
 					(reference "R9")
 					(unit 1)
@@ -21989,7 +21989,7 @@
 			(uuid "50e0a67e-a81a-4a34-a295-a17aeeb448b9")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6bf46"
 					(reference "J4")
 					(unit 1)
@@ -22066,7 +22066,7 @@
 			(uuid "cb5ae6d5-980d-4050-9f59-e7571349b399")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6bf46"
 					(reference "#PWR0113")
 					(unit 1)
@@ -22140,7 +22140,7 @@
 			(uuid "6f396788-553e-43cb-8551-22a7dc3c052e")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6bf46"
 					(reference "#PWR0114")
 					(unit 1)
@@ -22525,7 +22525,7 @@
 			(uuid "b17a427f-4ea4-4b9e-a0a8-8ac270b02225")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6bf46"
 					(reference "R49")
 					(unit 1)
@@ -22880,7 +22880,7 @@
 			(uuid "9397485a-bf53-41d5-9a0a-238f0095c4ac")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6bf46"
 					(reference "R50")
 					(unit 1)
@@ -22892,7 +22892,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ulx3s-rescue:FNETHE025")
+		(lib_id "panelith-rescue:FNETHE025")
 		(at 138.43 36.83 0)
 		(unit 1)
 		(body_style 1)
@@ -22903,7 +22903,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005a079883")
 		(property "Reference" "Y1"
-			(at 141.986 41.91 0)
+			(at 141.605 31.75 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22946,7 +22946,7 @@
 				)
 			)
 		)
-		(property "Description" "Four pin crystal"
+		(property "Description" "Four pin crystal, GND on pins 2 and 4"
 			(at 138.43 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -23135,7 +23135,7 @@
 			(uuid "f963f927-f988-45af-8c7c-3019e65b8e48")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6bf46"
 					(reference "Y1")
 					(unit 1)
@@ -24612,7 +24612,7 @@
 			(uuid "9ec06b4a-1ae8-435f-96e0-663ab1fb931c")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6bf46"
 					(reference "U1")
 					(unit 5)
@@ -26089,7 +26089,7 @@
 			(uuid "d821467d-1563-4dac-86d6-3e3b051eee32")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6bf46"
 					(reference "U1")
 					(unit 10)
@@ -26168,7 +26168,7 @@
 			(uuid "bf2a8911-e077-4ea0-a8ed-b46204c0a63b")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6bf46"
 					(reference "#PWR0110")
 					(unit 1)
@@ -26244,7 +26244,7 @@
 			(uuid "32c74a92-ea18-41a4-956b-605f55381170")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6bf46"
 					(reference "#PWR0109")
 					(unit 1)
@@ -26318,7 +26318,7 @@
 			(uuid "d24b3d05-7677-4a20-b57d-405437bd8e47")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6bf46"
 					(reference "#PWR0105")
 					(unit 1)
@@ -26396,7 +26396,7 @@
 			(uuid "1364ebb8-78f3-4011-a18d-1be3bb04da02")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6bf46"
 					(reference "#FLG02")
 					(unit 1)
@@ -26749,7 +26749,7 @@
 			(uuid "1099b20c-06b8-4306-8108-2854b2d3c503")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6bf46"
 					(reference "R53")
 					(unit 1)
@@ -26908,7 +26908,7 @@
 			(uuid "db9d055f-65a2-4f2a-97a8-bdfaaec71b1c")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6bf46"
 					(reference "TP2")
 					(unit 1)
@@ -27320,7 +27320,7 @@
 			(uuid "c916523a-7915-4696-bac0-c465b2bd5b37")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6bf46"
 					(reference "D9")
 					(unit 1)
@@ -27397,7 +27397,7 @@
 			(uuid "1c85aa62-f50d-4c18-a2be-059d289899d5")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6bf46"
 					(reference "#PWR0108")
 					(unit 1)
@@ -27471,7 +27471,7 @@
 			(uuid "89aecfbb-4bb8-489a-bd1c-01ed20d81605")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6bf46"
 					(reference "#PWR0121")
 					(unit 1)
@@ -27545,7 +27545,7 @@
 			(uuid "962b947a-2b89-4b2f-b35a-9302dc265285")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6bf46"
 					(reference "#PWR0123")
 					(unit 1)
@@ -27624,7 +27624,7 @@
 			(uuid "042c74ba-e3c7-477a-85a4-89180f0c204d")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6bf46"
 					(reference "#FLG01")
 					(unit 1)
@@ -27853,7 +27853,7 @@
 			(uuid "c1e0f48c-3764-46d1-a774-47fc725e9525")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6bf46"
 					(reference "US1")
 					(unit 1)
@@ -27930,7 +27930,7 @@
 			(uuid "2fee09f8-04a3-4ac4-8026-d1258881b23b")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6bf46"
 					(reference "#PWR0106")
 					(unit 1)
@@ -28283,7 +28283,7 @@
 			(uuid "6f6168ff-914f-40b3-8c30-6212085b97de")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6bf46"
 					(reference "R51")
 					(unit 1)
@@ -28553,7 +28553,7 @@
 			(uuid "4a69cc8e-a569-4fd0-b23f-85ca85e1975e")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6bf46"
 					(reference "US2")
 					(unit 1)
@@ -28630,7 +28630,7 @@
 			(uuid "7384882e-fbb3-4e0b-9106-db0ee9b3a7ea")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6bf46"
 					(reference "#PWR0139")
 					(unit 1)
@@ -28786,7 +28786,7 @@
 			(uuid "089238eb-0331-4cbc-8c82-fef7031a4a9c")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6bf46"
 					(reference "TP3")
 					(unit 1)
@@ -28863,7 +28863,7 @@
 			(uuid "2303361d-358f-4a04-af4f-3f47140ef88d")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6bf46"
 					(reference "#PWR0116")
 					(unit 1)
@@ -28937,7 +28937,7 @@
 			(uuid "9a7d3b17-f421-47db-a734-08ce891f09f6")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6bf46"
 					(reference "#PWR0120")
 					(unit 1)
@@ -29093,7 +29093,7 @@
 			(uuid "feb822f7-d493-46b7-a48e-d2f54259252e")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6bf46"
 					(reference "TP1")
 					(unit 1)
@@ -29482,7 +29482,7 @@
 			(uuid "143c01c2-c28c-4110-b920-a4281816038f")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6bf46"
 					(reference "R52")
 					(unit 1)
@@ -29559,7 +29559,7 @@
 			(uuid "e1515dd2-b59b-44fb-a6ed-dd1899c187ab")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6bf46"
 					(reference "#PWR0138")
 					(unit 1)
@@ -29633,7 +29633,7 @@
 			(uuid "dd7c1d02-db5c-41e6-9b41-fa2eb1d442bd")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6bf46"
 					(reference "#PWR0115")
 					(unit 1)
@@ -29707,7 +29707,7 @@
 			(uuid "9735e09f-9b01-4173-a50b-69d8b36dfd0b")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6bf46"
 					(reference "#PWR0103")
 					(unit 1)
@@ -30093,7 +30093,7 @@
 			(uuid "49580fda-0187-41ba-8bd9-cd31d097c9e3")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d6bf46"
 					(reference "R54")
 					(unit 1)

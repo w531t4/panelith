@@ -9461,7 +9461,7 @@
 			(uuid "ec1b59af-0984-4eaf-80c4-669be3cc277f")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058da7327"
 					(reference "U1")
 					(unit 8)
@@ -9538,7 +9538,7 @@
 			(uuid "1aab8c1b-7eaa-461e-9d42-950327577389")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058da7327"
 					(reference "#PWR0149")
 					(unit 1)
@@ -9612,7 +9612,7 @@
 			(uuid "60e3568b-664c-463c-96d8-e990909c7594")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058da7327"
 					(reference "#PWR0148")
 					(unit 1)
@@ -9686,7 +9686,7 @@
 			(uuid "59fdd43b-db17-4b22-ae19-1d8cc77aee07")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058da7327"
 					(reference "#PWR0150")
 					(unit 1)
@@ -9760,7 +9760,7 @@
 			(uuid "520cbd33-d12a-4de5-8483-9aba355cbb86")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058da7327"
 					(reference "#PWR0169")
 					(unit 1)
@@ -9834,7 +9834,7 @@
 			(uuid "53c0dd37-bb99-4fb7-9256-aaf326b359df")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058da7327"
 					(reference "#PWR0172")
 					(unit 1)
@@ -9908,7 +9908,7 @@
 			(uuid "dab1ecb3-d060-4e97-b8b0-4f9ccf0f7d8a")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058da7327"
 					(reference "#PWR0170")
 					(unit 1)
@@ -9982,7 +9982,7 @@
 			(uuid "17ebff1c-6038-4b6c-b5ab-318f89f20433")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058da7327"
 					(reference "#PWR0168")
 					(unit 1)
@@ -10056,7 +10056,7 @@
 			(uuid "e5ce60c9-849c-4de2-a7b1-46918098e60c")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058da7327"
 					(reference "#PWR0171")
 					(unit 1)

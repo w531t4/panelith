@@ -9622,7 +9622,7 @@
 			(uuid "434d2987-7d98-442f-9173-dd4a453f2ab3")
 		)
 		(instances
-			(project "ulx3s"
+			(project "panelith"
 				(path "/49a43414-f3c1-43b2-ad20-ac3166075f21/00000000-0000-0000-0000-000058d686d9"
 					(reference "U1")
 					(unit 2)

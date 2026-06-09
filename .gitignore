@@ -1,15 +1,15 @@
 *~
 # intermediate generate netlist file
-ulx3s.net
+panelith.net
 # intermediate files of the freeroute
-ulx3s.dsn
-ulx3s.bin
-ulx3s.ses
-ulx3s.rules
+panelith.dsn
+panelith.bin
+panelith.ses
+panelith.rules
 
 *.bak
 *.lck
-/ulx3s-backups
-/ulx3s.kicad_prl
+/panelith-backups
+/panelith.kicad_prl
 /.history
 /.history_trim
