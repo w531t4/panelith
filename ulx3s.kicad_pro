@@ -588,9 +588,9 @@
       {
         "bus_width": 12,
         "clearance": 0.09,
-        "diff_pair_gap": 0.25,
+        "diff_pair_gap": 0.0,
         "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.2,
+        "diff_pair_width": 0.0,
         "line_style": 0,
         "microvia_diameter": 0.4572,
         "microvia_drill": 0.254,
@@ -2043,8 +2043,8 @@
       "group_symbols": true,
       "include_excluded_from_bom": false,
       "name": "",
-      "sort_asc": true,
-      "sort_field": "Reference"
+      "sort_asc": false,
+      "sort_field": "${QUANTITY}"
     },
     "bus_aliases": {},
     "connection_grid_size": 50.0,
@@ -2096,7 +2096,7 @@
         "uuid": "49a43414-f3c1-43b2-ad20-ac3166075f21"
       }
     ],
-    "used_designators": "SW1",
+    "used_designators": "RN1,SW1",
     "variants": [
       {
         "name": "ESP32-S3"
